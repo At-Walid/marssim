@@ -1,0 +1,5 @@
+﻿# Minimal ignores (optional)
+Thumbs.db
+.DS_Store
+
+Mars/Content/Paks/*.pak

@@ -1,0 +1,1701 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FGenericCrashContext>
+<RuntimeProperties>
+<CrashVersion>3</CrashVersion>
+<ExecutionGuid>56805DA14BDC1FA8391E65A9216A7A9D</ExecutionGuid>
+<CrashGUID>UE4CC-Windows-81DE93774A854DCAE210919589CC2044_0000</CrashGUID>
+<IsEnsure>false</IsEnsure>
+<IsAssert>false</IsAssert>
+<CrashType>GPUCrash</CrashType>
+<ErrorMessage>Fatal error: [File:D:/Build/++UE4/Sync/Engine/Source/Runtime/Windows/D3D11RHI/Private/D3D11Util.cpp] [Line: 198] 
+Unreal Engine is exiting due to D3D device being lost. (Error: 0x887A0005 - &apos;REMOVED&apos;)
+
+
+</ErrorMessage>
+<CrashReporterMessage></CrashReporterMessage>
+<ProcessId>8656</ProcessId>
+<SecondsSinceStart>6044</SecondsSinceStart>
+<IsInternalBuild>false</IsInternalBuild>
+<IsPerforceBuild>false</IsPerforceBuild>
+<IsSourceDistribution>false</IsSourceDistribution>
+<GameName>UE4-Mars</GameName>
+<ExecutableName>Mars</ExecutableName>
+<BuildConfiguration>Development</BuildConfiguration>
+<GameSessionID></GameSessionID>
+<Symbols>**UE4*Release-4.27-CL-18319896-Win64-Development</Symbols>
+<PlatformName>WindowsNoEditor</PlatformName>
+<PlatformNameIni>Windows</PlatformNameIni>
+<EngineMode>Game</EngineMode>
+<EngineModeEx>Unset</EngineModeEx>
+<DeploymentName></DeploymentName>
+<EngineVersion>4.27.2-18319896+++UE4+Release-4.27</EngineVersion>
+<CommandLine> Mars --settings ./settings.json</CommandLine>
+<LanguageLCID>0</LanguageLCID>
+<AppDefaultLocale>en-US</AppDefaultLocale>
+<BuildVersion>++UE4+Release-4.27-CL-18319896</BuildVersion>
+<IsUE4Release>false</IsUE4Release>
+<IsRequestingExit>false</IsRequestingExit>
+<UserName></UserName>
+<BaseDir>D:/MarsEnv2/WindowsNoEditor/Mars/Binaries/Win64/</BaseDir>
+<RootDir>D:/MarsEnv2/WindowsNoEditor/</RootDir>
+<MachineId>E72A085E4EC23413117849A182456C56</MachineId>
+<LoginId>e72a085e4ec23413117849a182456c56</LoginId>
+<EpicAccountId>282a8deeb7f644d3aee572c3568f8c2c</EpicAccountId>
+<SourceContext></SourceContext>
+<UserDescription></UserDescription>
+<UserActivityHint></UserActivityHint>
+<CrashDumpMode>0</CrashDumpMode>
+<GameStateName></GameStateName>
+<Misc.NumberOfCores>10</Misc.NumberOfCores>
+<Misc.NumberOfCoresIncludingHyperthreads>20</Misc.NumberOfCoresIncludingHyperthreads>
+<Misc.Is64bitOperatingSystem>1</Misc.Is64bitOperatingSystem>
+<Misc.CPUVendor>GenuineIntel</Misc.CPUVendor>
+<Misc.CPUBrand>Intel(R) Core(TM) i9-10900 CPU @ 2.80GHz</Misc.CPUBrand>
+<Misc.PrimaryGPUBrand>NVIDIA GeForce RTX 2080 Super</Misc.PrimaryGPUBrand>
+<Misc.OSVersionMajor>Windows 10 (Release 2009)</Misc.OSVersionMajor>
+<Misc.OSVersionMinor></Misc.OSVersionMinor>
+<MemoryStats.TotalPhysical>34101932032</MemoryStats.TotalPhysical>
+<MemoryStats.TotalVirtual>140737488224256</MemoryStats.TotalVirtual>
+<MemoryStats.PageSize>4096</MemoryStats.PageSize>
+<MemoryStats.TotalPhysicalGB>32</MemoryStats.TotalPhysicalGB>
+<MemoryStats.AvailablePhysical>21159202816</MemoryStats.AvailablePhysical>
+<MemoryStats.AvailableVirtual>16328306688</MemoryStats.AvailableVirtual>
+<MemoryStats.UsedPhysical>274739200</MemoryStats.UsedPhysical>
+<MemoryStats.PeakUsedPhysical>798625792</MemoryStats.PeakUsedPhysical>
+<MemoryStats.UsedVirtual>1244073984</MemoryStats.UsedVirtual>
+<MemoryStats.PeakUsedVirtual>1411014656</MemoryStats.PeakUsedVirtual>
+<MemoryStats.bIsOOM>0</MemoryStats.bIsOOM>
+<MemoryStats.OOMAllocationSize>0</MemoryStats.OOMAllocationSize>
+<MemoryStats.OOMAllocationAlignment>0</MemoryStats.OOMAllocationAlignment>
+<NumMinidumpFramesToIgnore>4</NumMinidumpFramesToIgnore>
+<CallStack></CallStack>
+<PCallStack>
+Mars      0x00007ff676fd0000 + 2fd17e3         
+Mars      0x00007ff676fd0000 + 2fd66b7         
+Mars      0x00007ff676fd0000 + 2faf1b8         
+Mars      0x00007ff676fd0000 + 2fb74b4         
+Mars      0x00007ff676fd0000 + 2fc605f         
+Mars      0x00007ff676fd0000 + 498f3b2         
+Mars      0x00007ff676fd0000 + ada930          
+Mars      0x00007ff676fd0000 + ade7b0          
+Mars      0x00007ff676fd0000 + 1d3ba0b         
+Mars      0x00007ff676fd0000 + 1d3be6e         
+Mars      0x00007ff676fd0000 + 4a460d9         
+Mars      0x00007ff676fd0000 + 4a4b0d9         
+Mars      0x00007ff676fd0000 + 225bc0f         
+Mars      0x00007ff676fd0000 + 2252120         
+KERNEL32  0x00007ffeb7530000 + 17344           
+ntdll     0x00007ffeb8830000 + 526b1           
+</PCallStack>
+<PCallStackHash>B49B373F6C5566DDA92E3AFAC128C3BB7F43786F</PCallStackHash>
+<Threads><Thread><CallStack>ntdll       0x00007ffeb8830000 + 9d064           
+KERNELBASE  0x00007ffeb64b0000 + 230ce           
+Mars        0x00007ff676fd0000 + 225fccb         
+Mars        0x00007ff676fd0000 + 4a2bdee         
+Mars        0x00007ff676fd0000 + acd1b0          
+Mars        0x00007ff676fd0000 + ae108f          
+Mars        0x00007ff676fd0000 + ae115a          
+Mars        0x00007ff676fd0000 + ae355c          
+Mars        0x00007ff676fd0000 + af4da4          
+Mars        0x00007ff676fd0000 + 756e81e         
+KERNEL32    0x00007ffeb7530000 + 17344           
+ntdll       0x00007ffeb8830000 + 526b1           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>4884</ThreadID>
+<ThreadName>GameThread</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll       0x00007ffeb8830000 + 9d064           
+KERNELBASE  0x00007ffeb64b0000 + 230ce           
+Mars        0x00007ff676fd0000 + 225fccb         
+Mars        0x00007ff676fd0000 + 1d3a947         
+Mars        0x00007ff676fd0000 + 1d3bf00         
+Mars        0x00007ff676fd0000 + 1d41805         
+Mars        0x00007ff676fd0000 + 225bc0f         
+Mars        0x00007ff676fd0000 + 2252120         
+KERNEL32    0x00007ffeb7530000 + 17344           
+ntdll       0x00007ffeb8830000 + 526b1           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>22156</ThreadID>
+<ThreadName>TaskGraphThreadNP 0</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll       0x00007ffeb8830000 + 9d064           
+KERNELBASE  0x00007ffeb64b0000 + 230ce           
+Mars        0x00007ff676fd0000 + 225fccb         
+Mars        0x00007ff676fd0000 + 1d3a947         
+Mars        0x00007ff676fd0000 + 1d3bf00         
+Mars        0x00007ff676fd0000 + 1d41805         
+Mars        0x00007ff676fd0000 + 225bc0f         
+Mars        0x00007ff676fd0000 + 2252120         
+KERNEL32    0x00007ffeb7530000 + 17344           
+ntdll       0x00007ffeb8830000 + 526b1           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>4964</ThreadID>
+<ThreadName>TaskGraphThreadNP 1</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll       0x00007ffeb8830000 + 9d064           
+KERNELBASE  0x00007ffeb64b0000 + 230ce           
+Mars        0x00007ff676fd0000 + 225fccb         
+Mars        0x00007ff676fd0000 + 1d3a947         
+Mars        0x00007ff676fd0000 + 1d3bf00         
+Mars        0x00007ff676fd0000 + 1d41805         
+Mars        0x00007ff676fd0000 + 225bc0f         
+Mars        0x00007ff676fd0000 + 2252120         
+KERNEL32    0x00007ffeb7530000 + 17344           
+ntdll       0x00007ffeb8830000 + 526b1           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>16808</ThreadID>
+<ThreadName>TaskGraphThreadNP 2</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll       0x00007ffeb8830000 + 9d064           
+KERNELBASE  0x00007ffeb64b0000 + 230ce           
+Mars        0x00007ff676fd0000 + 225fccb         
+Mars        0x00007ff676fd0000 + 1d3a947         
+Mars        0x00007ff676fd0000 + 1d3bf00         
+Mars        0x00007ff676fd0000 + 1d41805         
+Mars        0x00007ff676fd0000 + 225bc0f         
+Mars        0x00007ff676fd0000 + 2252120         
+KERNEL32    0x00007ffeb7530000 + 17344           
+ntdll       0x00007ffeb8830000 + 526b1           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>18240</ThreadID>
+<ThreadName>TaskGraphThreadNP 3</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll       0x00007ffeb8830000 + 9d064           
+KERNELBASE  0x00007ffeb64b0000 + 230ce           
+Mars        0x00007ff676fd0000 + 225fccb         
+Mars        0x00007ff676fd0000 + 1d3a947         
+Mars        0x00007ff676fd0000 + 1d3bf00         
+Mars        0x00007ff676fd0000 + 1d41805         
+Mars        0x00007ff676fd0000 + 225bc0f         
+Mars        0x00007ff676fd0000 + 2252120         
+KERNEL32    0x00007ffeb7530000 + 17344           
+ntdll       0x00007ffeb8830000 + 526b1           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>7856</ThreadID>
+<ThreadName>TaskGraphThreadNP 4</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll       0x00007ffeb8830000 + 9d064           
+KERNELBASE  0x00007ffeb64b0000 + 230ce           
+Mars        0x00007ff676fd0000 + 225fccb         
+Mars        0x00007ff676fd0000 + 1d3a947         
+Mars        0x00007ff676fd0000 + 1d3bf00         
+Mars        0x00007ff676fd0000 + 1d41805         
+Mars        0x00007ff676fd0000 + 225bc0f         
+Mars        0x00007ff676fd0000 + 2252120         
+KERNEL32    0x00007ffeb7530000 + 17344           
+ntdll       0x00007ffeb8830000 + 526b1           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>4328</ThreadID>
+<ThreadName>TaskGraphThreadNP 5</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll       0x00007ffeb8830000 + 9d064           
+KERNELBASE  0x00007ffeb64b0000 + 230ce           
+Mars        0x00007ff676fd0000 + 225fccb         
+Mars        0x00007ff676fd0000 + 1d3a947         
+Mars        0x00007ff676fd0000 + 1d3bf00         
+Mars        0x00007ff676fd0000 + 1d41805         
+Mars        0x00007ff676fd0000 + 225bc0f         
+Mars        0x00007ff676fd0000 + 2252120         
+KERNEL32    0x00007ffeb7530000 + 17344           
+ntdll       0x00007ffeb8830000 + 526b1           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>21616</ThreadID>
+<ThreadName>TaskGraphThreadNP 6</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll       0x00007ffeb8830000 + 9d064           
+KERNELBASE  0x00007ffeb64b0000 + 230ce           
+Mars        0x00007ff676fd0000 + 225fccb         
+Mars        0x00007ff676fd0000 + 1d3a947         
+Mars        0x00007ff676fd0000 + 1d3bf00         
+Mars        0x00007ff676fd0000 + 1d41805         
+Mars        0x00007ff676fd0000 + 225bc0f         
+Mars        0x00007ff676fd0000 + 2252120         
+KERNEL32    0x00007ffeb7530000 + 17344           
+ntdll       0x00007ffeb8830000 + 526b1           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>18264</ThreadID>
+<ThreadName>TaskGraphThreadNP 7</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll       0x00007ffeb8830000 + 9d064           
+KERNELBASE  0x00007ffeb64b0000 + 230ce           
+Mars        0x00007ff676fd0000 + 225fccb         
+Mars        0x00007ff676fd0000 + 1d3a947         
+Mars        0x00007ff676fd0000 + 1d3bf00         
+Mars        0x00007ff676fd0000 + 1d41805         
+Mars        0x00007ff676fd0000 + 225bc0f         
+Mars        0x00007ff676fd0000 + 2252120         
+KERNEL32    0x00007ffeb7530000 + 17344           
+ntdll       0x00007ffeb8830000 + 526b1           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>21620</ThreadID>
+<ThreadName>TaskGraphThreadNP 8</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll       0x00007ffeb8830000 + 9d064           
+KERNELBASE  0x00007ffeb64b0000 + 230ce           
+Mars        0x00007ff676fd0000 + 225fccb         
+Mars        0x00007ff676fd0000 + 1d3a947         
+Mars        0x00007ff676fd0000 + 1d3bf00         
+Mars        0x00007ff676fd0000 + 1d41805         
+Mars        0x00007ff676fd0000 + 225bc0f         
+Mars        0x00007ff676fd0000 + 2252120         
+KERNEL32    0x00007ffeb7530000 + 17344           
+ntdll       0x00007ffeb8830000 + 526b1           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>3252</ThreadID>
+<ThreadName>TaskGraphThreadNP 9</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll       0x00007ffeb8830000 + 9d064           
+KERNELBASE  0x00007ffeb64b0000 + 230ce           
+Mars        0x00007ff676fd0000 + 225fccb         
+Mars        0x00007ff676fd0000 + 1d3a947         
+Mars        0x00007ff676fd0000 + 1d3bf00         
+Mars        0x00007ff676fd0000 + 1d41805         
+Mars        0x00007ff676fd0000 + 225bc0f         
+Mars        0x00007ff676fd0000 + 2252120         
+KERNEL32    0x00007ffeb7530000 + 17344           
+ntdll       0x00007ffeb8830000 + 526b1           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>6100</ThreadID>
+<ThreadName>TaskGraphThreadNP 10</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll       0x00007ffeb8830000 + 9d064           
+KERNELBASE  0x00007ffeb64b0000 + 230ce           
+Mars        0x00007ff676fd0000 + 225fccb         
+Mars        0x00007ff676fd0000 + 1d3a947         
+Mars        0x00007ff676fd0000 + 1d3bf00         
+Mars        0x00007ff676fd0000 + 1d41805         
+Mars        0x00007ff676fd0000 + 225bc0f         
+Mars        0x00007ff676fd0000 + 2252120         
+KERNEL32    0x00007ffeb7530000 + 17344           
+ntdll       0x00007ffeb8830000 + 526b1           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>22172</ThreadID>
+<ThreadName>TaskGraphThreadNP 11</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll       0x00007ffeb8830000 + 9d064           
+KERNELBASE  0x00007ffeb64b0000 + 230ce           
+Mars        0x00007ff676fd0000 + 225fccb         
+Mars        0x00007ff676fd0000 + 1d3a947         
+Mars        0x00007ff676fd0000 + 1d3bf00         
+Mars        0x00007ff676fd0000 + 1d41805         
+Mars        0x00007ff676fd0000 + 225bc0f         
+Mars        0x00007ff676fd0000 + 2252120         
+KERNEL32    0x00007ffeb7530000 + 17344           
+ntdll       0x00007ffeb8830000 + 526b1           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>8124</ThreadID>
+<ThreadName>TaskGraphThreadNP 12</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll       0x00007ffeb8830000 + 9d064           
+KERNELBASE  0x00007ffeb64b0000 + 230ce           
+Mars        0x00007ff676fd0000 + 225fccb         
+Mars        0x00007ff676fd0000 + 1d3a947         
+Mars        0x00007ff676fd0000 + 1d3bf00         
+Mars        0x00007ff676fd0000 + 1d41805         
+Mars        0x00007ff676fd0000 + 225bc0f         
+Mars        0x00007ff676fd0000 + 2252120         
+KERNEL32    0x00007ffeb7530000 + 17344           
+ntdll       0x00007ffeb8830000 + 526b1           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>11512</ThreadID>
+<ThreadName>TaskGraphThreadNP 13</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll       0x00007ffeb8830000 + 9d064           
+KERNELBASE  0x00007ffeb64b0000 + 230ce           
+Mars        0x00007ff676fd0000 + 225fccb         
+Mars        0x00007ff676fd0000 + 1d3a947         
+Mars        0x00007ff676fd0000 + 1d3bf00         
+Mars        0x00007ff676fd0000 + 1d41805         
+Mars        0x00007ff676fd0000 + 225bc0f         
+Mars        0x00007ff676fd0000 + 2252120         
+KERNEL32    0x00007ffeb7530000 + 17344           
+ntdll       0x00007ffeb8830000 + 526b1           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>22008</ThreadID>
+<ThreadName>TaskGraphThreadNP 14</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll       0x00007ffeb8830000 + 9d064           
+KERNELBASE  0x00007ffeb64b0000 + 230ce           
+Mars        0x00007ff676fd0000 + 225fccb         
+Mars        0x00007ff676fd0000 + 1d3a947         
+Mars        0x00007ff676fd0000 + 1d3bf00         
+Mars        0x00007ff676fd0000 + 1d41805         
+Mars        0x00007ff676fd0000 + 225bc0f         
+Mars        0x00007ff676fd0000 + 2252120         
+KERNEL32    0x00007ffeb7530000 + 17344           
+ntdll       0x00007ffeb8830000 + 526b1           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>1364</ThreadID>
+<ThreadName>TaskGraphThreadNP 15</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll       0x00007ffeb8830000 + 9d064           
+KERNELBASE  0x00007ffeb64b0000 + 230ce           
+Mars        0x00007ff676fd0000 + 225fccb         
+Mars        0x00007ff676fd0000 + 1d3a947         
+Mars        0x00007ff676fd0000 + 1d3bf00         
+Mars        0x00007ff676fd0000 + 1d41805         
+Mars        0x00007ff676fd0000 + 225bc0f         
+Mars        0x00007ff676fd0000 + 2252120         
+KERNEL32    0x00007ffeb7530000 + 17344           
+ntdll       0x00007ffeb8830000 + 526b1           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>21368</ThreadID>
+<ThreadName>TaskGraphThreadNP 16</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll       0x00007ffeb8830000 + 9d064           
+KERNELBASE  0x00007ffeb64b0000 + 230ce           
+Mars        0x00007ff676fd0000 + 225fccb         
+Mars        0x00007ff676fd0000 + 1d3a947         
+Mars        0x00007ff676fd0000 + 1d3bf00         
+Mars        0x00007ff676fd0000 + 1d41805         
+Mars        0x00007ff676fd0000 + 225bc0f         
+Mars        0x00007ff676fd0000 + 2252120         
+KERNEL32    0x00007ffeb7530000 + 17344           
+ntdll       0x00007ffeb8830000 + 526b1           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>21964</ThreadID>
+<ThreadName>TaskGraphThreadNP 17</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll       0x00007ffeb8830000 + 9d064           
+KERNELBASE  0x00007ffeb64b0000 + 230ce           
+Mars        0x00007ff676fd0000 + 225fccb         
+Mars        0x00007ff676fd0000 + 1d3a947         
+Mars        0x00007ff676fd0000 + 1d3bf00         
+Mars        0x00007ff676fd0000 + 1d41805         
+Mars        0x00007ff676fd0000 + 225bc0f         
+Mars        0x00007ff676fd0000 + 2252120         
+KERNEL32    0x00007ffeb7530000 + 17344           
+ntdll       0x00007ffeb8830000 + 526b1           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>20344</ThreadID>
+<ThreadName>TaskGraphThreadHP 18</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll       0x00007ffeb8830000 + 9d064           
+KERNELBASE  0x00007ffeb64b0000 + 230ce           
+Mars        0x00007ff676fd0000 + 225fccb         
+Mars        0x00007ff676fd0000 + 1d3a947         
+Mars        0x00007ff676fd0000 + 1d3bf00         
+Mars        0x00007ff676fd0000 + 1d41805         
+Mars        0x00007ff676fd0000 + 225bc0f         
+Mars        0x00007ff676fd0000 + 2252120         
+KERNEL32    0x00007ffeb7530000 + 17344           
+ntdll       0x00007ffeb8830000 + 526b1           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>11184</ThreadID>
+<ThreadName>TaskGraphThreadHP 19</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll       0x00007ffeb8830000 + 9d064           
+KERNELBASE  0x00007ffeb64b0000 + 230ce           
+Mars        0x00007ff676fd0000 + 225fccb         
+Mars        0x00007ff676fd0000 + 1d3a947         
+Mars        0x00007ff676fd0000 + 1d3bf00         
+Mars        0x00007ff676fd0000 + 1d41805         
+Mars        0x00007ff676fd0000 + 225bc0f         
+Mars        0x00007ff676fd0000 + 2252120         
+KERNEL32    0x00007ffeb7530000 + 17344           
+ntdll       0x00007ffeb8830000 + 526b1           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>12300</ThreadID>
+<ThreadName>TaskGraphThreadHP 20</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll       0x00007ffeb8830000 + 9d064           
+KERNELBASE  0x00007ffeb64b0000 + 230ce           
+Mars        0x00007ff676fd0000 + 225fccb         
+Mars        0x00007ff676fd0000 + 1d3a947         
+Mars        0x00007ff676fd0000 + 1d3bf00         
+Mars        0x00007ff676fd0000 + 1d41805         
+Mars        0x00007ff676fd0000 + 225bc0f         
+Mars        0x00007ff676fd0000 + 2252120         
+KERNEL32    0x00007ffeb7530000 + 17344           
+ntdll       0x00007ffeb8830000 + 526b1           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>7776</ThreadID>
+<ThreadName>TaskGraphThreadHP 21</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll       0x00007ffeb8830000 + 9d064           
+KERNELBASE  0x00007ffeb64b0000 + 230ce           
+Mars        0x00007ff676fd0000 + 225fccb         
+Mars        0x00007ff676fd0000 + 1d3a947         
+Mars        0x00007ff676fd0000 + 1d3bf00         
+Mars        0x00007ff676fd0000 + 1d41805         
+Mars        0x00007ff676fd0000 + 225bc0f         
+Mars        0x00007ff676fd0000 + 2252120         
+KERNEL32    0x00007ffeb7530000 + 17344           
+ntdll       0x00007ffeb8830000 + 526b1           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>12348</ThreadID>
+<ThreadName>TaskGraphThreadHP 22</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll       0x00007ffeb8830000 + 9d064           
+KERNELBASE  0x00007ffeb64b0000 + 230ce           
+Mars        0x00007ff676fd0000 + 225fccb         
+Mars        0x00007ff676fd0000 + 1d3a947         
+Mars        0x00007ff676fd0000 + 1d3bf00         
+Mars        0x00007ff676fd0000 + 1d41805         
+Mars        0x00007ff676fd0000 + 225bc0f         
+Mars        0x00007ff676fd0000 + 2252120         
+KERNEL32    0x00007ffeb7530000 + 17344           
+ntdll       0x00007ffeb8830000 + 526b1           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>2840</ThreadID>
+<ThreadName>TaskGraphThreadHP 23</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll       0x00007ffeb8830000 + 9d064           
+KERNELBASE  0x00007ffeb64b0000 + 230ce           
+Mars        0x00007ff676fd0000 + 225fccb         
+Mars        0x00007ff676fd0000 + 1d3a947         
+Mars        0x00007ff676fd0000 + 1d3bf00         
+Mars        0x00007ff676fd0000 + 1d41805         
+Mars        0x00007ff676fd0000 + 225bc0f         
+Mars        0x00007ff676fd0000 + 2252120         
+KERNEL32    0x00007ffeb7530000 + 17344           
+ntdll       0x00007ffeb8830000 + 526b1           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>9960</ThreadID>
+<ThreadName>TaskGraphThreadHP 24</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll       0x00007ffeb8830000 + 9d064           
+KERNELBASE  0x00007ffeb64b0000 + 230ce           
+Mars        0x00007ff676fd0000 + 225fccb         
+Mars        0x00007ff676fd0000 + 1d3a947         
+Mars        0x00007ff676fd0000 + 1d3bf00         
+Mars        0x00007ff676fd0000 + 1d41805         
+Mars        0x00007ff676fd0000 + 225bc0f         
+Mars        0x00007ff676fd0000 + 2252120         
+KERNEL32    0x00007ffeb7530000 + 17344           
+ntdll       0x00007ffeb8830000 + 526b1           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>10620</ThreadID>
+<ThreadName>TaskGraphThreadHP 25</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll       0x00007ffeb8830000 + 9d064           
+KERNELBASE  0x00007ffeb64b0000 + 230ce           
+Mars        0x00007ff676fd0000 + 225fccb         
+Mars        0x00007ff676fd0000 + 1d3a947         
+Mars        0x00007ff676fd0000 + 1d3bf00         
+Mars        0x00007ff676fd0000 + 1d41805         
+Mars        0x00007ff676fd0000 + 225bc0f         
+Mars        0x00007ff676fd0000 + 2252120         
+KERNEL32    0x00007ffeb7530000 + 17344           
+ntdll       0x00007ffeb8830000 + 526b1           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>2748</ThreadID>
+<ThreadName>TaskGraphThreadHP 26</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll       0x00007ffeb8830000 + 9d064           
+KERNELBASE  0x00007ffeb64b0000 + 230ce           
+Mars        0x00007ff676fd0000 + 225fccb         
+Mars        0x00007ff676fd0000 + 1d3a947         
+Mars        0x00007ff676fd0000 + 1d3bf00         
+Mars        0x00007ff676fd0000 + 1d41805         
+Mars        0x00007ff676fd0000 + 225bc0f         
+Mars        0x00007ff676fd0000 + 2252120         
+KERNEL32    0x00007ffeb7530000 + 17344           
+ntdll       0x00007ffeb8830000 + 526b1           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>16708</ThreadID>
+<ThreadName>TaskGraphThreadHP 27</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll       0x00007ffeb8830000 + 9d064           
+KERNELBASE  0x00007ffeb64b0000 + 230ce           
+Mars        0x00007ff676fd0000 + 225fccb         
+Mars        0x00007ff676fd0000 + 1d3a947         
+Mars        0x00007ff676fd0000 + 1d3bf00         
+Mars        0x00007ff676fd0000 + 1d41805         
+Mars        0x00007ff676fd0000 + 225bc0f         
+Mars        0x00007ff676fd0000 + 2252120         
+KERNEL32    0x00007ffeb7530000 + 17344           
+ntdll       0x00007ffeb8830000 + 526b1           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>9916</ThreadID>
+<ThreadName>TaskGraphThreadHP 28</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll       0x00007ffeb8830000 + 9d064           
+KERNELBASE  0x00007ffeb64b0000 + 230ce           
+Mars        0x00007ff676fd0000 + 225fccb         
+Mars        0x00007ff676fd0000 + 1d3a947         
+Mars        0x00007ff676fd0000 + 1d3bf00         
+Mars        0x00007ff676fd0000 + 1d41805         
+Mars        0x00007ff676fd0000 + 225bc0f         
+Mars        0x00007ff676fd0000 + 2252120         
+KERNEL32    0x00007ffeb7530000 + 17344           
+ntdll       0x00007ffeb8830000 + 526b1           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>12524</ThreadID>
+<ThreadName>TaskGraphThreadHP 29</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll       0x00007ffeb8830000 + 9d064           
+KERNELBASE  0x00007ffeb64b0000 + 230ce           
+Mars        0x00007ff676fd0000 + 225fccb         
+Mars        0x00007ff676fd0000 + 1d3a947         
+Mars        0x00007ff676fd0000 + 1d3bf00         
+Mars        0x00007ff676fd0000 + 1d41805         
+Mars        0x00007ff676fd0000 + 225bc0f         
+Mars        0x00007ff676fd0000 + 2252120         
+KERNEL32    0x00007ffeb7530000 + 17344           
+ntdll       0x00007ffeb8830000 + 526b1           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>17500</ThreadID>
+<ThreadName>TaskGraphThreadHP 30</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll       0x00007ffeb8830000 + 9d064           
+KERNELBASE  0x00007ffeb64b0000 + 230ce           
+Mars        0x00007ff676fd0000 + 225fccb         
+Mars        0x00007ff676fd0000 + 1d3a947         
+Mars        0x00007ff676fd0000 + 1d3bf00         
+Mars        0x00007ff676fd0000 + 1d41805         
+Mars        0x00007ff676fd0000 + 225bc0f         
+Mars        0x00007ff676fd0000 + 2252120         
+KERNEL32    0x00007ffeb7530000 + 17344           
+ntdll       0x00007ffeb8830000 + 526b1           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>9364</ThreadID>
+<ThreadName>TaskGraphThreadHP 31</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll       0x00007ffeb8830000 + 9d064           
+KERNELBASE  0x00007ffeb64b0000 + 230ce           
+Mars        0x00007ff676fd0000 + 225fccb         
+Mars        0x00007ff676fd0000 + 1d3a947         
+Mars        0x00007ff676fd0000 + 1d3bf00         
+Mars        0x00007ff676fd0000 + 1d41805         
+Mars        0x00007ff676fd0000 + 225bc0f         
+Mars        0x00007ff676fd0000 + 2252120         
+KERNEL32    0x00007ffeb7530000 + 17344           
+ntdll       0x00007ffeb8830000 + 526b1           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>12364</ThreadID>
+<ThreadName>TaskGraphThreadHP 32</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll       0x00007ffeb8830000 + 9d064           
+KERNELBASE  0x00007ffeb64b0000 + 230ce           
+Mars        0x00007ff676fd0000 + 225fccb         
+Mars        0x00007ff676fd0000 + 1d3a947         
+Mars        0x00007ff676fd0000 + 1d3bf00         
+Mars        0x00007ff676fd0000 + 1d41805         
+Mars        0x00007ff676fd0000 + 225bc0f         
+Mars        0x00007ff676fd0000 + 2252120         
+KERNEL32    0x00007ffeb7530000 + 17344           
+ntdll       0x00007ffeb8830000 + 526b1           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>16008</ThreadID>
+<ThreadName>TaskGraphThreadHP 33</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll       0x00007ffeb8830000 + 9d064           
+KERNELBASE  0x00007ffeb64b0000 + 230ce           
+Mars        0x00007ff676fd0000 + 225fccb         
+Mars        0x00007ff676fd0000 + 1d3a947         
+Mars        0x00007ff676fd0000 + 1d3bf00         
+Mars        0x00007ff676fd0000 + 1d41805         
+Mars        0x00007ff676fd0000 + 225bc0f         
+Mars        0x00007ff676fd0000 + 2252120         
+KERNEL32    0x00007ffeb7530000 + 17344           
+ntdll       0x00007ffeb8830000 + 526b1           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>3508</ThreadID>
+<ThreadName>TaskGraphThreadHP 34</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll       0x00007ffeb8830000 + 9d064           
+KERNELBASE  0x00007ffeb64b0000 + 230ce           
+Mars        0x00007ff676fd0000 + 225fccb         
+Mars        0x00007ff676fd0000 + 1d3a947         
+Mars        0x00007ff676fd0000 + 1d3bf00         
+Mars        0x00007ff676fd0000 + 1d41805         
+Mars        0x00007ff676fd0000 + 225bc0f         
+Mars        0x00007ff676fd0000 + 2252120         
+KERNEL32    0x00007ffeb7530000 + 17344           
+ntdll       0x00007ffeb8830000 + 526b1           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>18272</ThreadID>
+<ThreadName>TaskGraphThreadHP 35</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll       0x00007ffeb8830000 + 9d064           
+KERNELBASE  0x00007ffeb64b0000 + 230ce           
+Mars        0x00007ff676fd0000 + 225fccb         
+Mars        0x00007ff676fd0000 + 1d3a947         
+Mars        0x00007ff676fd0000 + 1d3bf00         
+Mars        0x00007ff676fd0000 + 1d41805         
+Mars        0x00007ff676fd0000 + 225bc0f         
+Mars        0x00007ff676fd0000 + 2252120         
+KERNEL32    0x00007ffeb7530000 + 17344           
+ntdll       0x00007ffeb8830000 + 526b1           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>10520</ThreadID>
+<ThreadName>TaskGraphThreadBP 36</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll       0x00007ffeb8830000 + 9d064           
+KERNELBASE  0x00007ffeb64b0000 + 230ce           
+Mars        0x00007ff676fd0000 + 225fccb         
+Mars        0x00007ff676fd0000 + 1d3a947         
+Mars        0x00007ff676fd0000 + 1d3bf00         
+Mars        0x00007ff676fd0000 + 1d41805         
+Mars        0x00007ff676fd0000 + 225bc0f         
+Mars        0x00007ff676fd0000 + 2252120         
+KERNEL32    0x00007ffeb7530000 + 17344           
+ntdll       0x00007ffeb8830000 + 526b1           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>5308</ThreadID>
+<ThreadName>TaskGraphThreadBP 37</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll       0x00007ffeb8830000 + 9d064           
+KERNELBASE  0x00007ffeb64b0000 + 230ce           
+Mars        0x00007ff676fd0000 + 225fccb         
+Mars        0x00007ff676fd0000 + 1d3a947         
+Mars        0x00007ff676fd0000 + 1d3bf00         
+Mars        0x00007ff676fd0000 + 1d41805         
+Mars        0x00007ff676fd0000 + 225bc0f         
+Mars        0x00007ff676fd0000 + 2252120         
+KERNEL32    0x00007ffeb7530000 + 17344           
+ntdll       0x00007ffeb8830000 + 526b1           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>20488</ThreadID>
+<ThreadName>TaskGraphThreadBP 38</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll       0x00007ffeb8830000 + 9d064           
+KERNELBASE  0x00007ffeb64b0000 + 230ce           
+Mars        0x00007ff676fd0000 + 225fccb         
+Mars        0x00007ff676fd0000 + 1d3a947         
+Mars        0x00007ff676fd0000 + 1d3bf00         
+Mars        0x00007ff676fd0000 + 1d41805         
+Mars        0x00007ff676fd0000 + 225bc0f         
+Mars        0x00007ff676fd0000 + 2252120         
+KERNEL32    0x00007ffeb7530000 + 17344           
+ntdll       0x00007ffeb8830000 + 526b1           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>19332</ThreadID>
+<ThreadName>TaskGraphThreadBP 39</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll       0x00007ffeb8830000 + 9d064           
+KERNELBASE  0x00007ffeb64b0000 + 230ce           
+Mars        0x00007ff676fd0000 + 225fccb         
+Mars        0x00007ff676fd0000 + 1d3a947         
+Mars        0x00007ff676fd0000 + 1d3bf00         
+Mars        0x00007ff676fd0000 + 1d41805         
+Mars        0x00007ff676fd0000 + 225bc0f         
+Mars        0x00007ff676fd0000 + 2252120         
+KERNEL32    0x00007ffeb7530000 + 17344           
+ntdll       0x00007ffeb8830000 + 526b1           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>10656</ThreadID>
+<ThreadName>TaskGraphThreadBP 40</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll       0x00007ffeb8830000 + 9d064           
+KERNELBASE  0x00007ffeb64b0000 + 230ce           
+Mars        0x00007ff676fd0000 + 225fccb         
+Mars        0x00007ff676fd0000 + 1d3a947         
+Mars        0x00007ff676fd0000 + 1d3bf00         
+Mars        0x00007ff676fd0000 + 1d41805         
+Mars        0x00007ff676fd0000 + 225bc0f         
+Mars        0x00007ff676fd0000 + 2252120         
+KERNEL32    0x00007ffeb7530000 + 17344           
+ntdll       0x00007ffeb8830000 + 526b1           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>12216</ThreadID>
+<ThreadName>TaskGraphThreadBP 41</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll       0x00007ffeb8830000 + 9d064           
+KERNELBASE  0x00007ffeb64b0000 + 230ce           
+Mars        0x00007ff676fd0000 + 225fccb         
+Mars        0x00007ff676fd0000 + 1d3a947         
+Mars        0x00007ff676fd0000 + 1d3bf00         
+Mars        0x00007ff676fd0000 + 1d41805         
+Mars        0x00007ff676fd0000 + 225bc0f         
+Mars        0x00007ff676fd0000 + 2252120         
+KERNEL32    0x00007ffeb7530000 + 17344           
+ntdll       0x00007ffeb8830000 + 526b1           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>13188</ThreadID>
+<ThreadName>TaskGraphThreadBP 42</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll       0x00007ffeb8830000 + 9d064           
+KERNELBASE  0x00007ffeb64b0000 + 230ce           
+Mars        0x00007ff676fd0000 + 225fccb         
+Mars        0x00007ff676fd0000 + 1d3a947         
+Mars        0x00007ff676fd0000 + 1d3bf00         
+Mars        0x00007ff676fd0000 + 1d41805         
+Mars        0x00007ff676fd0000 + 225bc0f         
+Mars        0x00007ff676fd0000 + 2252120         
+KERNEL32    0x00007ffeb7530000 + 17344           
+ntdll       0x00007ffeb8830000 + 526b1           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>3764</ThreadID>
+<ThreadName>TaskGraphThreadBP 43</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll       0x00007ffeb8830000 + 9d064           
+KERNELBASE  0x00007ffeb64b0000 + 230ce           
+Mars        0x00007ff676fd0000 + 225fccb         
+Mars        0x00007ff676fd0000 + 1d3a947         
+Mars        0x00007ff676fd0000 + 1d3bf00         
+Mars        0x00007ff676fd0000 + 1d41805         
+Mars        0x00007ff676fd0000 + 225bc0f         
+Mars        0x00007ff676fd0000 + 2252120         
+KERNEL32    0x00007ffeb7530000 + 17344           
+ntdll       0x00007ffeb8830000 + 526b1           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>19104</ThreadID>
+<ThreadName>TaskGraphThreadBP 44</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll       0x00007ffeb8830000 + 9d064           
+KERNELBASE  0x00007ffeb64b0000 + 230ce           
+Mars        0x00007ff676fd0000 + 225fccb         
+Mars        0x00007ff676fd0000 + 1d3a947         
+Mars        0x00007ff676fd0000 + 1d3bf00         
+Mars        0x00007ff676fd0000 + 1d41805         
+Mars        0x00007ff676fd0000 + 225bc0f         
+Mars        0x00007ff676fd0000 + 2252120         
+KERNEL32    0x00007ffeb7530000 + 17344           
+ntdll       0x00007ffeb8830000 + 526b1           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>21872</ThreadID>
+<ThreadName>TaskGraphThreadBP 45</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll       0x00007ffeb8830000 + 9d064           
+KERNELBASE  0x00007ffeb64b0000 + 230ce           
+Mars        0x00007ff676fd0000 + 225fccb         
+Mars        0x00007ff676fd0000 + 1d3a947         
+Mars        0x00007ff676fd0000 + 1d3bf00         
+Mars        0x00007ff676fd0000 + 1d41805         
+Mars        0x00007ff676fd0000 + 225bc0f         
+Mars        0x00007ff676fd0000 + 2252120         
+KERNEL32    0x00007ffeb7530000 + 17344           
+ntdll       0x00007ffeb8830000 + 526b1           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>19304</ThreadID>
+<ThreadName>TaskGraphThreadBP 46</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll       0x00007ffeb8830000 + 9d064           
+KERNELBASE  0x00007ffeb64b0000 + 230ce           
+Mars        0x00007ff676fd0000 + 225fccb         
+Mars        0x00007ff676fd0000 + 1d3a947         
+Mars        0x00007ff676fd0000 + 1d3bf00         
+Mars        0x00007ff676fd0000 + 1d41805         
+Mars        0x00007ff676fd0000 + 225bc0f         
+Mars        0x00007ff676fd0000 + 2252120         
+KERNEL32    0x00007ffeb7530000 + 17344           
+ntdll       0x00007ffeb8830000 + 526b1           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>19204</ThreadID>
+<ThreadName>TaskGraphThreadBP 47</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll       0x00007ffeb8830000 + 9d064           
+KERNELBASE  0x00007ffeb64b0000 + 230ce           
+Mars        0x00007ff676fd0000 + 225fccb         
+Mars        0x00007ff676fd0000 + 1d3a947         
+Mars        0x00007ff676fd0000 + 1d3bf00         
+Mars        0x00007ff676fd0000 + 1d41805         
+Mars        0x00007ff676fd0000 + 225bc0f         
+Mars        0x00007ff676fd0000 + 2252120         
+KERNEL32    0x00007ffeb7530000 + 17344           
+ntdll       0x00007ffeb8830000 + 526b1           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>16764</ThreadID>
+<ThreadName>TaskGraphThreadBP 48</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll       0x00007ffeb8830000 + 9d064           
+KERNELBASE  0x00007ffeb64b0000 + 230ce           
+Mars        0x00007ff676fd0000 + 225fccb         
+Mars        0x00007ff676fd0000 + 1d3a947         
+Mars        0x00007ff676fd0000 + 1d3bf00         
+Mars        0x00007ff676fd0000 + 1d41805         
+Mars        0x00007ff676fd0000 + 225bc0f         
+Mars        0x00007ff676fd0000 + 2252120         
+KERNEL32    0x00007ffeb7530000 + 17344           
+ntdll       0x00007ffeb8830000 + 526b1           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>14328</ThreadID>
+<ThreadName>TaskGraphThreadBP 49</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll       0x00007ffeb8830000 + 9d064           
+KERNELBASE  0x00007ffeb64b0000 + 230ce           
+Mars        0x00007ff676fd0000 + 225fccb         
+Mars        0x00007ff676fd0000 + 1d3a947         
+Mars        0x00007ff676fd0000 + 1d3bf00         
+Mars        0x00007ff676fd0000 + 1d41805         
+Mars        0x00007ff676fd0000 + 225bc0f         
+Mars        0x00007ff676fd0000 + 2252120         
+KERNEL32    0x00007ffeb7530000 + 17344           
+ntdll       0x00007ffeb8830000 + 526b1           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>20516</ThreadID>
+<ThreadName>TaskGraphThreadBP 50</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll       0x00007ffeb8830000 + 9d064           
+KERNELBASE  0x00007ffeb64b0000 + 230ce           
+Mars        0x00007ff676fd0000 + 225fccb         
+Mars        0x00007ff676fd0000 + 1d3a947         
+Mars        0x00007ff676fd0000 + 1d3bf00         
+Mars        0x00007ff676fd0000 + 1d41805         
+Mars        0x00007ff676fd0000 + 225bc0f         
+Mars        0x00007ff676fd0000 + 2252120         
+KERNEL32    0x00007ffeb7530000 + 17344           
+ntdll       0x00007ffeb8830000 + 526b1           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>8932</ThreadID>
+<ThreadName>TaskGraphThreadBP 51</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll       0x00007ffeb8830000 + 9d064           
+KERNELBASE  0x00007ffeb64b0000 + 230ce           
+Mars        0x00007ff676fd0000 + 225fccb         
+Mars        0x00007ff676fd0000 + 1d3a947         
+Mars        0x00007ff676fd0000 + 1d3bf00         
+Mars        0x00007ff676fd0000 + 1d41805         
+Mars        0x00007ff676fd0000 + 225bc0f         
+Mars        0x00007ff676fd0000 + 2252120         
+KERNEL32    0x00007ffeb7530000 + 17344           
+ntdll       0x00007ffeb8830000 + 526b1           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>5668</ThreadID>
+<ThreadName>TaskGraphThreadBP 52</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll       0x00007ffeb8830000 + 9d064           
+KERNELBASE  0x00007ffeb64b0000 + 230ce           
+Mars        0x00007ff676fd0000 + 225fccb         
+Mars        0x00007ff676fd0000 + 1d3a947         
+Mars        0x00007ff676fd0000 + 1d3bf00         
+Mars        0x00007ff676fd0000 + 1d41805         
+Mars        0x00007ff676fd0000 + 225bc0f         
+Mars        0x00007ff676fd0000 + 2252120         
+KERNEL32    0x00007ffeb7530000 + 17344           
+ntdll       0x00007ffeb8830000 + 526b1           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>21272</ThreadID>
+<ThreadName>TaskGraphThreadBP 53</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll       0x00007ffeb8830000 + 9d064           
+KERNELBASE  0x00007ffeb64b0000 + 230ce           
+Mars        0x00007ff676fd0000 + 225fccb         
+Mars        0x00007ff676fd0000 + 1d3b712         
+Mars        0x00007ff676fd0000 + 1d3be6e         
+Mars        0x00007ff676fd0000 + 205a2ed         
+Mars        0x00007ff676fd0000 + 225bc0f         
+Mars        0x00007ff676fd0000 + 2252120         
+KERNEL32    0x00007ffeb7530000 + 17344           
+ntdll       0x00007ffeb8830000 + 526b1           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>7036</ThreadID>
+<ThreadName>StatsThread</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll       0x00007ffeb8830000 + 9d064           
+KERNELBASE  0x00007ffeb64b0000 + 230ce           
+Mars        0x00007ff676fd0000 + 225fccb         
+Mars        0x00007ff676fd0000 + 1e2c341         
+Mars        0x00007ff676fd0000 + 225bc0f         
+Mars        0x00007ff676fd0000 + 2252120         
+KERNEL32    0x00007ffeb7530000 + 17344           
+ntdll       0x00007ffeb8830000 + 526b1           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>3320</ThreadID>
+<ThreadName>PoolThread 0</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll       0x00007ffeb8830000 + 9d064           
+KERNELBASE  0x00007ffeb64b0000 + 230ce           
+Mars        0x00007ff676fd0000 + 225fccb         
+Mars        0x00007ff676fd0000 + 1e2c341         
+Mars        0x00007ff676fd0000 + 225bc0f         
+Mars        0x00007ff676fd0000 + 2252120         
+KERNEL32    0x00007ffeb7530000 + 17344           
+ntdll       0x00007ffeb8830000 + 526b1           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>17028</ThreadID>
+<ThreadName>PoolThread 1</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll       0x00007ffeb8830000 + 9d064           
+KERNELBASE  0x00007ffeb64b0000 + 230ce           
+Mars        0x00007ff676fd0000 + 225fccb         
+Mars        0x00007ff676fd0000 + 1e2c341         
+Mars        0x00007ff676fd0000 + 225bc0f         
+Mars        0x00007ff676fd0000 + 2252120         
+KERNEL32    0x00007ffeb7530000 + 17344           
+ntdll       0x00007ffeb8830000 + 526b1           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>18372</ThreadID>
+<ThreadName>PoolThread 2</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll       0x00007ffeb8830000 + 9d064           
+KERNELBASE  0x00007ffeb64b0000 + 230ce           
+Mars        0x00007ff676fd0000 + 225fccb         
+Mars        0x00007ff676fd0000 + 1e2c341         
+Mars        0x00007ff676fd0000 + 225bc0f         
+Mars        0x00007ff676fd0000 + 2252120         
+KERNEL32    0x00007ffeb7530000 + 17344           
+ntdll       0x00007ffeb8830000 + 526b1           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>10768</ThreadID>
+<ThreadName>PoolThread 3</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll       0x00007ffeb8830000 + 9d064           
+KERNELBASE  0x00007ffeb64b0000 + 230ce           
+Mars        0x00007ff676fd0000 + 225fccb         
+Mars        0x00007ff676fd0000 + 1e2c341         
+Mars        0x00007ff676fd0000 + 225bc0f         
+Mars        0x00007ff676fd0000 + 2252120         
+KERNEL32    0x00007ffeb7530000 + 17344           
+ntdll       0x00007ffeb8830000 + 526b1           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>19988</ThreadID>
+<ThreadName>PoolThread 4</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll       0x00007ffeb8830000 + 9d064           
+KERNELBASE  0x00007ffeb64b0000 + 230ce           
+Mars        0x00007ff676fd0000 + 225fccb         
+Mars        0x00007ff676fd0000 + 1e2c341         
+Mars        0x00007ff676fd0000 + 225bc0f         
+Mars        0x00007ff676fd0000 + 2252120         
+KERNEL32    0x00007ffeb7530000 + 17344           
+ntdll       0x00007ffeb8830000 + 526b1           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>20728</ThreadID>
+<ThreadName>PoolThread 5</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll       0x00007ffeb8830000 + 9d064           
+KERNELBASE  0x00007ffeb64b0000 + 230ce           
+Mars        0x00007ff676fd0000 + 225fccb         
+Mars        0x00007ff676fd0000 + 1e2c341         
+Mars        0x00007ff676fd0000 + 225bc0f         
+Mars        0x00007ff676fd0000 + 2252120         
+KERNEL32    0x00007ffeb7530000 + 17344           
+ntdll       0x00007ffeb8830000 + 526b1           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>4188</ThreadID>
+<ThreadName>PoolThread 6</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll       0x00007ffeb8830000 + 9d064           
+KERNELBASE  0x00007ffeb64b0000 + 230ce           
+Mars        0x00007ff676fd0000 + 225fccb         
+Mars        0x00007ff676fd0000 + 1e2c341         
+Mars        0x00007ff676fd0000 + 225bc0f         
+Mars        0x00007ff676fd0000 + 2252120         
+KERNEL32    0x00007ffeb7530000 + 17344           
+ntdll       0x00007ffeb8830000 + 526b1           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>5936</ThreadID>
+<ThreadName>PoolThread 7</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll       0x00007ffeb8830000 + 9d064           
+KERNELBASE  0x00007ffeb64b0000 + 230ce           
+Mars        0x00007ff676fd0000 + 225fccb         
+Mars        0x00007ff676fd0000 + 1e2c341         
+Mars        0x00007ff676fd0000 + 225bc0f         
+Mars        0x00007ff676fd0000 + 2252120         
+KERNEL32    0x00007ffeb7530000 + 17344           
+ntdll       0x00007ffeb8830000 + 526b1           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>21844</ThreadID>
+<ThreadName>PoolThread 8</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll       0x00007ffeb8830000 + 9d064           
+KERNELBASE  0x00007ffeb64b0000 + 230ce           
+Mars        0x00007ff676fd0000 + 225fccb         
+Mars        0x00007ff676fd0000 + 1e2c341         
+Mars        0x00007ff676fd0000 + 225bc0f         
+Mars        0x00007ff676fd0000 + 2252120         
+KERNEL32    0x00007ffeb7530000 + 17344           
+ntdll       0x00007ffeb8830000 + 526b1           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>19252</ThreadID>
+<ThreadName>PoolThread 9</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll       0x00007ffeb8830000 + 9d064           
+KERNELBASE  0x00007ffeb64b0000 + 230ce           
+Mars        0x00007ff676fd0000 + 225fccb         
+Mars        0x00007ff676fd0000 + 1e2c341         
+Mars        0x00007ff676fd0000 + 225bc0f         
+Mars        0x00007ff676fd0000 + 2252120         
+KERNEL32    0x00007ffeb7530000 + 17344           
+ntdll       0x00007ffeb8830000 + 526b1           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>16880</ThreadID>
+<ThreadName>PoolThread 10</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll       0x00007ffeb8830000 + 9d064           
+KERNELBASE  0x00007ffeb64b0000 + 230ce           
+Mars        0x00007ff676fd0000 + 225fccb         
+Mars        0x00007ff676fd0000 + 1e2c341         
+Mars        0x00007ff676fd0000 + 225bc0f         
+Mars        0x00007ff676fd0000 + 2252120         
+KERNEL32    0x00007ffeb7530000 + 17344           
+ntdll       0x00007ffeb8830000 + 526b1           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>1340</ThreadID>
+<ThreadName>PoolThread 11</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll       0x00007ffeb8830000 + 9d064           
+KERNELBASE  0x00007ffeb64b0000 + 230ce           
+Mars        0x00007ff676fd0000 + 225fccb         
+Mars        0x00007ff676fd0000 + 1e2c341         
+Mars        0x00007ff676fd0000 + 225bc0f         
+Mars        0x00007ff676fd0000 + 2252120         
+KERNEL32    0x00007ffeb7530000 + 17344           
+ntdll       0x00007ffeb8830000 + 526b1           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>6856</ThreadID>
+<ThreadName>PoolThread 12</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll       0x00007ffeb8830000 + 9d064           
+KERNELBASE  0x00007ffeb64b0000 + 230ce           
+Mars        0x00007ff676fd0000 + 225fccb         
+Mars        0x00007ff676fd0000 + 1e2c341         
+Mars        0x00007ff676fd0000 + 225bc0f         
+Mars        0x00007ff676fd0000 + 2252120         
+KERNEL32    0x00007ffeb7530000 + 17344           
+ntdll       0x00007ffeb8830000 + 526b1           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>16272</ThreadID>
+<ThreadName>PoolThread 13</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll       0x00007ffeb8830000 + 9d064           
+KERNELBASE  0x00007ffeb64b0000 + 230ce           
+Mars        0x00007ff676fd0000 + 225fccb         
+Mars        0x00007ff676fd0000 + 1e2c341         
+Mars        0x00007ff676fd0000 + 225bc0f         
+Mars        0x00007ff676fd0000 + 2252120         
+KERNEL32    0x00007ffeb7530000 + 17344           
+ntdll       0x00007ffeb8830000 + 526b1           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>15120</ThreadID>
+<ThreadName>PoolThread 14</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll       0x00007ffeb8830000 + 9d064           
+KERNELBASE  0x00007ffeb64b0000 + 230ce           
+Mars        0x00007ff676fd0000 + 225fccb         
+Mars        0x00007ff676fd0000 + 1e2c341         
+Mars        0x00007ff676fd0000 + 225bc0f         
+Mars        0x00007ff676fd0000 + 2252120         
+KERNEL32    0x00007ffeb7530000 + 17344           
+ntdll       0x00007ffeb8830000 + 526b1           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>20308</ThreadID>
+<ThreadName>PoolThread 15</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll       0x00007ffeb8830000 + 9d064           
+KERNELBASE  0x00007ffeb64b0000 + 230ce           
+Mars        0x00007ff676fd0000 + 225fccb         
+Mars        0x00007ff676fd0000 + 1e2c341         
+Mars        0x00007ff676fd0000 + 225bc0f         
+Mars        0x00007ff676fd0000 + 2252120         
+KERNEL32    0x00007ffeb7530000 + 17344           
+ntdll       0x00007ffeb8830000 + 526b1           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>2796</ThreadID>
+<ThreadName>PoolThread 16</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll       0x00007ffeb8830000 + 9d064           
+KERNELBASE  0x00007ffeb64b0000 + 230ce           
+Mars        0x00007ff676fd0000 + 225fccb         
+Mars        0x00007ff676fd0000 + 1e2c341         
+Mars        0x00007ff676fd0000 + 225bc0f         
+Mars        0x00007ff676fd0000 + 2252120         
+KERNEL32    0x00007ffeb7530000 + 17344           
+ntdll       0x00007ffeb8830000 + 526b1           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>11128</ThreadID>
+<ThreadName>PoolThread 17</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll       0x00007ffeb8830000 + 9d064           
+KERNELBASE  0x00007ffeb64b0000 + 230ce           
+Mars        0x00007ff676fd0000 + 225fccb         
+Mars        0x00007ff676fd0000 + 1e2c341         
+Mars        0x00007ff676fd0000 + 225bc0f         
+Mars        0x00007ff676fd0000 + 2252120         
+KERNEL32    0x00007ffeb7530000 + 17344           
+ntdll       0x00007ffeb8830000 + 526b1           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>18288</ThreadID>
+<ThreadName>PoolThread 18</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll       0x00007ffeb8830000 + 9d064           
+KERNELBASE  0x00007ffeb64b0000 + 230ce           
+Mars        0x00007ff676fd0000 + 225fccb         
+Mars        0x00007ff676fd0000 + 1e2c341         
+Mars        0x00007ff676fd0000 + 225bc0f         
+Mars        0x00007ff676fd0000 + 2252120         
+KERNEL32    0x00007ffeb7530000 + 17344           
+ntdll       0x00007ffeb8830000 + 526b1           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>21556</ThreadID>
+<ThreadName>PoolThread 19</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll       0x00007ffeb8830000 + 9d664           
+KERNELBASE  0x00007ffeb64b0000 + 4b62e           
+Mars        0x00007ff676fd0000 + 1fa5665         
+Mars        0x00007ff676fd0000 + 225bc0f         
+Mars        0x00007ff676fd0000 + 2252120         
+KERNEL32    0x00007ffeb7530000 + 17344           
+ntdll       0x00007ffeb8830000 + 526b1           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>11120</ThreadID>
+<ThreadName>FAsyncWriter_Mars</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll       0x00007ffeb8830000 + 9d064           
+KERNELBASE  0x00007ffeb64b0000 + 230ce           
+Mars        0x00007ff676fd0000 + 225fccb         
+Mars        0x00007ff676fd0000 + 53901dc         
+Mars        0x00007ff676fd0000 + 225bc0f         
+Mars        0x00007ff676fd0000 + 2252120         
+KERNEL32    0x00007ffeb7530000 + 17344           
+ntdll       0x00007ffeb8830000 + 526b1           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>6700</ThreadID>
+<ThreadName>FMediaTicker</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll       0x00007ffeb8830000 + 9d664           
+KERNELBASE  0x00007ffeb64b0000 + 4b62e           
+Mars        0x00007ff676fd0000 + 26d51a0         
+Mars        0x00007ff676fd0000 + 225bc0f         
+Mars        0x00007ff676fd0000 + 2252120         
+KERNEL32    0x00007ffeb7530000 + 17344           
+ntdll       0x00007ffeb8830000 + 526b1           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>20624</ThreadID>
+<ThreadName>HttpManagerThread</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll       0x00007ffeb8830000 + 9d064           
+KERNELBASE  0x00007ffeb64b0000 + 230ce           
+Mars        0x00007ff676fd0000 + 225fccb         
+Mars        0x00007ff676fd0000 + 198a636         
+Mars        0x00007ff676fd0000 + 225bc0f         
+Mars        0x00007ff676fd0000 + 2252120         
+KERNEL32    0x00007ffeb7530000 + 17344           
+ntdll       0x00007ffeb8830000 + 526b1           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>18496</ThreadID>
+<ThreadName>OnlineAsyncTaskThreadNull DefaultInstance(1)</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll       0x00007ffeb8830000 + 9d064           
+KERNELBASE  0x00007ffeb64b0000 + 230ce           
+Mars        0x00007ff676fd0000 + 225fccb         
+Mars        0x00007ff676fd0000 + 1e2c341         
+Mars        0x00007ff676fd0000 + 225bc0f         
+Mars        0x00007ff676fd0000 + 2252120         
+KERNEL32    0x00007ffeb7530000 + 17344           
+ntdll       0x00007ffeb8830000 + 526b1           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>4444</ThreadID>
+<ThreadName>PoolThread 20</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll       0x00007ffeb8830000 + 9d064           
+KERNELBASE  0x00007ffeb64b0000 + 230ce           
+Mars        0x00007ff676fd0000 + 225fccb         
+Mars        0x00007ff676fd0000 + 1e2c341         
+Mars        0x00007ff676fd0000 + 225bc0f         
+Mars        0x00007ff676fd0000 + 2252120         
+KERNEL32    0x00007ffeb7530000 + 17344           
+ntdll       0x00007ffeb8830000 + 526b1           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>1108</ThreadID>
+<ThreadName>PoolThread 21</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll       0x00007ffeb8830000 + 9d064           
+KERNELBASE  0x00007ffeb64b0000 + 230ce           
+Mars        0x00007ff676fd0000 + 225fccb         
+Mars        0x00007ff676fd0000 + 1e2c341         
+Mars        0x00007ff676fd0000 + 225bc0f         
+Mars        0x00007ff676fd0000 + 2252120         
+KERNEL32    0x00007ffeb7530000 + 17344           
+ntdll       0x00007ffeb8830000 + 526b1           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>8288</ThreadID>
+<ThreadName>PoolThread 22</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll       0x00007ffeb8830000 + 9d064           
+KERNELBASE  0x00007ffeb64b0000 + 230ce           
+Mars        0x00007ff676fd0000 + 225fccb         
+Mars        0x00007ff676fd0000 + 1e2c341         
+Mars        0x00007ff676fd0000 + 225bc0f         
+Mars        0x00007ff676fd0000 + 2252120         
+KERNEL32    0x00007ffeb7530000 + 17344           
+ntdll       0x00007ffeb8830000 + 526b1           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>8456</ThreadID>
+<ThreadName>PoolThread 23</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll       0x00007ffeb8830000 + 9d064           
+KERNELBASE  0x00007ffeb64b0000 + 230ce           
+Mars        0x00007ff676fd0000 + 225fccb         
+Mars        0x00007ff676fd0000 + 5cf1625         
+Mars        0x00007ff676fd0000 + 225bc0f         
+Mars        0x00007ff676fd0000 + 2252120         
+KERNEL32    0x00007ffeb7530000 + 17344           
+ntdll       0x00007ffeb8830000 + 526b1           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>17896</ThreadID>
+<ThreadName>ODSCThread</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll         0x00007ffeb8830000 + 9d064           
+KERNELBASE    0x00007ffeb64b0000 + 230ce           
+Mars          0x00007ff676fd0000 + 223afbd         
+Mars          0x00007ff676fd0000 + 75cbcce         
+VCRUNTIME140  0x00007ffea0460000 + f73f            
+ntdll         0x00007ffeb8830000 + a23af           
+ntdll         0x00007ffeb8830000 + 514b4           
+ntdll         0x00007ffeb8830000 + 51207           
+KERNELBASE    0x00007ffeb64b0000 + 2cf19           
+Mars          0x00007ff676fd0000 + 223ca07         
+Mars          0x00007ff676fd0000 + 223edd1         
+Mars          0x00007ff676fd0000 + 1f95cdd         
+Mars          0x00007ff676fd0000 + 2fd17e3         
+Mars          0x00007ff676fd0000 + 2fd66b7         
+Mars          0x00007ff676fd0000 + 2faf1b8         
+Mars          0x00007ff676fd0000 + 2fb74b4         
+Mars          0x00007ff676fd0000 + 2fc605f         
+Mars          0x00007ff676fd0000 + 498f3b2         
+Mars          0x00007ff676fd0000 + ada930          
+Mars          0x00007ff676fd0000 + ade7b0          
+Mars          0x00007ff676fd0000 + 1d3ba0b         
+Mars          0x00007ff676fd0000 + 1d3be6e         
+Mars          0x00007ff676fd0000 + 4a460d9         
+Mars          0x00007ff676fd0000 + 4a4b0d9         
+Mars          0x00007ff676fd0000 + 225bc0f         
+Mars          0x00007ff676fd0000 + 2252120         
+KERNEL32      0x00007ffeb7530000 + 17344           
+ntdll         0x00007ffeb8830000 + 526b1           
+</CallStack>
+<IsCrashed>true</IsCrashed>
+<Registers></Registers>
+<ThreadID>20416</ThreadID>
+<ThreadName>RenderThread 3</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll       0x00007ffeb8830000 + 9d664           
+KERNELBASE  0x00007ffeb64b0000 + 4b62e           
+Mars        0x00007ff676fd0000 + 225cfa2         
+Mars        0x00007ff676fd0000 + 4a4b237         
+Mars        0x00007ff676fd0000 + 225bc0f         
+Mars        0x00007ff676fd0000 + 2252120         
+KERNEL32    0x00007ffeb7530000 + 17344           
+ntdll       0x00007ffeb8830000 + 526b1           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>9648</ThreadID>
+<ThreadName>RTHeartBeat 3</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll       0x00007ffeb8830000 + 9d064           
+KERNELBASE  0x00007ffeb64b0000 + 230ce           
+Mars        0x00007ff676fd0000 + 225fccb         
+Mars        0x00007ff676fd0000 + 2c9dfba         
+Mars        0x00007ff676fd0000 + 225bc0f         
+Mars        0x00007ff676fd0000 + 2252120         
+KERNEL32    0x00007ffeb7530000 + 17344           
+ntdll       0x00007ffeb8830000 + 526b1           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>21884</ThreadID>
+<ThreadName>FMessageBus.DefaultBus.Router</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll       0x00007ffeb8830000 + 9d664           
+KERNELBASE  0x00007ffeb64b0000 + 4b62e           
+Mars        0x00007ff676fd0000 + 225cfa2         
+Mars        0x00007ff676fd0000 + 1ba181a         
+Mars        0x00007ff676fd0000 + 225bc0f         
+Mars        0x00007ff676fd0000 + 2252120         
+KERNEL32    0x00007ffeb7530000 + 17344           
+ntdll       0x00007ffeb8830000 + 526b1           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>10632</ThreadID>
+<ThreadName>LiveLinkMessageBusDiscoveryManager</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll       0x00007ffeb8830000 + 9d064           
+KERNELBASE  0x00007ffeb64b0000 + 230ce           
+Mars        0x00007ff676fd0000 + 225fccb         
+Mars        0x00007ff676fd0000 + 6b84b32         
+Mars        0x00007ff676fd0000 + 225bc0f         
+Mars        0x00007ff676fd0000 + 2252120         
+KERNEL32    0x00007ffeb7530000 + 17344           
+ntdll       0x00007ffeb8830000 + 526b1           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>2464</ThreadID>
+<ThreadName>FFileTransferRunnable</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll       0x00007ffeb8830000 + 9d064           
+KERNELBASE  0x00007ffeb64b0000 + 230ce           
+Mars        0x00007ff676fd0000 + 225fccb         
+Mars        0x00007ff676fd0000 + 1e2c341         
+Mars        0x00007ff676fd0000 + 225bc0f         
+Mars        0x00007ff676fd0000 + 2252120         
+KERNEL32    0x00007ffeb7530000 + 17344           
+ntdll       0x00007ffeb8830000 + 526b1           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>20208</ThreadID>
+<ThreadName>PoolThread 24</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll       0x00007ffeb8830000 + 9d064           
+KERNELBASE  0x00007ffeb64b0000 + 230ce           
+Mars        0x00007ff676fd0000 + 225fccb         
+Mars        0x00007ff676fd0000 + 1e2c341         
+Mars        0x00007ff676fd0000 + 225bc0f         
+Mars        0x00007ff676fd0000 + 2252120         
+KERNEL32    0x00007ffeb7530000 + 17344           
+ntdll       0x00007ffeb8830000 + 526b1           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>12440</ThreadID>
+<ThreadName>PoolThread 25</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll       0x00007ffeb8830000 + 9d064           
+KERNELBASE  0x00007ffeb64b0000 + 230ce           
+Mars        0x00007ff676fd0000 + 225fccb         
+Mars        0x00007ff676fd0000 + 1e2c341         
+Mars        0x00007ff676fd0000 + 225bc0f         
+Mars        0x00007ff676fd0000 + 2252120         
+KERNEL32    0x00007ffeb7530000 + 17344           
+ntdll       0x00007ffeb8830000 + 526b1           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>22176</ThreadID>
+<ThreadName>PoolThread 26</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll       0x00007ffeb8830000 + 9d064           
+KERNELBASE  0x00007ffeb64b0000 + 230ce           
+Mars        0x00007ff676fd0000 + 225fccb         
+Mars        0x00007ff676fd0000 + 1e2c341         
+Mars        0x00007ff676fd0000 + 225bc0f         
+Mars        0x00007ff676fd0000 + 2252120         
+KERNEL32    0x00007ffeb7530000 + 17344           
+ntdll       0x00007ffeb8830000 + 526b1           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>20408</ThreadID>
+<ThreadName>PoolThread 27</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll       0x00007ffeb8830000 + 9d064           
+KERNELBASE  0x00007ffeb64b0000 + 230ce           
+Mars        0x00007ff676fd0000 + 225fccb         
+Mars        0x00007ff676fd0000 + 1e2c341         
+Mars        0x00007ff676fd0000 + 225bc0f         
+Mars        0x00007ff676fd0000 + 2252120         
+KERNEL32    0x00007ffeb7530000 + 17344           
+ntdll       0x00007ffeb8830000 + 526b1           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>7276</ThreadID>
+<ThreadName>PoolThread 28</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll       0x00007ffeb8830000 + 9d064           
+KERNELBASE  0x00007ffeb64b0000 + 230ce           
+Mars        0x00007ff676fd0000 + 225fccb         
+Mars        0x00007ff676fd0000 + 1e2c341         
+Mars        0x00007ff676fd0000 + 225bc0f         
+Mars        0x00007ff676fd0000 + 2252120         
+KERNEL32    0x00007ffeb7530000 + 17344           
+ntdll       0x00007ffeb8830000 + 526b1           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>16736</ThreadID>
+<ThreadName>PoolThread 29</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll       0x00007ffeb8830000 + 9d064           
+KERNELBASE  0x00007ffeb64b0000 + 230ce           
+Mars        0x00007ff676fd0000 + 225fccb         
+Mars        0x00007ff676fd0000 + 1e2c341         
+Mars        0x00007ff676fd0000 + 225bc0f         
+Mars        0x00007ff676fd0000 + 2252120         
+KERNEL32    0x00007ffeb7530000 + 17344           
+ntdll       0x00007ffeb8830000 + 526b1           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>10920</ThreadID>
+<ThreadName>PoolThread 30</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll       0x00007ffeb8830000 + 9d064           
+KERNELBASE  0x00007ffeb64b0000 + 230ce           
+Mars        0x00007ff676fd0000 + 225fccb         
+Mars        0x00007ff676fd0000 + 1e2c341         
+Mars        0x00007ff676fd0000 + 225bc0f         
+Mars        0x00007ff676fd0000 + 2252120         
+KERNEL32    0x00007ffeb7530000 + 17344           
+ntdll       0x00007ffeb8830000 + 526b1           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>17948</ThreadID>
+<ThreadName>PoolThread 31</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll       0x00007ffeb8830000 + 9d064           
+KERNELBASE  0x00007ffeb64b0000 + 230ce           
+Mars        0x00007ff676fd0000 + 225fccb         
+Mars        0x00007ff676fd0000 + 1e2c341         
+Mars        0x00007ff676fd0000 + 225bc0f         
+Mars        0x00007ff676fd0000 + 2252120         
+KERNEL32    0x00007ffeb7530000 + 17344           
+ntdll       0x00007ffeb8830000 + 526b1           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>3700</ThreadID>
+<ThreadName>PoolThread 32</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll       0x00007ffeb8830000 + 9d064           
+KERNELBASE  0x00007ffeb64b0000 + 230ce           
+Mars        0x00007ff676fd0000 + 225fccb         
+Mars        0x00007ff676fd0000 + 1e2c341         
+Mars        0x00007ff676fd0000 + 225bc0f         
+Mars        0x00007ff676fd0000 + 2252120         
+KERNEL32    0x00007ffeb7530000 + 17344           
+ntdll       0x00007ffeb8830000 + 526b1           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>13036</ThreadID>
+<ThreadName>PoolThread 33</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll       0x00007ffeb8830000 + 9d664           
+KERNELBASE  0x00007ffeb64b0000 + 4b62e           
+Mars        0x00007ff676fd0000 + 225cfa2         
+Mars        0x00007ff676fd0000 + 6321c81         
+Mars        0x00007ff676fd0000 + 225bc0f         
+Mars        0x00007ff676fd0000 + 2252120         
+KERNEL32    0x00007ffeb7530000 + 17344           
+ntdll       0x00007ffeb8830000 + 526b1           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>11052</ThreadID>
+<ThreadName>ScreenSaverInhibitor</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll       0x00007ffeb8830000 + 9d064           
+KERNELBASE  0x00007ffeb64b0000 + 230ce           
+Mars        0x00007ff676fd0000 + 225fccb         
+Mars        0x00007ff676fd0000 + 513ac45         
+Mars        0x00007ff676fd0000 + 513ab03         
+Mars        0x00007ff676fd0000 + 225bc0f         
+Mars        0x00007ff676fd0000 + 2252120         
+KERNEL32    0x00007ffeb7530000 + 17344           
+ntdll       0x00007ffeb8830000 + 526b1           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>14564</ThreadID>
+<ThreadName>AudioMixerRenderThread(1)</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll       0x00007ffeb8830000 + 9d064           
+KERNELBASE  0x00007ffeb64b0000 + 230ce           
+Mars        0x00007ff676fd0000 + 225fccb         
+Mars        0x00007ff676fd0000 + 1d3b712         
+Mars        0x00007ff676fd0000 + 1d3be6e         
+Mars        0x00007ff676fd0000 + 56b1e37         
+Mars        0x00007ff676fd0000 + 225bc0f         
+Mars        0x00007ff676fd0000 + 2252120         
+KERNEL32    0x00007ffeb7530000 + 17344           
+ntdll       0x00007ffeb8830000 + 526b1           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>18296</ThreadID>
+<ThreadName>AudioThread</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll       0x00007ffeb8830000 + 9d064           
+KERNELBASE  0x00007ffeb64b0000 + 230ce           
+Mars        0x00007ff676fd0000 + 225fccb         
+Mars        0x00007ff676fd0000 + 2518492         
+Mars        0x00007ff676fd0000 + 225bc0f         
+Mars        0x00007ff676fd0000 + 2252120         
+KERNEL32    0x00007ffeb7530000 + 17344           
+ntdll       0x00007ffeb8830000 + 526b1           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>3428</ThreadID>
+<ThreadName>FAsyncPurge</ThreadName>
+</Thread>
+</Threads>
+</RuntimeProperties>
+<PlatformProperties>
+<PlatformIsRunningWindows>1</PlatformIsRunningWindows>
+<IsRunningOnBattery>true</IsRunningOnBattery>
+<PlatformCallbackResult>0</PlatformCallbackResult>
+</PlatformProperties>
+<EngineData>
+<RHI.IsGPUOverclocked>false</RHI.IsGPUOverclocked>
+<RHI.RHIName>D3D11</RHI.RHIName>
+<RHI.AdapterName>NVIDIA GeForce RTX 2080 Super</RHI.AdapterName>
+<RHI.UserDriverVersion>555.99</RHI.UserDriverVersion>
+<RHI.InternalDriverVersion>32.0.15.5599</RHI.InternalDriverVersion>
+<RHI.DriverDate>6-1-2024</RHI.DriverDate>
+<RHI.FeatureLevel>SM5</RHI.FeatureLevel>
+<DeviceProfile.Name>WindowsNoEditor</DeviceProfile.Name>
+</EngineData>
+<GameData>
+</GameData>
+</FGenericCrashContext>

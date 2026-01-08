@@ -1,0 +1,1601 @@
+﻿Log file open, 07/15/24 14:58:28
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogPakFile: Display: Found Pak file ../../../Mars/Content/Paks/Mars-WindowsNoEditor.pak attempting to mount.
+LogPakFile: Display: Mounting pak file ../../../Mars/Content/Paks/Mars-WindowsNoEditor.pak.
+LogPakFile: PakFile PrimaryIndexSize=150722
+LogPakFile: PakFile PathHashIndexSize=90790
+LogPakFile: PakFile FullDirectoryIndexSize=184495
+LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile '../../../Mars/Content/Paks/Mars-WindowsNoEditor.pak' (chunk index -1, root '../../../') mounted
+LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:../../../ File:../../../Mars/Content/Paks/Mars-WindowsNoEditor.pak)
+LogPakFile: OnPakFileMounted2Time == 0.000036
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 59 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.110439
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogInit: Display: Loading text-based GConfig....
+LogPluginManager: Mounting plugin AirSim
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PhysicalLayout
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin GameplayCameras
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin OodleData
+LogPluginManager: Mounting plugin OodleNetwork
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin PixWinPlugin
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin PythonScriptPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin OpenImageDenoise
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin MegascansPlugin
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogPluginManager: Mounting plugin SQLiteSupport
+LogPluginManager: Mounting plugin DatabaseSupport
+LogPluginManager: Mounting plugin SQLiteCore
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin OpenXREyeTracker
+LogPluginManager: Mounting plugin OpenXR
+LogPluginManager: Mounting plugin OpenXRHandTracking
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin Takes
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogLuminAPIImpl: Warning: MLSDK not found.  This likely means the MLSDK environment variable is not set.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogOculusPluginWrapper: OculusPlugin initialized successfully
+LogHMD: Failed initializing OVRPlugin 1.59.0
+LogInit: Build: ++UE4+Release-4.27-CL-18319896
+LogInit: Engine Version: 4.27.2-18319896+++UE4+Release-4.27
+LogInit: Compatible Engine Version: 4.27.0-17155196+++UE4+Release-4.27
+LogInit: Net CL: 17155196
+LogInit: OS: Windows 10 (Release 2009) (), CPU: Intel(R) Core(TM) i9-10900 CPU @ 2.80GHz, GPU: Microsoft Remote Display Adapter
+LogInit: Compiled (64-bit): Nov 30 2021 07:26:28
+LogInit: Compiled with Visual C++: 19.16.27032.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.27
+LogInit: Command Line:  -windowed
+LogInit: Base Directory: D:/MarsEnv2/WindowsNoEditor/Mars/Binaries/Win64/
+LogInit: Allocator: binned2
+LogInit: Installed Engine Build: 0
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 14
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 47
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 2097152 objects, including 1 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [../../../Mars/Saved/Config/WindowsNoEditor/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogStreaming: Display: Async Loading initialized: Event Driven Loader: true, Async Loading Thread: false, Async Post Load: true
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+LogConfig: Setting CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]]
+[2024.07.15-12.58.28:708][  0]LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+[2024.07.15-12.58.28:708][  0]LogConfig: Setting CVar [[r.setres:1280x720]]
+[2024.07.15-12.58.28:708][  0]LogConfig: Setting CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]]
+[2024.07.15-12.58.28:708][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [../../../Mars/Saved/Config/WindowsNoEditor/Engine.ini]
+[2024.07.15-12.58.28:708][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2024.07.15-12.58.28:708][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [../../../Mars/Saved/Config/WindowsNoEditor/Engine.ini]
+[2024.07.15-12.58.28:708][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [../../../Mars/Saved/Config/WindowsNoEditor/Engine.ini]
+[2024.07.15-12.58.28:708][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2024.07.15-12.58.28:708][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2024.07.15-12.58.28:708][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2024.07.15-12.58.28:708][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2024.07.15-12.58.28:708][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2024.07.15-12.58.28:708][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2024.07.15-12.58.28:708][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2024.07.15-12.58.28:708][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2024.07.15-12.58.28:708][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2024.07.15-12.58.28:708][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2024.07.15-12.58.28:708][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2024.07.15-12.58.28:708][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2024.07.15-12.58.28:708][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2024.07.15-12.58.28:709][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2024.07.15-12.58.28:709][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [../../../Mars/Saved/Config/WindowsNoEditor/Engine.ini]
+[2024.07.15-12.58.28:709][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2024.07.15-12.58.28:709][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2024.07.15-12.58.28:709][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2024.07.15-12.58.28:709][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2024.07.15-12.58.28:709][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2024.07.15-12.58.28:709][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2024.07.15-12.58.28:709][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2024.07.15-12.58.28:709][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2024.07.15-12.58.28:709][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2024.07.15-12.58.28:709][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2024.07.15-12.58.28:709][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2024.07.15-12.58.28:709][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2024.07.15-12.58.28:709][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2024.07.15-12.58.28:709][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2024.07.15-12.58.28:709][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [../../../Mars/Saved/Config/WindowsNoEditor/Engine.ini]
+[2024.07.15-12.58.28:711][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [../../../Mars/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2024.07.15-12.58.28:711][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2024.07.15-12.58.28:711][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2024.07.15-12.58.28:711][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [../../../Mars/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2024.07.15-12.58.28:711][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2024.07.15-12.58.28:711][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [../../../Mars/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2024.07.15-12.58.28:711][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2024.07.15-12.58.28:712][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2024.07.15-12.58.28:712][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2024.07.15-12.58.28:712][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2024.07.15-12.58.28:712][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2024.07.15-12.58.28:712][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2024.07.15-12.58.28:712][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2024.07.15-12.58.28:712][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2024.07.15-12.58.28:712][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2024.07.15-12.58.28:712][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2024.07.15-12.58.28:712][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2024.07.15-12.58.28:712][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2024.07.15-12.58.28:712][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2024.07.15-12.58.28:712][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2024.07.15-12.58.28:712][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2024.07.15-12.58.28:712][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2024.07.15-12.58.28:712][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2024.07.15-12.58.28:712][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2024.07.15-12.58.28:712][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [../../../Mars/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2024.07.15-12.58.28:712][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2024.07.15-12.58.28:712][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2024.07.15-12.58.28:712][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2024.07.15-12.58.28:712][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2024.07.15-12.58.28:712][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2024.07.15-12.58.28:712][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2024.07.15-12.58.28:712][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2024.07.15-12.58.28:712][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2024.07.15-12.58.28:712][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2024.07.15-12.58.28:712][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2024.07.15-12.58.28:712][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2024.07.15-12.58.28:712][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2024.07.15-12.58.28:712][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2024.07.15-12.58.28:712][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2024.07.15-12.58.28:712][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2024.07.15-12.58.28:712][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2024.07.15-12.58.28:712][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2024.07.15-12.58.28:712][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2024.07.15-12.58.28:712][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2024.07.15-12.58.28:712][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2024.07.15-12.58.28:712][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2024.07.15-12.58.28:712][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2024.07.15-12.58.28:712][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2024.07.15-12.58.28:712][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2024.07.15-12.58.28:712][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2024.07.15-12.58.28:712][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2024.07.15-12.58.28:712][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2024.07.15-12.58.28:712][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2024.07.15-12.58.28:712][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2024.07.15-12.58.28:712][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2024.07.15-12.58.28:712][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [../../../Mars/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2024.07.15-12.58.28:712][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2024.07.15-12.58.28:712][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2024.07.15-12.58.28:712][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2024.07.15-12.58.28:712][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2024.07.15-12.58.28:712][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2024.07.15-12.58.28:712][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2024.07.15-12.58.28:712][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2024.07.15-12.58.28:712][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2024.07.15-12.58.28:712][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2024.07.15-12.58.28:712][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [../../../Mars/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2024.07.15-12.58.28:712][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2024.07.15-12.58.28:712][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2024.07.15-12.58.28:712][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2024.07.15-12.58.28:712][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2024.07.15-12.58.28:712][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2024.07.15-12.58.28:712][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2024.07.15-12.58.28:712][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2024.07.15-12.58.28:712][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2024.07.15-12.58.28:712][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2024.07.15-12.58.28:712][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2024.07.15-12.58.28:712][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2024.07.15-12.58.28:712][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2024.07.15-12.58.28:712][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2024.07.15-12.58.28:712][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2024.07.15-12.58.28:712][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2024.07.15-12.58.28:712][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2024.07.15-12.58.28:712][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2024.07.15-12.58.28:712][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2024.07.15-12.58.28:712][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2024.07.15-12.58.28:712][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2024.07.15-12.58.28:712][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2024.07.15-12.58.28:712][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2024.07.15-12.58.28:712][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2024.07.15-12.58.28:712][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2024.07.15-12.58.28:712][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2024.07.15-12.58.28:712][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2024.07.15-12.58.28:712][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2024.07.15-12.58.28:712][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2024.07.15-12.58.28:712][  0]LogConfig: Setting CVar [[fx.Niagara.QualityLevel:3]]
+[2024.07.15-12.58.28:712][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [../../../Mars/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2024.07.15-12.58.28:712][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2024.07.15-12.58.28:712][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2024.07.15-12.58.28:712][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [../../../Mars/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2024.07.15-12.58.28:712][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2024.07.15-12.58.28:712][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2024.07.15-12.58.28:712][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2024.07.15-12.58.28:712][  0]LogInit: Selected Device Profile: [WindowsNoEditor]
+[2024.07.15-12.58.28:712][  0]LogInit: Applying CVar settings loaded from the selected device profile: [WindowsNoEditor]
+[2024.07.15-12.58.28:712][  0]LogHAL: Display: Platform has ~ 32 GB [34101932032 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2024.07.15-12.58.28:713][  0]LogInit: Going up to parent DeviceProfile [Windows]
+[2024.07.15-12.58.28:713][  0]LogInit: Going up to parent DeviceProfile []
+[2024.07.15-12.58.28:713][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [../../../Mars/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2024.07.15-12.58.28:713][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2024.07.15-12.58.28:713][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2024.07.15-12.58.28:713][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [../../../Mars/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2024.07.15-12.58.28:713][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2024.07.15-12.58.28:713][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [../../../Mars/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2024.07.15-12.58.28:713][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2024.07.15-12.58.28:713][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2024.07.15-12.58.28:713][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2024.07.15-12.58.28:713][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2024.07.15-12.58.28:713][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2024.07.15-12.58.28:713][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2024.07.15-12.58.28:713][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2024.07.15-12.58.28:713][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2024.07.15-12.58.28:713][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2024.07.15-12.58.28:713][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2024.07.15-12.58.28:713][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2024.07.15-12.58.28:713][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2024.07.15-12.58.28:713][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2024.07.15-12.58.28:713][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2024.07.15-12.58.28:713][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2024.07.15-12.58.28:713][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2024.07.15-12.58.28:713][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2024.07.15-12.58.28:713][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2024.07.15-12.58.28:713][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [../../../Mars/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2024.07.15-12.58.28:713][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2024.07.15-12.58.28:713][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2024.07.15-12.58.28:713][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2024.07.15-12.58.28:713][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2024.07.15-12.58.28:713][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2024.07.15-12.58.28:713][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2024.07.15-12.58.28:713][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2024.07.15-12.58.28:713][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2024.07.15-12.58.28:713][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2024.07.15-12.58.28:713][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2024.07.15-12.58.28:713][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2024.07.15-12.58.28:713][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2024.07.15-12.58.28:713][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2024.07.15-12.58.28:713][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2024.07.15-12.58.28:713][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2024.07.15-12.58.28:713][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2024.07.15-12.58.28:713][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2024.07.15-12.58.28:713][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2024.07.15-12.58.28:713][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2024.07.15-12.58.28:713][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2024.07.15-12.58.28:713][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2024.07.15-12.58.28:713][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2024.07.15-12.58.28:713][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2024.07.15-12.58.28:713][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2024.07.15-12.58.28:713][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2024.07.15-12.58.28:713][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2024.07.15-12.58.28:713][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2024.07.15-12.58.28:713][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2024.07.15-12.58.28:713][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2024.07.15-12.58.28:713][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2024.07.15-12.58.28:713][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [../../../Mars/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2024.07.15-12.58.28:713][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2024.07.15-12.58.28:713][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2024.07.15-12.58.28:713][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2024.07.15-12.58.28:713][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2024.07.15-12.58.28:713][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2024.07.15-12.58.28:713][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2024.07.15-12.58.28:713][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2024.07.15-12.58.28:713][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2024.07.15-12.58.28:713][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2024.07.15-12.58.28:713][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [../../../Mars/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2024.07.15-12.58.28:713][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2024.07.15-12.58.28:713][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2024.07.15-12.58.28:713][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2024.07.15-12.58.28:713][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2024.07.15-12.58.28:713][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2024.07.15-12.58.28:713][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2024.07.15-12.58.28:713][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2024.07.15-12.58.28:713][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2024.07.15-12.58.28:713][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2024.07.15-12.58.28:713][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2024.07.15-12.58.28:713][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2024.07.15-12.58.28:713][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2024.07.15-12.58.28:713][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2024.07.15-12.58.28:713][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2024.07.15-12.58.28:713][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2024.07.15-12.58.28:713][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2024.07.15-12.58.28:713][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2024.07.15-12.58.28:713][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2024.07.15-12.58.28:713][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2024.07.15-12.58.28:713][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2024.07.15-12.58.28:713][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2024.07.15-12.58.28:713][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2024.07.15-12.58.28:713][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2024.07.15-12.58.28:713][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2024.07.15-12.58.28:713][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2024.07.15-12.58.28:713][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2024.07.15-12.58.28:713][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2024.07.15-12.58.28:713][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2024.07.15-12.58.28:713][  0]LogConfig: Setting CVar [[fx.Niagara.QualityLevel:3]]
+[2024.07.15-12.58.28:713][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [../../../Mars/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2024.07.15-12.58.28:713][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2024.07.15-12.58.28:713][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2024.07.15-12.58.28:713][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [../../../Mars/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2024.07.15-12.58.28:713][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2024.07.15-12.58.28:714][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2024.07.15-12.58.28:714][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2024.07.15-12.58.28:714][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2024.07.15-12.58.28:714][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2024.07.15-12.58.28:714][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2024.07.15-12.58.28:714][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2024.07.15-12.58.28:714][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [../../../Mars/Saved/Config/WindowsNoEditor/Engine.ini]
+[2024.07.15-12.58.28:714][  0]LogInit: Computer: PP1819
+[2024.07.15-12.58.28:714][  0]LogInit: User: mohammedattaoui
+[2024.07.15-12.58.28:714][  0]LogInit: CPU Page size=4096, Cores=10
+[2024.07.15-12.58.28:714][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2024.07.15-12.58.28:714][  0]LogMemory: Memory total: Physical=31.8GB (32GB approx)
+[2024.07.15-12.58.28:714][  0]LogMemory: Platform Memory Stats for WindowsNoEditor
+[2024.07.15-12.58.28:714][  0]LogMemory: Process Physical Memory: 98.87 MB used, 98.88 MB peak
+[2024.07.15-12.58.28:714][  0]LogMemory: Process Virtual Memory: 88.72 MB used, 88.72 MB peak
+[2024.07.15-12.58.28:714][  0]LogMemory: Physical Memory: 14680.30 MB used,  17841.83 MB free, 32522.14 MB total
+[2024.07.15-12.58.28:714][  0]LogMemory: Virtual Memory: 134208592.00 MB used,  9136.88 MB free, 134217728.00 MB total
+[2024.07.15-12.58.28:717][  0]LogWindows: WindowsPlatformFeatures enabled
+[2024.07.15-12.58.28:792][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2024.07.15-12.58.28:793][  0]LogInit: Using OS detected language (en-US).
+[2024.07.15-12.58.28:793][  0]LogInit: Using OS detected locale (en-US).
+[2024.07.15-12.58.28:793][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2024.07.15-12.58.28:820][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2024.07.15-12.58.28:842][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2024.07.15-12.58.28:842][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2024.07.15-12.58.28:860][  0]LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+[2024.07.15-12.58.28:863][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2024.07.15-12.58.28:863][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2024.07.15-12.58.28:863][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2024.07.15-12.58.28:863][  0]LogD3D11RHI: D3D11 adapters:
+[2024.07.15-12.58.29:035][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 2080 Super' (Feature Level 11_0)
+[2024.07.15-12.58.29:035][  0]LogD3D11RHI:       7987/0/16261 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2024.07.15-12.58.29:083][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics 630' (Feature Level 11_0)
+[2024.07.15-12.58.29:083][  0]LogD3D11RHI:       128/0/16261 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2024.07.15-12.58.29:086][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2024.07.15-12.58.29:086][  0]LogD3D11RHI:       0/0/16261 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2024.07.15-12.58.29:189][  0]LogD3D11RHI:    3. 'NVIDIA GeForce RTX 2080 Super' (Feature Level 11_0)
+[2024.07.15-12.58.29:189][  0]LogD3D11RHI:       7987/0/16261 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x10de
+[2024.07.15-12.58.29:189][  0]LogD3D11RHI: Chosen D3D11 Adapter:
+[2024.07.15-12.58.29:189][  0]LogD3D11RHI:     Description : NVIDIA GeForce RTX 2080 Super
+[2024.07.15-12.58.29:189][  0]LogD3D11RHI:     VendorId    : 10de
+[2024.07.15-12.58.29:189][  0]LogD3D11RHI:     DeviceId    : 1e93
+[2024.07.15-12.58.29:189][  0]LogD3D11RHI:     SubSysId    : 99d1028
+[2024.07.15-12.58.29:189][  0]LogD3D11RHI:     Revision    : 00a1
+[2024.07.15-12.58.29:189][  0]LogD3D11RHI:     DedicatedVideoMemory : 8374976512 bytes
+[2024.07.15-12.58.29:189][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2024.07.15-12.58.29:189][  0]LogD3D11RHI:     SharedSystemMemory : 17050966016 bytes
+[2024.07.15-12.58.29:189][  0]LogD3D11RHI:     AdapterLuid : 0 97041
+[2024.07.15-12.58.29:199][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2024.07.15-12.58.29:199][  0]LogD3D11RHI:     GPU DeviceId: 0x1e93 (for the marketing name, search the web for "GPU Device Id")
+[2024.07.15-12.58.29:199][  0]LogWindows: EnumDisplayDevices:
+[2024.07.15-12.58.29:199][  0]LogWindows:    0. 'Microsoft Remote Display Adapter' (P:1 D:1)
+[2024.07.15-12.58.29:200][  0]LogWindows:    1. 'Microsoft Remote Display Adapter' (P:0 D:0)
+[2024.07.15-12.58.29:200][  0]LogWindows:    2. 'Microsoft Remote Display Adapter' (P:0 D:0)
+[2024.07.15-12.58.29:200][  0]LogWindows:    3. 'Microsoft Remote Display Adapter' (P:0 D:0)
+[2024.07.15-12.58.29:200][  0]LogWindows:    4. 'Microsoft Remote Display Adapter' (P:0 D:0)
+[2024.07.15-12.58.29:200][  0]LogWindows:    5. 'Microsoft Remote Display Adapter' (P:0 D:0)
+[2024.07.15-12.58.29:200][  0]LogWindows:    6. 'Microsoft Remote Display Adapter' (P:0 D:0)
+[2024.07.15-12.58.29:200][  0]LogWindows:    7. 'Microsoft Remote Display Adapter' (P:0 D:0)
+[2024.07.15-12.58.29:200][  0]LogWindows:    8. 'Microsoft Remote Display Adapter' (P:0 D:0)
+[2024.07.15-12.58.29:200][  0]LogWindows:    9. 'Microsoft Remote Display Adapter' (P:0 D:0)
+[2024.07.15-12.58.29:201][  0]LogWindows:    10. 'Microsoft Remote Display Adapter' (P:0 D:0)
+[2024.07.15-12.58.29:201][  0]LogWindows:    11. 'Microsoft Remote Display Adapter' (P:0 D:0)
+[2024.07.15-12.58.29:201][  0]LogWindows:    12. 'Microsoft Remote Display Adapter' (P:0 D:0)
+[2024.07.15-12.58.29:201][  0]LogWindows:    13. 'Microsoft Remote Display Adapter' (P:0 D:0)
+[2024.07.15-12.58.29:201][  0]LogWindows:    14. 'Microsoft Remote Display Adapter' (P:0 D:0)
+[2024.07.15-12.58.29:201][  0]LogWindows:    15. 'Microsoft Remote Display Adapter' (P:0 D:0)
+[2024.07.15-12.58.29:201][  0]LogWindows: DebugString: PrimaryDriverLocationFailed PrimaryDriverLocationFailed PrimaryDriverLocationFailed PrimaryDriverLocationFailed PrimaryDriverLocationFailed PrimaryDriverLocationFailed PrimaryDriverLocationFailed PrimaryDriverLocationFailed PrimaryDriverLocationFailed PrimaryDriverLocationFailed PrimaryDriverLocationFailed PrimaryDriverLocationFailed PrimaryDriverLocationFailed PrimaryDriverLocationFailed PrimaryDriverLocationFailed PrimaryDriverLocationFailed FoundDriverCount:0 
+[2024.07.15-12.58.29:201][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 2080 Super
+[2024.07.15-12.58.29:201][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2024.07.15-12.58.29:201][  0]LogD3D11RHI:      Driver Date: Unknown
+[2024.07.15-12.58.29:201][  0]LogRHI: Texture pool is 5590 MB (70% of 7987 MB)
+[2024.07.15-12.58.29:201][  0]LogD3D11RHI: Creating D3DDevice using adapter:
+[2024.07.15-12.58.29:201][  0]LogD3D11RHI:     Description : NVIDIA GeForce RTX 2080 Super
+[2024.07.15-12.58.29:201][  0]LogD3D11RHI:     VendorId    : 10de
+[2024.07.15-12.58.29:201][  0]LogD3D11RHI:     DeviceId    : 1e93
+[2024.07.15-12.58.29:201][  0]LogD3D11RHI:     SubSysId    : 99d1028
+[2024.07.15-12.58.29:201][  0]LogD3D11RHI:     Revision    : 00a1
+[2024.07.15-12.58.29:201][  0]LogD3D11RHI:     DedicatedVideoMemory : 8374976512 bytes
+[2024.07.15-12.58.29:201][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2024.07.15-12.58.29:201][  0]LogD3D11RHI:     SharedSystemMemory : 17050966016 bytes
+[2024.07.15-12.58.29:201][  0]LogD3D11RHI:     AdapterLuid : 0 97041
+[2024.07.15-12.58.29:295][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2024.07.15-12.58.29:295][  0]LogD3D11RHI: Async texture creation enabled
+[2024.07.15-12.58.29:295][  0]LogD3D11RHI: Array index from any shader is supported
+[2024.07.15-12.58.29:332][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2024.07.15-12.58.29:413][  0]LogRHI: GeForceNow SDK initialized: 1
+[2024.07.15-12.58.29:413][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2024.07.15-12.58.29:416][  0]LogShaderLibrary: Display: Using ../../../Mars/Content/ShaderArchive-Global-PCD3D_SM5.ushaderbytecode for material shader code. Total 1951 unique shaders.
+[2024.07.15-12.58.29:416][  0]LogShaderLibrary: Display: Cooked Context: Using Shared Shader Library Global
+[2024.07.15-12.58.29:416][  0]LogShaderLibrary: Display: Logical shader library 'Global' has been created, components 1
+[2024.07.15-12.58.29:416][  0]LogTemp: Warning: Clearing the OS Cache
+[2024.07.15-12.58.29:416][  0]LogODSC: ODSC Thread active.
+[2024.07.15-12.58.29:418][  0]LogPakFile: New pak file ../../../Mars/Content/Paks/Mars-WindowsNoEditor.pak added to pak precacher.
+[2024.07.15-12.58.29:445][  0]LogSlate: Using FreeType 2.10.0
+[2024.07.15-12.58.29:446][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2024.07.15-12.58.29:492][  0]LogShaderLibrary: Display: Using ../../../Mars/Content/ShaderArchive-Mars-PCD3D_SM5.ushaderbytecode for material shader code. Total 4321 unique shaders.
+[2024.07.15-12.58.29:492][  0]LogShaderLibrary: Display: Cooked Context: Using Shared Shader Library Mars
+[2024.07.15-12.58.29:492][  0]LogShaderLibrary: Display: Logical shader library 'Mars' has been created, components 1
+[2024.07.15-12.58.29:492][  0]LogRHI: Display: Opened pipeline cache after state change and enqueued 0 of 0 tasks for precompile.
+[2024.07.15-12.58.29:492][  0]LogShaderLibrary: Display: Using ../../../Mars/Content/ShaderArchive-Mars-PCD3D_SM5.ushaderbytecode for material shader code. Total 4321 unique shaders.
+[2024.07.15-12.58.29:492][  0]LogShaderLibrary: Display: Cooked Context: Using Shared Shader Library Mars
+[2024.07.15-12.58.29:492][  0]LogRHI: Display: Opened pipeline cache after state change and enqueued 0 of 0 tasks for precompile.
+[2024.07.15-12.58.29:492][  0]LogRHI: Display: Failed to open default shader pipeline cache for Mars using shader platform 0.
+[2024.07.15-12.58.29:492][  0]LogRHI: Display: Failed to open default shader pipeline cache for Mars using shader platform 0.
+[2024.07.15-12.58.29:493][  0]LogInit: Using OS detected language (en-US).
+[2024.07.15-12.58.29:493][  0]LogInit: Using OS detected locale (en-US).
+[2024.07.15-12.58.29:493][  0]LogTextLocalizationManager: No localization for 'en-US' exists, so 'en' will be used for the language.
+[2024.07.15-12.58.29:493][  0]LogTextLocalizationManager: No localization for 'en-US' exists, so 'en' will be used for the locale.
+[2024.07.15-12.58.29:493][  0]LogSlate: FontCache flush requested. Reason: Culture for localization was changed
+[2024.07.15-12.58.29:493][  0]LogSlate: FontCache flush requested. Reason: Culture for localization was changed
+[2024.07.15-12.58.29:495][  0]LogTextLocalizationManager: Compacting localization data took   0.67ms
+[2024.07.15-12.58.29:495][  0]LogAssetRegistry: FAssetRegistry took 0.0014 seconds to start up
+[2024.07.15-12.58.29:559][  0]LogStreaming: Display: FlushAsyncLoading: 1 QueuedPackages, 0 AsyncPackages
+[2024.07.15-12.58.29:559][  0]LogPackageLocalizationCache: Processed 28 localized package path(s) for 1 prioritized culture(s) in 0.000050 seconds
+[2024.07.15-12.58.29:564][  0]LogSerialization: Display: AllowBulkDataInIoStore: 'true'
+[2024.07.15-12.58.29:564][  0]LogInit: Selected Device Profile: [WindowsNoEditor]
+[2024.07.15-12.58.29:565][  0]LogInit: Active device profile: [0000021FAD4767C0][0000021FAA516DC0 49] WindowsNoEditor
+[2024.07.15-12.58.29:565][  0]LogInit: Profiles: [0000021FAD476AC0][0000021FAA5124A0 49] Windows, [0000021FAD4767C0][0000021FAA516DC0 49] WindowsNoEditor, 
+[2024.07.15-12.58.29:575][  0]LogNetVersion: Mars 1.0.0, NetCL: 17155196, EngineNetVer: 17, GameNetVer: 0 (Checksum: 2239983175)
+[2024.07.15-12.58.29:647][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2024.07.15-12.58.29:647][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2024.07.15-12.58.29:648][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2024.07.15-12.58.29:665][  0]LogMoviePlayer: Initializing movie player
+[2024.07.15-12.58.29:665][  0]LogTemp: StartupModule: AirSim plugin
+[2024.07.15-12.58.29:666][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: 8DEB75C344BCC5CB4FE6CD9F195CB0F4 | Instance: 2ADE99A943887B819B1CD49C0B7275CB (PP1819-11796).
+[2024.07.15-12.58.29:667][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2024.07.15-12.58.29:667][  0]LogOcInput: OculusInput pre-init called
+[2024.07.15-12.58.29:670][  0]LogUObjectArray: 16197 objects as part of root set at end of initial load.
+[2024.07.15-12.58.29:670][  0]LogUObjectArray: 2 objects are not in the root set, but can never be destroyed because they are in the DisregardForGC set.
+[2024.07.15-12.58.29:670][  0]LogUObjectAllocator: 3373784 out of 0 bytes used by permanent object pool.
+[2024.07.15-12.58.29:670][  0]LogUObjectArray: CloseDisregardForGC: 16197/16197 objects in disregard for GC pool
+[2024.07.15-12.58.29:672][  0]LogEngine: Initializing Engine...
+[2024.07.15-12.58.29:676][  0]LogHMD: Failed to enumerate extensions. Please check that you have a valid OpenXR runtime installed.
+[2024.07.15-12.58.29:676][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2024.07.15-12.58.29:677][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2024.07.15-12.58.29:738][  0]LogInit: Initializing FReadOnlyCVARCache
+[2024.07.15-12.58.29:738][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2024.07.15-12.58.29:738][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2024.07.15-12.58.29:738][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2024.07.15-12.58.29:738][  0]LogAudio: Display: Audio Device Manager Initialized
+[2024.07.15-12.58.29:738][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2024.07.15-12.58.29:738][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.07.15-12.58.29:738][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.07.15-12.58.29:738][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.07.15-12.58.29:738][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.07.15-12.58.29:738][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.07.15-12.58.29:738][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.07.15-12.58.29:738][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.07.15-12.58.29:738][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.07.15-12.58.29:739][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.07.15-12.58.29:739][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.07.15-12.58.29:739][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.07.15-12.58.29:739][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2024.07.15-12.58.29:756][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2024.07.15-12.58.29:772][  0]LogAudioMixer: Display: 0: FrontLeft
+[2024.07.15-12.58.29:772][  0]LogAudioMixer: Display: 1: FrontRight
+[2024.07.15-12.58.29:863][  0]LogAudioMixer: Display: Using Audio Device Remote Audio
+[2024.07.15-12.58.29:864][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.07.15-12.58.29:865][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.07.15-12.58.29:865][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.07.15-12.58.29:865][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2024.07.15-12.58.29:865][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2024.07.15-12.58.29:866][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2024.07.15-12.58.29:866][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2024.07.15-12.58.29:866][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2024.07.15-12.58.29:866][  0]LogInit: FAudioDevice initialized.
+[2024.07.15-12.58.29:867][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2024.07.15-12.58.29:867][  0]LogInit: Texture streaming: Enabled
+[2024.07.15-12.58.29:869][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2024.07.15-12.58.29:870][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.07.15-12.58.29:871][  0]LogInit: Display: Game Engine Initialized.
+[2024.07.15-12.58.29:871][  0]LogInit: Display: Starting Game.
+[2024.07.15-12.58.29:871][  0]LogNet: Browse: /Game/martian_surface/Maps/martian_surface_demo?Name=Player
+[2024.07.15-12.58.29:871][  0]LogLoad: LoadMap: /Game/martian_surface/Maps/martian_surface_demo?Name=Player
+[2024.07.15-12.58.29:871][  0]LogWorld: BeginTearingDown for /Temp/Untitled_0
+[2024.07.15-12.58.29:874][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2024.07.15-12.58.29:874][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.15-12.58.29:878][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.07.15-12.58.29:880][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2024.07.15-12.58.29:938][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'martian_surface_demo'.
+[2024.07.15-12.58.29:940][  0]LogAIModule: Creating AISystem for world martian_surface_demo
+[2024.07.15-12.58.29:940][  0]LogLoad: Game class is 'AirSimGameMode'
+[2024.07.15-12.58.29:945][  0]LogWorld: Bringing World /Game/martian_surface/Maps/martian_surface_demo.martian_surface_demo up for play (max tick rate 0) at 2024.07.15-14.58.29
+[2024.07.15-12.58.29:946][  0]LogWorld: Bringing up level for play took: 0.002673
+[2024.07.15-12.58.31:082][  0]LogPackageName: SearchForPackageOnDisk took   0.061s, but failed to resolve .
+[2024.07.15-12.58.31:082][  0]r.CustomDepth = "3"
+[2024.07.15-12.58.31:083][  0]LogLevel: WORLD TRANSLATION BEGIN {0, 0, 0} -> {-4160, 4950, 2852}
+[2024.07.15-12.58.31:087][  0]LogLevel: WORLD TRANSLATION END {-4160, 4950, 2852} took 4.2028 ms
+[2024.07.15-12.58.31:100][  0]LogActor: Warning: BP_CameraDirector_C /Game/martian_surface/Maps/martian_surface_demo.martian_surface_demo:PersistentLevel.CameraDirector has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2024.07.15-12.58.31:219][  0]LogPawn: Error: EnableInput can only be specified on a Pawn for its Controller
+[2024.07.15-12.58.31:283][  0]LogTemp: PhysXCar
+[2024.07.15-12.58.31:286][  0]LogLoad: Took 1.413995 seconds to LoadMap(/Game/martian_surface/Maps/martian_surface_demo)
+[2024.07.15-12.58.31:286][  0]LogSlate: Took 0.000327 seconds to synchronously load lazily loaded font '../../../Engine/Content/EngineFonts/Faces/RobotoBold.ufont' (160K)
+[2024.07.15-12.58.31:449][  0]LogSlate: Took 0.000285 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2024.07.15-12.58.31:457][  0]LogRHI: Display: ShaderPipelineCache: Paused Batching. 1
+[2024.07.15-12.58.31:457][  0]LogPakFile: AllPaks IndexSizes: DirectoryHashSize=581632, PathHashSize=16, EntriesSize=151552, TotalSize=733200
+[2024.07.15-12.58.31:457][  0]LogRHI: Display: ShaderPipelineCache: Resumed Batching. 0
+[2024.07.15-12.58.31:457][  0]LogRHI: Display: ShaderPipelineCache: Batching Resumed.
+[2024.07.15-12.58.31:457][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2024.07.15-12.58.31:457][  0]LogLoad: (Engine Initialization) Total time: 3.28 seconds
+[2024.07.15-12.58.31:460][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2024.07.15-12.58.31:464][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.15-12.58.31:477][  0]LogRenderer: Reallocating scene render targets to support 128x128 Format 10 NumSamples 1 (Frame:0).
+[2024.07.15-12.58.31:622][  0]LogSlate: Slate font cache was flushed
+[2024.07.15-12.58.31:623][  1]LogInput: Error: Duplicate mapping of key Right for axis MoveRight
+[2024.07.15-12.58.31:623][  1]LogInput: Error: Duplicate mapping of key Left for axis MoveRight
+[2024.07.15-12.58.31:628][  1]LogSlate: Took 0.000264 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2024.07.15-12.58.31:726][ 21]LogPakFile: Precache HighWater 16MB
+
+[2024.07.15-12.58.31:940][ 86]LogD3D11RHI: Display: Temp texture streaming buffer not large enough, needed 8388608 bytes
+[2024.07.15-12.58.31:979][ 97]LogPakFile: Precache HighWater 32MB
+
+[2024.07.15-12.58.32:013][109]LogD3D11RHI: Display: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2024.07.15-12.58.32:112][154]LogD3D11RHI: Display: Temp texture streaming buffer not large enough, needed 8388608 bytes
+[2024.07.15-12.59.12:508][838]LogRenderer: Reallocating scene render targets to support 512x512 Format 10 NumSamples 1 (Frame:1).
+[2024.07.15-13.48.13:690][399]LogAudioMixer: Warning: Audio device removed, falling back to other windows default device.
+[2024.07.15-13.48.13:690][399]LogAudioMixer: Resetting audio stream to device id 
+[2024.07.15-13.48.13:690][399]LogAudio: Display: Waited 35.613800 ms for audio thread.
+[2024.07.15-13.48.13:725][399]LogAudio: Display: Waited 70.548698 ms for audio thread.
+[2024.07.15-13.48.13:760][399]LogAudio: Display: Waited 105.560402 ms for audio thread.
+[2024.07.15-13.48.13:796][399]LogAudio: Display: Waited 141.563400 ms for audio thread.
+[2024.07.15-13.48.13:831][399]LogAudio: Display: Waited 176.555389 ms for audio thread.
+[2024.07.15-13.48.13:866][399]LogAudio: Display: Waited 211.558197 ms for audio thread.
+[2024.07.15-13.48.13:902][399]LogAudio: Display: Waited 247.550293 ms for audio thread.
+[2024.07.15-13.48.13:937][399]LogAudio: Display: Waited 282.550293 ms for audio thread.
+[2024.07.15-13.48.13:972][399]LogAudio: Display: Waited 317.555115 ms for audio thread.
+[2024.07.15-13.48.14:007][399]LogAudio: Display: Waited 352.551483 ms for audio thread.
+[2024.07.15-13.48.14:043][399]LogAudio: Display: Waited 388.551697 ms for audio thread.
+[2024.07.15-13.48.14:078][399]LogAudio: Display: Waited 423.885498 ms for audio thread.
+[2024.07.15-13.48.14:113][399]LogAudio: Display: Waited 458.551910 ms for audio thread.
+[2024.07.15-13.48.14:148][399]LogAudio: Display: Waited 493.549988 ms for audio thread.
+[2024.07.15-13.48.14:184][399]LogAudio: Display: Waited 529.554504 ms for audio thread.
+[2024.07.15-13.48.14:220][399]LogAudio: Display: Waited 565.552917 ms for audio thread.
+[2024.07.15-13.48.14:256][399]LogAudio: Display: Waited 601.549927 ms for audio thread.
+[2024.07.15-13.48.14:291][399]LogAudio: Display: Waited 636.558899 ms for audio thread.
+[2024.07.15-13.48.14:326][399]LogAudio: Display: Waited 671.556763 ms for audio thread.
+[2024.07.15-13.48.14:362][399]LogAudio: Display: Waited 707.549072 ms for audio thread.
+[2024.07.15-13.48.14:397][399]LogAudio: Display: Waited 742.553101 ms for audio thread.
+[2024.07.15-13.48.14:432][399]LogAudio: Display: Waited 777.886780 ms for audio thread.
+[2024.07.15-13.48.14:467][399]LogAudio: Display: Waited 812.887756 ms for audio thread.
+[2024.07.15-13.48.14:502][399]LogAudio: Display: Waited 847.886963 ms for audio thread.
+[2024.07.15-13.48.14:537][399]LogAudio: Display: Waited 882.893494 ms for audio thread.
+[2024.07.15-13.48.14:573][399]LogAudio: Display: Waited 918.888000 ms for audio thread.
+[2024.07.15-13.48.14:608][399]LogAudio: Display: Waited 953.890808 ms for audio thread.
+[2024.07.15-13.48.14:643][399]LogAudio: Display: Waited 988.908997 ms for audio thread.
+[2024.07.15-13.48.14:679][399]LogAudio: Display: Waited 1024.950195 ms for audio thread.
+[2024.07.15-13.48.14:715][399]LogAudio: Display: Waited 1060.891846 ms for audio thread.
+[2024.07.15-13.48.14:750][399]LogAudio: Display: Waited 1095.890015 ms for audio thread.
+[2024.07.15-13.48.14:786][399]LogAudio: Display: Waited 1131.903564 ms for audio thread.
+[2024.07.15-13.48.14:821][399]LogAudio: Display: Waited 1167.406738 ms for audio thread.
+[2024.07.15-13.48.14:856][399]LogAudio: Display: Waited 1202.406494 ms for audio thread.
+[2024.07.15-13.48.14:891][399]LogAudio: Display: Waited 1237.407593 ms for audio thread.
+[2024.07.15-13.48.14:927][399]LogAudio: Display: Waited 1273.404297 ms for audio thread.
+[2024.07.15-13.48.14:962][399]LogAudio: Display: Waited 1308.406494 ms for audio thread.
+[2024.07.15-13.48.14:998][399]LogAudio: Display: Waited 1344.408569 ms for audio thread.
+[2024.07.15-13.48.15:033][399]LogAudio: Display: Waited 1379.410156 ms for audio thread.
+[2024.07.15-13.48.15:068][399]LogAudio: Display: Waited 1414.410889 ms for audio thread.
+[2024.07.15-13.48.15:104][399]LogAudio: Display: Waited 1450.407715 ms for audio thread.
+[2024.07.15-13.48.15:140][399]LogAudio: Display: Waited 1486.411255 ms for audio thread.
+[2024.07.15-13.48.15:176][399]LogAudio: Display: Waited 1522.405396 ms for audio thread.
+[2024.07.15-13.48.15:211][399]LogAudio: Display: Waited 1557.414185 ms for audio thread.
+[2024.07.15-13.48.15:246][399]LogAudio: Display: Waited 1592.406494 ms for audio thread.
+[2024.07.15-13.48.15:282][399]LogAudio: Display: Waited 1628.416138 ms for audio thread.
+[2024.07.15-13.48.15:317][399]LogAudio: Display: Waited 1663.419067 ms for audio thread.
+[2024.07.15-13.48.15:353][399]LogAudio: Display: Waited 1699.406738 ms for audio thread.
+[2024.07.15-13.48.15:388][399]LogAudio: Display: Waited 1734.409058 ms for audio thread.
+[2024.07.15-13.48.15:423][399]LogAudio: Display: Waited 1769.407471 ms for audio thread.
+[2024.07.15-13.48.15:459][399]LogAudio: Display: Waited 1804.944336 ms for audio thread.
+[2024.07.15-13.48.15:494][399]LogAudio: Display: Waited 1839.938354 ms for audio thread.
+[2024.07.15-13.48.15:530][399]LogAudio: Display: Waited 1875.938843 ms for audio thread.
+[2024.07.15-13.48.15:565][399]LogAudio: Display: Waited 1910.942017 ms for audio thread.
+[2024.07.15-13.48.15:601][399]LogAudio: Display: Waited 1946.943970 ms for audio thread.
+[2024.07.15-13.48.15:637][399]LogAudio: Display: Waited 1982.940552 ms for audio thread.
+[2024.07.15-13.48.15:673][399]LogAudio: Display: Waited 2018.946899 ms for audio thread.
+[2024.07.15-13.48.15:709][399]LogAudio: Display: Waited 2054.939453 ms for audio thread.
+[2024.07.15-13.48.15:744][399]LogAudio: Display: Waited 2089.939697 ms for audio thread.
+[2024.07.15-13.48.15:779][399]LogAudio: Display: Waited 2124.945068 ms for audio thread.
+[2024.07.15-13.48.15:815][399]LogAudio: Display: Waited 2160.928711 ms for audio thread.
+[2024.07.15-13.48.15:850][399]LogAudio: Display: Waited 2195.982910 ms for audio thread.
+[2024.07.15-13.48.15:885][399]LogAudio: Display: Waited 2230.997559 ms for audio thread.
+[2024.07.15-13.48.15:921][399]LogAudio: Display: Waited 2266.996338 ms for audio thread.
+[2024.07.15-13.48.15:957][399]LogAudio: Display: Waited 2302.999268 ms for audio thread.
+[2024.07.15-13.48.15:992][399]LogAudio: Display: Waited 2338.006592 ms for audio thread.
+[2024.07.15-13.48.16:028][399]LogAudio: Display: Waited 2374.001465 ms for audio thread.
+[2024.07.15-13.48.16:063][399]LogAudio: Display: Waited 2409.010498 ms for audio thread.
+[2024.07.15-13.48.16:099][399]LogAudio: Display: Waited 2445.005371 ms for audio thread.
+[2024.07.15-13.48.16:102][399]LogAudioMixer: Display: StartRunningNullDevice() called
+[2024.07.15-13.48.16:103][399]LogAudio: Display: Waited 2448.909180 ms for audio thread.
+[2024.07.15-13.48.16:110][400]LogAudioMixer: Resetting audio stream to device id 
+[2024.07.15-13.48.16:110][400]LogAudioMixer: Display: StopRunningNullDevice() called
+[2024.07.15-13.48.16:174][400]LogAudioMixer: Display: 0: FrontLeft
+[2024.07.15-13.48.16:174][400]LogAudioMixer: Display: 1: FrontRight
+[2024.07.15-18.30.02:541][984]LogAudioMixer: Warning: Audio device removed, falling back to other windows default device.
+[2024.07.15-18.30.02:568][985]LogAudioMixer: Resetting audio stream to device id 
+[2024.07.15-18.30.02:568][985]LogAudioMixer: Display: StartRunningNullDevice() called
+[2024.07.16-09.11.05:035][446]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{da63d722-09b9-4ec7-822e-c8fd0f738176}.
+[2024.07.16-09.11.05:035][446]LogAudioMixer: Resetting audio stream to device id 
+[2024.07.16-09.11.05:035][446]LogAudioMixer: Display: StopRunningNullDevice() called
+[2024.07.16-09.11.05:073][446]LogAudioMixer: Display: 0: FrontLeft
+[2024.07.16-09.11.05:073][446]LogAudioMixer: Display: 1: FrontRight
+[2024.07.16-09.11.05:073][446]LogAudio: Display: Waited 35.172203 ms for audio thread.
+[2024.07.16-09.11.05:108][446]LogAudio: Display: Waited 70.173302 ms for audio thread.
+[2024.07.16-09.11.05:143][446]LogAudio: Display: Waited 105.176201 ms for audio thread.
+[2024.07.16-09.11.05:179][446]LogAudio: Display: Waited 141.174408 ms for audio thread.
+[2024.07.16-09.11.05:215][446]LogAudio: Display: Waited 177.175598 ms for audio thread.
+[2024.07.16-09.11.05:250][446]LogAudio: Display: Waited 212.176300 ms for audio thread.
+[2024.07.16-09.11.05:285][446]LogAudio: Display: Waited 247.177704 ms for audio thread.
+[2024.07.16-09.11.05:321][446]LogAudio: Display: Waited 283.174683 ms for audio thread.
+[2024.07.16-09.11.05:356][446]LogAudio: Display: Waited 318.179474 ms for audio thread.
+[2024.07.16-09.11.05:392][446]LogAudio: Display: Waited 354.172485 ms for audio thread.
+[2024.07.16-09.11.05:428][446]LogAudio: Display: Waited 390.172974 ms for audio thread.
+[2024.07.16-09.11.05:463][446]LogAudio: Display: Waited 425.180420 ms for audio thread.
+[2024.07.16-09.11.05:499][446]LogAudio: Display: Waited 461.173492 ms for audio thread.
+[2024.07.16-09.11.05:534][446]LogAudio: Display: Waited 496.174103 ms for audio thread.
+[2024.07.16-09.11.05:570][446]LogAudio: Display: Waited 532.172791 ms for audio thread.
+[2024.07.16-09.11.05:606][446]LogAudio: Display: Waited 568.171082 ms for audio thread.
+[2024.07.16-09.11.05:641][446]LogAudio: Display: Waited 603.175720 ms for audio thread.
+[2024.07.16-09.11.05:676][446]LogAudio: Display: Waited 638.178406 ms for audio thread.
+[2024.07.16-09.11.05:712][446]LogAudio: Display: Waited 674.174744 ms for audio thread.
+[2024.07.16-09.11.05:748][446]LogAudio: Display: Waited 710.182434 ms for audio thread.
+[2024.07.16-09.11.05:784][446]LogAudio: Display: Waited 746.177002 ms for audio thread.
+[2024.07.16-09.11.05:785][446]LogAudio: Display: Waited 747.331055 ms for audio thread.
+[2024.07.16-09.11.06:917][611]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{ed0fa556-c0da-4ad7-ab8a-843da6e08e2e}.
+[2024.07.16-09.11.06:917][611]LogAudioMixer: Resetting audio stream to device id 
+[2024.07.16-09.11.06:968][611]LogAudioMixer: Display: 0: FrontLeft
+[2024.07.16-09.11.06:968][611]LogAudioMixer: Display: 1: FrontRight
+[2024.07.16-09.11.06:968][611]LogAudio: Display: Waited 42.454102 ms for audio thread.
+[2024.07.17-08.44.40:850][958]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{da63d722-09b9-4ec7-822e-c8fd0f738176}.
+[2024.07.17-08.44.40:923][958]LogAudioMixer: Resetting audio stream to device id 
+[2024.07.17-08.44.40:923][958]LogAudio: Display: Waited 70.113197 ms for audio thread.
+[2024.07.17-08.44.40:959][958]LogAudio: Display: Waited 106.117599 ms for audio thread.
+[2024.07.17-08.44.40:995][958]LogAudio: Display: Waited 142.101700 ms for audio thread.
+[2024.07.17-08.44.41:030][958]LogAudio: Display: Waited 177.113998 ms for audio thread.
+[2024.07.17-08.44.41:066][958]LogAudio: Display: Waited 213.109406 ms for audio thread.
+[2024.07.17-08.44.41:102][958]LogAudio: Display: Waited 249.107010 ms for audio thread.
+[2024.07.17-08.44.41:137][958]LogAudio: Display: Waited 284.113281 ms for audio thread.
+[2024.07.17-08.44.41:173][958]LogAudio: Display: Waited 320.109619 ms for audio thread.
+[2024.07.17-08.44.41:208][958]LogAudioMixer: Display: 0: FrontLeft
+[2024.07.17-08.44.41:208][958]LogAudioMixer: Display: 1: FrontRight
+[2024.07.17-08.44.41:208][958]LogAudio: Display: Waited 355.115295 ms for audio thread.
+[2024.07.17-08.44.41:244][958]LogAudio: Display: Waited 391.107208 ms for audio thread.
+[2024.07.17-08.44.41:279][958]LogAudio: Display: Waited 426.114716 ms for audio thread.
+[2024.07.17-08.44.41:315][958]LogAudio: Display: Waited 462.113281 ms for audio thread.
+[2024.07.17-08.44.41:316][958]LogAudio: Display: Waited 463.916809 ms for audio thread.
+[2024.07.17-08.44.41:853][ 65]LogAudioMixer: Warning: Audio device removed, falling back to other windows default device.
+[2024.07.17-08.44.41:853][ 65]LogAudioMixer: Resetting audio stream to device id 
+[2024.07.17-08.44.41:893][ 65]LogAudio: Display: Waited 35.621597 ms for audio thread.
+[2024.07.17-08.44.41:929][ 65]LogAudio: Display: Waited 71.618805 ms for audio thread.
+[2024.07.17-08.44.41:964][ 65]LogAudio: Display: Waited 106.625000 ms for audio thread.
+[2024.07.17-08.44.42:000][ 65]LogAudio: Display: Waited 142.626190 ms for audio thread.
+[2024.07.17-08.44.42:036][ 65]LogAudio: Display: Waited 178.623001 ms for audio thread.
+[2024.07.17-08.44.42:072][ 65]LogAudio: Display: Waited 214.622101 ms for audio thread.
+[2024.07.17-08.44.42:107][ 65]LogAudio: Display: Waited 249.622894 ms for audio thread.
+[2024.07.17-08.44.42:143][ 65]LogAudio: Display: Waited 285.622223 ms for audio thread.
+[2024.07.17-08.44.42:178][ 65]LogAudioMixer: Display: 0: FrontLeft
+[2024.07.17-08.44.42:178][ 65]LogAudioMixer: Display: 1: FrontRight
+[2024.07.17-08.44.42:178][ 65]LogAudio: Display: Waited 320.620392 ms for audio thread.
+[2024.07.17-08.44.42:213][ 65]LogAudio: Display: Waited 355.664917 ms for audio thread.
+[2024.07.17-08.44.42:248][ 65]LogAudio: Display: Waited 390.664490 ms for audio thread.
+[2024.07.17-08.44.42:284][ 65]LogAudio: Display: Waited 426.661499 ms for audio thread.
+[2024.07.17-08.44.42:319][ 65]LogAudio: Display: Waited 461.660583 ms for audio thread.
+[2024.07.17-08.44.42:355][ 65]LogAudio: Display: Waited 497.656281 ms for audio thread.
+[2024.07.17-08.44.42:390][ 65]LogAudio: Display: Waited 532.667114 ms for audio thread.
+[2024.07.17-08.44.42:426][ 65]LogAudio: Display: Waited 568.661499 ms for audio thread.
+[2024.07.17-08.44.42:462][ 65]LogAudio: Display: Waited 604.179688 ms for audio thread.
+[2024.07.17-08.44.42:497][ 65]LogAudio: Display: Waited 639.215393 ms for audio thread.
+[2024.07.17-08.44.42:533][ 65]LogAudio: Display: Waited 675.169861 ms for audio thread.
+[2024.07.17-08.44.42:552][ 65]LogAudio: Display: Waited 694.273438 ms for audio thread.
+[2024.07.17-09.18.59:496][789]LogAudioMixer: Warning: Audio device removed, falling back to other windows default device.
+[2024.07.17-09.18.59:523][790]LogAudioMixer: Resetting audio stream to device id 
+[2024.07.17-09.18.59:523][790]LogAudioMixer: Display: StartRunningNullDevice() called
+[2024.07.17-09.19.00:350][951]LogAudioMixer: Warning: Changing default audio render device to new device: {3.0.0.00000002}.{6C26BA7D-F0B2-4225-B422-8168C5261E45}.
+[2024.07.17-09.19.00:357][952]LogAudioMixer: Resetting audio stream to device id 
+[2024.07.17-09.19.00:358][952]LogAudioMixer: Display: StopRunningNullDevice() called
+[2024.07.17-09.19.00:396][952]LogAudioMixer: Display: 0: FrontLeft
+[2024.07.17-09.19.00:396][952]LogAudioMixer: Display: 1: FrontRight
+[2024.07.17-09.19.00:396][952]LogAudio: Display: Waited 35.129200 ms for audio thread.
+[2024.07.17-09.19.00:431][952]LogAudio: Display: Waited 70.132202 ms for audio thread.
+[2024.07.17-09.19.00:467][952]LogAudio: Display: Waited 106.128296 ms for audio thread.
+[2024.07.17-09.19.00:503][952]LogAudio: Display: Waited 142.131592 ms for audio thread.
+[2024.07.17-09.19.00:538][952]LogAudio: Display: Waited 177.133698 ms for audio thread.
+[2024.07.17-09.19.00:573][952]LogAudio: Display: Waited 212.131897 ms for audio thread.
+[2024.07.17-09.19.00:609][952]LogAudio: Display: Waited 248.135300 ms for audio thread.
+[2024.07.17-09.19.00:644][952]LogAudio: Display: Waited 283.134705 ms for audio thread.
+[2024.07.17-09.19.00:679][952]LogAudio: Display: Waited 318.135498 ms for audio thread.
+[2024.07.17-09.19.00:686][952]LogAudio: Display: Waited 325.489777 ms for audio thread.
+[2024.07.17-09.19.19:388][881]LogAudioMixer: Warning: Audio device removed, falling back to other windows default device.
+[2024.07.17-09.19.19:427][881]LogAudioMixer: Resetting audio stream to device id 
+[2024.07.17-09.19.19:427][881]LogAudio: Display: Waited 35.474098 ms for audio thread.
+[2024.07.17-09.19.19:462][881]LogAudio: Display: Waited 70.476097 ms for audio thread.
+[2024.07.17-09.19.19:497][881]LogAudio: Display: Waited 105.446693 ms for audio thread.
+[2024.07.17-09.19.19:532][881]LogAudio: Display: Waited 140.447906 ms for audio thread.
+[2024.07.17-09.19.19:568][881]LogAudio: Display: Waited 176.457108 ms for audio thread.
+[2024.07.17-09.19.19:604][881]LogAudio: Display: Waited 212.452805 ms for audio thread.
+[2024.07.17-09.19.19:640][881]LogAudio: Display: Waited 248.450211 ms for audio thread.
+[2024.07.17-09.19.19:675][881]LogAudio: Display: Waited 283.455200 ms for audio thread.
+[2024.07.17-09.19.19:711][881]LogAudio: Display: Waited 319.449982 ms for audio thread.
+[2024.07.17-09.19.19:747][881]LogAudio: Display: Waited 355.448090 ms for audio thread.
+[2024.07.17-09.19.19:782][881]LogAudio: Display: Waited 390.452087 ms for audio thread.
+[2024.07.17-09.19.19:818][881]LogAudio: Display: Waited 426.447205 ms for audio thread.
+[2024.07.17-09.19.19:853][881]LogAudio: Display: Waited 461.449219 ms for audio thread.
+[2024.07.17-09.19.19:888][881]LogAudio: Display: Waited 496.448303 ms for audio thread.
+[2024.07.17-09.19.19:924][881]LogAudio: Display: Waited 532.450012 ms for audio thread.
+[2024.07.17-09.19.19:959][881]LogAudio: Display: Waited 567.447754 ms for audio thread.
+[2024.07.17-09.19.19:995][881]LogAudio: Display: Waited 603.448486 ms for audio thread.
+[2024.07.17-09.19.20:030][881]LogAudio: Display: Waited 638.449341 ms for audio thread.
+[2024.07.17-09.19.20:065][881]LogAudio: Display: Waited 673.468140 ms for audio thread.
+[2024.07.17-09.19.20:101][881]LogAudio: Display: Waited 709.451904 ms for audio thread.
+[2024.07.17-09.19.20:137][881]LogAudio: Display: Waited 745.472717 ms for audio thread.
+[2024.07.17-09.19.20:172][881]LogAudio: Display: Waited 780.458618 ms for audio thread.
+[2024.07.17-09.19.20:208][881]LogAudio: Display: Waited 816.454895 ms for audio thread.
+[2024.07.17-09.19.20:243][881]LogAudio: Display: Waited 851.449463 ms for audio thread.
+[2024.07.17-09.19.20:278][881]LogAudio: Display: Waited 886.449402 ms for audio thread.
+[2024.07.17-09.19.20:314][881]LogAudio: Display: Waited 922.449402 ms for audio thread.
+[2024.07.17-09.19.20:349][881]LogAudio: Display: Waited 957.450623 ms for audio thread.
+[2024.07.17-09.19.20:385][881]LogAudio: Display: Waited 993.451721 ms for audio thread.
+[2024.07.17-09.19.20:420][881]LogAudio: Display: Waited 1028.449829 ms for audio thread.
+[2024.07.17-09.19.20:455][881]LogAudio: Display: Waited 1063.453613 ms for audio thread.
+[2024.07.17-09.19.20:491][881]LogAudio: Display: Waited 1099.453979 ms for audio thread.
+[2024.07.17-09.19.20:527][881]LogAudio: Display: Waited 1135.451172 ms for audio thread.
+[2024.07.17-09.19.20:562][881]LogAudio: Display: Waited 1170.464966 ms for audio thread.
+[2024.07.17-09.19.20:597][881]LogAudio: Display: Waited 1205.485718 ms for audio thread.
+[2024.07.17-09.19.20:633][881]LogAudio: Display: Waited 1241.455566 ms for audio thread.
+[2024.07.17-09.19.20:668][881]LogAudio: Display: Waited 1276.456421 ms for audio thread.
+[2024.07.17-09.19.20:704][881]LogAudio: Display: Waited 1312.458130 ms for audio thread.
+[2024.07.17-09.19.20:739][881]LogAudio: Display: Waited 1347.458252 ms for audio thread.
+[2024.07.17-09.19.20:775][881]LogAudio: Display: Waited 1383.452515 ms for audio thread.
+[2024.07.17-09.19.20:810][881]LogAudio: Display: Waited 1418.450073 ms for audio thread.
+[2024.07.17-09.19.20:846][881]LogAudio: Display: Waited 1454.454224 ms for audio thread.
+[2024.07.17-09.19.20:882][881]LogAudio: Display: Waited 1490.454712 ms for audio thread.
+[2024.07.17-09.19.20:918][881]LogAudio: Display: Waited 1526.101196 ms for audio thread.
+[2024.07.17-09.19.20:953][881]LogAudio: Display: Waited 1561.104492 ms for audio thread.
+[2024.07.17-09.19.20:989][881]LogAudio: Display: Waited 1597.104248 ms for audio thread.
+[2024.07.17-09.19.21:025][881]LogAudio: Display: Waited 1633.099854 ms for audio thread.
+[2024.07.17-09.19.21:061][881]LogAudio: Display: Waited 1669.101685 ms for audio thread.
+[2024.07.17-09.19.21:097][881]LogAudio: Display: Waited 1705.098877 ms for audio thread.
+[2024.07.17-09.19.21:132][881]LogAudio: Display: Waited 1740.098511 ms for audio thread.
+[2024.07.17-09.19.21:168][881]LogAudio: Display: Waited 1776.122681 ms for audio thread.
+[2024.07.17-09.19.21:204][881]LogAudio: Display: Waited 1812.102661 ms for audio thread.
+[2024.07.17-09.19.21:240][881]LogAudio: Display: Waited 1848.099976 ms for audio thread.
+[2024.07.17-09.19.21:275][881]LogAudio: Display: Waited 1883.105103 ms for audio thread.
+[2024.07.17-09.19.21:311][881]LogAudio: Display: Waited 1919.102295 ms for audio thread.
+[2024.07.17-09.19.21:346][881]LogAudio: Display: Waited 1954.107056 ms for audio thread.
+[2024.07.17-09.19.21:382][881]LogAudio: Display: Waited 1990.101196 ms for audio thread.
+[2024.07.17-09.19.21:418][881]LogAudio: Display: Waited 2026.107300 ms for audio thread.
+[2024.07.17-09.19.21:454][881]LogAudio: Display: Waited 2062.099121 ms for audio thread.
+[2024.07.17-09.19.21:489][881]LogAudio: Display: Waited 2097.105225 ms for audio thread.
+[2024.07.17-09.19.21:525][881]LogAudio: Display: Waited 2133.106201 ms for audio thread.
+[2024.07.17-09.19.21:561][881]LogAudio: Display: Waited 2169.101318 ms for audio thread.
+[2024.07.17-09.19.21:596][881]LogAudio: Display: Waited 2204.099365 ms for audio thread.
+[2024.07.17-09.19.21:632][881]LogAudio: Display: Waited 2240.100586 ms for audio thread.
+[2024.07.17-09.19.21:667][881]LogAudio: Display: Waited 2275.101562 ms for audio thread.
+[2024.07.17-09.19.21:703][881]LogAudio: Display: Waited 2311.098145 ms for audio thread.
+[2024.07.17-09.19.21:738][881]LogAudio: Display: Waited 2346.123047 ms for audio thread.
+[2024.07.17-09.19.21:773][881]LogAudio: Display: Waited 2381.105713 ms for audio thread.
+[2024.07.17-09.19.21:809][881]LogAudio: Display: Waited 2417.101807 ms for audio thread.
+[2024.07.17-09.19.21:844][881]LogAudio: Display: Waited 2452.103760 ms for audio thread.
+[2024.07.17-09.19.21:879][881]LogAudio: Display: Waited 2487.106689 ms for audio thread.
+[2024.07.17-09.19.21:915][881]LogAudio: Display: Waited 2523.104736 ms for audio thread.
+[2024.07.17-09.19.21:950][881]LogAudio: Display: Waited 2558.115479 ms for audio thread.
+[2024.07.17-09.19.21:985][881]LogAudio: Display: Waited 2593.119141 ms for audio thread.
+[2024.07.17-09.19.22:021][881]LogAudio: Display: Waited 2629.114258 ms for audio thread.
+[2024.07.17-09.19.22:057][881]LogAudio: Display: Waited 2665.118408 ms for audio thread.
+[2024.07.17-09.19.22:093][881]LogAudio: Display: Waited 2701.116943 ms for audio thread.
+[2024.07.17-09.19.22:128][881]LogAudio: Display: Waited 2736.118164 ms for audio thread.
+[2024.07.17-09.19.22:163][881]LogAudio: Display: Waited 2771.118408 ms for audio thread.
+[2024.07.17-09.19.22:198][881]LogAudio: Display: Waited 2806.120605 ms for audio thread.
+[2024.07.17-09.19.22:234][881]LogAudio: Display: Waited 2842.122803 ms for audio thread.
+[2024.07.17-09.19.22:270][881]LogAudio: Display: Waited 2878.116699 ms for audio thread.
+[2024.07.17-09.19.22:305][881]LogAudio: Display: Waited 2913.114746 ms for audio thread.
+[2024.07.17-09.19.22:341][881]LogAudio: Display: Waited 2948.850342 ms for audio thread.
+[2024.07.17-09.19.22:376][881]LogAudio: Display: Waited 2983.851074 ms for audio thread.
+[2024.07.17-09.19.22:411][881]LogAudio: Display: Waited 3019.374268 ms for audio thread.
+[2024.07.17-09.19.22:447][881]LogAudio: Display: Waited 3055.311279 ms for audio thread.
+[2024.07.17-09.19.22:483][881]LogAudio: Display: Waited 3090.725342 ms for audio thread.
+[2024.07.17-09.19.22:518][881]LogAudio: Display: Waited 3125.722656 ms for audio thread.
+[2024.07.17-09.19.22:554][881]LogAudio: Display: Waited 3161.723877 ms for audio thread.
+[2024.07.17-09.19.22:589][881]LogAudio: Display: Waited 3196.742920 ms for audio thread.
+[2024.07.17-09.19.22:625][881]LogAudio: Display: Waited 3232.724609 ms for audio thread.
+[2024.07.17-09.19.22:661][881]LogAudio: Display: Waited 3268.722412 ms for audio thread.
+[2024.07.17-09.19.22:696][881]LogAudio: Display: Waited 3303.791016 ms for audio thread.
+[2024.07.17-09.19.22:732][881]LogAudio: Display: Waited 3339.721924 ms for audio thread.
+[2024.07.17-09.19.22:767][881]LogAudio: Display: Waited 3374.723145 ms for audio thread.
+[2024.07.17-09.19.22:802][881]LogAudio: Display: Waited 3409.737061 ms for audio thread.
+[2024.07.17-09.19.22:838][881]LogAudio: Display: Waited 3445.726074 ms for audio thread.
+[2024.07.17-09.19.22:874][881]LogAudio: Display: Waited 3481.722656 ms for audio thread.
+[2024.07.17-09.19.22:909][881]LogAudio: Display: Waited 3516.767822 ms for audio thread.
+[2024.07.17-09.19.22:945][881]LogAudio: Display: Waited 3552.722412 ms for audio thread.
+[2024.07.17-09.19.22:980][881]LogAudio: Display: Waited 3587.742188 ms for audio thread.
+[2024.07.17-09.19.23:016][881]LogAudio: Display: Waited 3623.722412 ms for audio thread.
+[2024.07.17-09.19.23:052][881]LogAudio: Display: Waited 3659.722168 ms for audio thread.
+[2024.07.17-09.19.23:087][881]LogAudio: Display: Waited 3694.725098 ms for audio thread.
+[2024.07.17-09.19.23:122][881]LogAudio: Display: Waited 3729.727783 ms for audio thread.
+[2024.07.17-09.19.23:158][881]LogAudio: Display: Waited 3765.724854 ms for audio thread.
+[2024.07.17-09.19.23:194][881]LogAudio: Display: Waited 3801.727783 ms for audio thread.
+[2024.07.17-09.19.23:230][881]LogAudio: Display: Waited 3837.726318 ms for audio thread.
+[2024.07.17-09.19.23:266][881]LogAudio: Display: Waited 3873.723633 ms for audio thread.
+[2024.07.17-09.19.23:302][881]LogAudio: Display: Waited 3909.727051 ms for audio thread.
+[2024.07.17-09.19.23:338][881]LogAudio: Display: Waited 3945.724609 ms for audio thread.
+[2024.07.17-09.19.23:374][881]LogAudio: Display: Waited 3981.724854 ms for audio thread.
+[2024.07.17-09.19.23:410][881]LogAudio: Display: Waited 4017.726318 ms for audio thread.
+[2024.07.17-09.19.23:445][881]LogAudio: Display: Waited 4052.727295 ms for audio thread.
+[2024.07.17-09.19.23:481][881]LogAudio: Display: Waited 4088.774170 ms for audio thread.
+[2024.07.17-09.19.23:517][881]LogAudio: Display: Waited 4124.724121 ms for audio thread.
+[2024.07.17-09.19.23:553][881]LogAudio: Display: Waited 4160.723633 ms for audio thread.
+[2024.07.17-09.19.23:588][881]LogAudio: Display: Waited 4195.724121 ms for audio thread.
+[2024.07.17-09.19.23:624][881]LogAudio: Display: Waited 4231.720215 ms for audio thread.
+[2024.07.17-09.19.23:659][881]LogAudio: Display: Waited 4266.725098 ms for audio thread.
+[2024.07.17-09.19.23:695][881]LogAudio: Display: Waited 4302.724121 ms for audio thread.
+[2024.07.17-09.19.23:731][881]LogAudio: Display: Waited 4338.724609 ms for audio thread.
+[2024.07.17-09.19.23:766][881]LogAudio: Display: Waited 4373.725098 ms for audio thread.
+[2024.07.17-09.19.23:801][881]LogAudio: Display: Waited 4408.724121 ms for audio thread.
+[2024.07.17-09.19.23:837][881]LogAudio: Display: Waited 4444.725586 ms for audio thread.
+[2024.07.17-09.19.23:855][881]LogAudioMixer: Display: StartRunningNullDevice() called
+[2024.07.17-09.19.23:855][881]LogAudio: Display: Waited 4463.206055 ms for audio thread.
+[2024.07.17-09.19.23:856][882]LogAudioMixer: Resetting audio stream to device id 
+[2024.07.17-09.19.23:856][882]LogAudioMixer: Display: StopRunningNullDevice() called
+[2024.07.17-09.19.24:084][882]LogAudioMixer: Display: 0: FrontLeft
+[2024.07.17-09.19.24:084][882]LogAudioMixer: Display: 1: FrontRight
+[2024.07.17-09.19.24:084][882]LogAudio: Display: Waited 35.936901 ms for audio thread.
+[2024.07.17-09.19.24:119][882]LogAudio: Display: Waited 70.968300 ms for audio thread.
+[2024.07.17-09.19.24:152][882]LogAudio: Display: Waited 104.745705 ms for audio thread.
+[2024.07.17-13.28.30:616][292]LogAudio: Display: Waited 35.787601 ms for audio thread.
+[2024.07.17-13.28.30:617][292]LogAudio: Display: Waited 36.870300 ms for audio thread.
+[2024.07.17-16.51.17:019][271]LogAudioMixer: Warning: Audio device removed, falling back to other windows default device.
+[2024.07.17-16.51.17:058][271]LogAudioMixer: Resetting audio stream to device id 
+[2024.07.17-16.51.17:058][271]LogAudio: Display: Waited 35.073997 ms for audio thread.
+[2024.07.17-16.51.17:059][271]LogAudioMixer: Display: StartRunningNullDevice() called
+[2024.07.17-16.51.17:059][271]LogAudio: Display: Waited 36.400700 ms for audio thread.
+[2024.07.17-16.51.23:357][849]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2024.07.17-16.51.24:830][910]LogAudioMixer: Warning: Changing default audio render device to new device: {3.0.0.00000002}.{6C26BA7D-F0B2-4225-B422-8168C5261E45}.
+[2024.07.17-16.51.24:981][911]LogAudioMixer: Resetting audio stream to device id 
+[2024.07.17-16.51.24:981][911]LogAudioMixer: Display: StopRunningNullDevice() called
+[2024.07.17-16.51.24:981][911]LogAudioMixer: Display: 0: FrontLeft
+[2024.07.17-16.51.24:981][911]LogAudioMixer: Display: 1: FrontRight
+[2024.07.17-16.51.25:060][911]LogAudio: Display: Waited 35.628201 ms for audio thread.
+[2024.07.17-16.51.25:095][911]LogAudio: Display: Waited 70.676102 ms for audio thread.
+[2024.07.17-16.51.25:131][911]LogAudio: Display: Waited 106.635300 ms for audio thread.
+[2024.07.17-16.51.25:167][911]LogAudio: Display: Waited 142.628296 ms for audio thread.
+[2024.07.17-16.51.25:202][911]LogAudio: Display: Waited 177.628296 ms for audio thread.
+[2024.07.17-16.51.25:238][911]LogAudio: Display: Waited 213.644104 ms for audio thread.
+[2024.07.17-16.51.25:274][911]LogAudio: Display: Waited 249.625107 ms for audio thread.
+[2024.07.17-16.51.25:274][911]LogAudio: Display: Waited 250.465088 ms for audio thread.
+[2024.07.17-16.51.26:787][202]LogAudioMixer: Warning: Audio device removed, falling back to other windows default device.
+[2024.07.17-16.51.26:797][203]LogAudioMixer: Resetting audio stream to device id 
+[2024.07.17-16.51.26:797][203]LogAudioMixer: Display: StartRunningNullDevice() called
+[2024.07.17-16.51.37:249][742]LogAudioMixer: Warning: Changing default audio render device to new device: {3.0.0.00000002}.{6C26BA7D-F0B2-4225-B422-8168C5261E45}.
+[2024.07.17-16.51.37:390][743]LogAudioMixer: Resetting audio stream to device id 
+[2024.07.17-16.51.37:390][743]LogAudioMixer: Display: StopRunningNullDevice() called
+[2024.07.17-16.51.37:390][743]LogAudioMixer: Display: 0: FrontLeft
+[2024.07.17-16.51.37:390][743]LogAudioMixer: Display: 1: FrontRight
+[2024.07.17-16.51.37:504][743]LogAudio: Display: Waited 70.333397 ms for audio thread.
+[2024.07.17-16.51.37:539][743]LogAudio: Display: Waited 105.337303 ms for audio thread.
+[2024.07.17-16.51.37:565][743]LogAudio: Display: Waited 131.772293 ms for audio thread.
+[2024.07.17-18.42.19:157][454]LogAudioMixer: Warning: Audio device removed, falling back to other windows default device.
+[2024.07.17-18.42.19:175][455]LogAudioMixer: Resetting audio stream to device id 
+[2024.07.17-18.42.19:227][456]LogAudioMixer: Display: StartRunningNullDevice() called
+[2024.07.18-07.57.38:841][916]LogAudioMixer: Warning: Changing default audio render device to new device: {3.0.0.00000002}.{6C26BA7D-F0B2-4225-B422-8168C5261E45}.
+[2024.07.18-07.57.38:975][917]LogAudioMixer: Resetting audio stream to device id 
+[2024.07.18-07.57.38:975][917]LogAudioMixer: Display: StopRunningNullDevice() called
+[2024.07.18-07.57.38:975][917]LogAudioMixer: Display: 0: FrontLeft
+[2024.07.18-07.57.38:975][917]LogAudioMixer: Display: 1: FrontRight
+[2024.07.18-07.57.39:050][917]LogAudio: Display: Waited 35.736801 ms for audio thread.
+[2024.07.18-07.57.39:086][917]LogAudio: Display: Waited 71.738899 ms for audio thread.
+[2024.07.18-07.57.39:122][917]LogAudio: Display: Waited 107.746902 ms for audio thread.
+[2024.07.18-07.57.39:157][917]LogAudio: Display: Waited 142.744904 ms for audio thread.
+[2024.07.18-07.57.39:192][917]LogAudio: Display: Waited 177.794296 ms for audio thread.
+[2024.07.18-07.57.39:228][917]LogAudio: Display: Waited 213.741608 ms for audio thread.
+[2024.07.18-07.57.39:263][917]LogAudio: Display: Waited 248.739090 ms for audio thread.
+[2024.07.18-07.57.39:299][917]LogAudio: Display: Waited 284.742584 ms for audio thread.
+[2024.07.18-07.57.39:334][917]LogAudio: Display: Waited 319.740814 ms for audio thread.
+[2024.07.18-07.57.39:370][917]LogAudio: Display: Waited 355.742706 ms for audio thread.
+[2024.07.18-07.57.39:405][917]LogAudio: Display: Waited 390.741699 ms for audio thread.
+[2024.07.18-07.57.39:440][917]LogAudio: Display: Waited 425.740814 ms for audio thread.
+[2024.07.18-07.57.39:476][917]LogAudio: Display: Waited 461.742798 ms for audio thread.
+[2024.07.18-07.57.39:512][917]LogAudio: Display: Waited 497.738586 ms for audio thread.
+[2024.07.18-07.57.39:547][917]LogAudio: Display: Waited 532.742065 ms for audio thread.
+[2024.07.18-07.57.39:582][917]LogAudio: Display: Waited 567.747864 ms for audio thread.
+[2024.07.18-07.57.39:618][917]LogAudio: Display: Waited 603.748291 ms for audio thread.
+[2024.07.18-07.57.39:654][917]LogAudio: Display: Waited 639.758606 ms for audio thread.
+[2024.07.18-07.57.39:690][917]LogAudio: Display: Waited 675.740479 ms for audio thread.
+[2024.07.18-07.57.39:725][917]LogAudio: Display: Waited 710.738281 ms for audio thread.
+[2024.07.18-07.57.39:761][917]LogAudio: Display: Waited 746.779663 ms for audio thread.
+[2024.07.18-07.57.39:796][917]LogAudio: Display: Waited 782.265137 ms for audio thread.
+[2024.07.18-07.57.39:832][917]LogAudio: Display: Waited 818.261658 ms for audio thread.
+[2024.07.18-07.57.39:867][917]LogAudio: Display: Waited 853.266479 ms for audio thread.
+[2024.07.18-07.57.39:903][917]LogAudio: Display: Waited 889.265442 ms for audio thread.
+[2024.07.18-07.57.39:939][917]LogAudio: Display: Waited 925.257324 ms for audio thread.
+[2024.07.18-07.57.39:974][917]LogAudio: Display: Waited 960.261230 ms for audio thread.
+[2024.07.18-07.57.40:010][917]LogAudio: Display: Waited 996.257324 ms for audio thread.
+[2024.07.18-07.57.40:045][917]LogAudio: Display: Waited 1031.264526 ms for audio thread.
+[2024.07.18-07.57.40:050][917]LogAudio: Display: Waited 1036.886108 ms for audio thread.
+[2024.07.18-07.57.40:052][918]LogAudioMixer: Resetting audio stream to device id 
+[2024.07.18-07.57.40:093][918]LogAudioMixer: Display: 0: FrontLeft
+[2024.07.18-07.57.40:093][918]LogAudioMixer: Display: 1: FrontRight
+[2024.07.18-07.57.40:093][918]LogAudio: Display: Waited 35.593903 ms for audio thread.
+[2024.07.18-07.57.40:129][918]LogAudio: Display: Waited 71.594398 ms for audio thread.
+[2024.07.18-07.57.40:164][918]LogAudio: Display: Waited 106.596596 ms for audio thread.
+[2024.07.18-07.57.40:170][918]LogAudio: Display: Waited 112.597198 ms for audio thread.
+[2024.07.18-10.04.16:658][ 87]LogAudio: Display: Waited 54.134102 ms for audio thread.
+[2024.07.18-10.25.24:475][499]LogAudioMixer: Warning: Audio device removed, falling back to other windows default device.
+[2024.07.18-10.25.24:501][500]LogAudioMixer: Resetting audio stream to device id 
+[2024.07.18-10.25.24:501][500]LogAudioMixer: Display: StartRunningNullDevice() called
+[2024.07.18-10.25.39:712][529]LogAudioMixer: Warning: Changing default audio render device to new device: {3.0.0.00000002}.{6C26BA7D-F0B2-4225-B422-8168C5261E45}.
+[2024.07.18-10.25.39:741][530]LogAudioMixer: Resetting audio stream to device id 
+[2024.07.18-10.25.39:741][530]LogAudioMixer: Display: StopRunningNullDevice() called
+[2024.07.18-10.25.39:741][530]LogAudioMixer: Display: 0: FrontLeft
+[2024.07.18-10.25.39:741][530]LogAudioMixer: Display: 1: FrontRight
+[2024.07.18-10.25.39:780][530]LogAudio: Display: Waited 35.317200 ms for audio thread.
+[2024.07.18-10.25.39:815][530]LogAudio: Display: Waited 70.320396 ms for audio thread.
+[2024.07.18-10.25.39:850][530]LogAudio: Display: Waited 105.334496 ms for audio thread.
+[2024.07.18-10.25.39:886][530]LogAudio: Display: Waited 141.339294 ms for audio thread.
+[2024.07.18-10.25.39:922][530]LogAudio: Display: Waited 177.311005 ms for audio thread.
+[2024.07.18-10.25.39:957][530]LogAudio: Display: Waited 212.390594 ms for audio thread.
+[2024.07.18-10.25.39:992][530]LogAudio: Display: Waited 247.319290 ms for audio thread.
+[2024.07.18-10.25.40:028][530]LogAudio: Display: Waited 283.319427 ms for audio thread.
+[2024.07.18-10.25.40:064][530]LogAudio: Display: Waited 319.333099 ms for audio thread.
+[2024.07.18-10.25.40:099][530]LogAudio: Display: Waited 354.320801 ms for audio thread.
+[2024.07.18-10.25.40:135][530]LogAudio: Display: Waited 390.315491 ms for audio thread.
+[2024.07.18-10.25.40:170][530]LogAudio: Display: Waited 425.321777 ms for audio thread.
+[2024.07.18-10.25.40:206][530]LogAudio: Display: Waited 461.317688 ms for audio thread.
+[2024.07.18-10.25.40:241][530]LogAudio: Display: Waited 496.335388 ms for audio thread.
+[2024.07.18-10.25.40:277][530]LogAudio: Display: Waited 532.323792 ms for audio thread.
+[2024.07.18-10.25.40:313][530]LogAudio: Display: Waited 568.324341 ms for audio thread.
+[2024.07.18-10.25.40:348][530]LogAudio: Display: Waited 603.322815 ms for audio thread.
+[2024.07.18-10.25.40:384][530]LogAudio: Display: Waited 639.330505 ms for audio thread.
+[2024.07.18-10.25.40:420][530]LogAudio: Display: Waited 675.314575 ms for audio thread.
+[2024.07.18-10.25.40:455][530]LogAudio: Display: Waited 710.315430 ms for audio thread.
+[2024.07.18-10.25.40:491][530]LogAudio: Display: Waited 746.312805 ms for audio thread.
+[2024.07.18-10.25.40:526][530]LogAudio: Display: Waited 781.319824 ms for audio thread.
+[2024.07.18-10.25.40:561][530]LogAudio: Display: Waited 816.312927 ms for audio thread.
+[2024.07.18-10.25.40:596][530]LogAudio: Display: Waited 851.341614 ms for audio thread.
+[2024.07.18-10.25.40:632][530]LogAudio: Display: Waited 887.337036 ms for audio thread.
+[2024.07.18-10.25.40:667][530]LogAudio: Display: Waited 922.339294 ms for audio thread.
+[2024.07.18-10.25.40:702][530]LogAudio: Display: Waited 957.339844 ms for audio thread.
+[2024.07.18-10.25.40:738][530]LogAudio: Display: Waited 992.855408 ms for audio thread.
+[2024.07.18-10.25.40:774][530]LogAudio: Display: Waited 1028.862305 ms for audio thread.
+[2024.07.18-10.25.40:809][530]LogAudio: Display: Waited 1063.857300 ms for audio thread.
+[2024.07.18-10.25.40:845][530]LogAudio: Display: Waited 1099.863037 ms for audio thread.
+[2024.07.18-10.25.40:881][530]LogAudio: Display: Waited 1135.854614 ms for audio thread.
+[2024.07.18-10.25.40:917][530]LogAudio: Display: Waited 1171.851685 ms for audio thread.
+[2024.07.18-10.25.40:953][530]LogAudio: Display: Waited 1207.855957 ms for audio thread.
+[2024.07.18-10.25.40:989][530]LogAudio: Display: Waited 1243.852173 ms for audio thread.
+[2024.07.18-10.25.41:024][530]LogAudio: Display: Waited 1278.852051 ms for audio thread.
+[2024.07.18-10.25.41:059][530]LogAudio: Display: Waited 1313.854004 ms for audio thread.
+[2024.07.18-10.25.41:095][530]LogAudio: Display: Waited 1349.859619 ms for audio thread.
+[2024.07.18-10.25.41:131][530]LogAudio: Display: Waited 1385.861206 ms for audio thread.
+[2024.07.18-10.25.41:166][530]LogAudio: Display: Waited 1420.865112 ms for audio thread.
+[2024.07.18-10.25.41:202][530]LogAudio: Display: Waited 1456.861572 ms for audio thread.
+[2024.07.18-10.25.41:238][530]LogAudio: Display: Waited 1492.870972 ms for audio thread.
+[2024.07.18-10.25.41:274][530]LogAudio: Display: Waited 1528.823364 ms for audio thread.
+[2024.07.18-10.25.41:309][530]LogAudio: Display: Waited 1563.901489 ms for audio thread.
+[2024.07.18-10.25.41:345][530]LogAudio: Display: Waited 1599.825928 ms for audio thread.
+[2024.07.18-10.25.41:380][530]LogAudio: Display: Waited 1634.856934 ms for audio thread.
+[2024.07.18-10.25.41:415][530]LogAudio: Display: Waited 1670.395386 ms for audio thread.
+[2024.07.18-10.25.41:450][530]LogAudio: Display: Waited 1705.392456 ms for audio thread.
+[2024.07.18-10.25.41:485][530]LogAudio: Display: Waited 1740.393677 ms for audio thread.
+[2024.07.18-10.25.41:521][530]LogAudio: Display: Waited 1776.394897 ms for audio thread.
+[2024.07.18-10.25.41:556][530]LogAudio: Display: Waited 1811.394531 ms for audio thread.
+[2024.07.18-10.25.41:592][530]LogAudio: Display: Waited 1846.921997 ms for audio thread.
+[2024.07.18-10.25.41:628][530]LogAudio: Display: Waited 1882.931885 ms for audio thread.
+[2024.07.18-10.25.41:663][530]LogAudio: Display: Waited 1918.454712 ms for audio thread.
+[2024.07.18-10.25.41:698][530]LogAudio: Display: Waited 1953.473877 ms for audio thread.
+[2024.07.18-10.25.41:734][530]LogAudio: Display: Waited 1989.456787 ms for audio thread.
+[2024.07.18-10.25.41:770][530]LogAudio: Display: Waited 2025.460693 ms for audio thread.
+[2024.07.18-10.25.41:806][530]LogAudio: Display: Waited 2061.459229 ms for audio thread.
+[2024.07.18-10.25.41:842][530]LogAudio: Display: Waited 2097.462158 ms for audio thread.
+[2024.07.18-10.25.41:877][530]LogAudio: Display: Waited 2132.459473 ms for audio thread.
+[2024.07.18-10.25.41:913][530]LogAudio: Display: Waited 2168.523438 ms for audio thread.
+[2024.07.18-10.25.41:949][530]LogAudio: Display: Waited 2204.455322 ms for audio thread.
+[2024.07.18-10.25.41:985][530]LogAudio: Display: Waited 2240.458984 ms for audio thread.
+[2024.07.18-10.25.42:020][530]LogAudio: Display: Waited 2275.457520 ms for audio thread.
+[2024.07.18-10.25.42:055][530]LogAudio: Display: Waited 2310.451660 ms for audio thread.
+[2024.07.18-10.25.42:090][530]LogAudio: Display: Waited 2345.452393 ms for audio thread.
+[2024.07.18-10.25.42:126][530]LogAudio: Display: Waited 2381.047607 ms for audio thread.
+[2024.07.18-10.25.42:161][530]LogAudio: Display: Waited 2416.041504 ms for audio thread.
+[2024.07.18-10.25.42:196][530]LogAudio: Display: Waited 2451.038818 ms for audio thread.
+[2024.07.18-10.25.42:232][530]LogAudio: Display: Waited 2487.034180 ms for audio thread.
+[2024.07.18-10.25.42:267][530]LogAudio: Display: Waited 2522.037842 ms for audio thread.
+[2024.07.18-10.25.42:303][530]LogAudio: Display: Waited 2558.037354 ms for audio thread.
+[2024.07.18-10.25.42:338][530]LogAudio: Display: Waited 2593.042725 ms for audio thread.
+[2024.07.18-10.25.42:374][530]LogAudio: Display: Waited 2629.035400 ms for audio thread.
+[2024.07.18-10.25.42:409][530]LogAudio: Display: Waited 2664.048828 ms for audio thread.
+[2024.07.18-10.25.42:445][530]LogAudio: Display: Waited 2700.046143 ms for audio thread.
+[2024.07.18-10.25.42:481][530]LogAudio: Display: Waited 2736.040039 ms for audio thread.
+[2024.07.18-10.25.42:517][530]LogAudio: Display: Waited 2772.043457 ms for audio thread.
+[2024.07.18-10.25.42:552][530]LogAudio: Display: Waited 2807.033691 ms for audio thread.
+[2024.07.18-10.25.42:588][530]LogAudio: Display: Waited 2843.034180 ms for audio thread.
+[2024.07.18-10.25.42:623][530]LogAudio: Display: Waited 2878.035645 ms for audio thread.
+[2024.07.18-10.25.42:658][530]LogAudio: Display: Waited 2913.041016 ms for audio thread.
+[2024.07.18-10.25.42:694][530]LogAudio: Display: Waited 2949.040039 ms for audio thread.
+[2024.07.18-10.25.42:729][530]LogAudio: Display: Waited 2984.037354 ms for audio thread.
+[2024.07.18-10.25.42:764][530]LogAudio: Display: Waited 3019.040283 ms for audio thread.
+[2024.07.18-10.25.42:800][530]LogAudio: Display: Waited 3055.041260 ms for audio thread.
+[2024.07.18-10.25.42:836][530]LogAudio: Display: Waited 3091.033691 ms for audio thread.
+[2024.07.18-10.25.42:872][530]LogAudio: Display: Waited 3127.184814 ms for audio thread.
+[2024.07.18-10.25.42:907][530]LogAudio: Display: Waited 3162.061523 ms for audio thread.
+[2024.07.18-10.25.42:943][530]LogAudio: Display: Waited 3198.034180 ms for audio thread.
+[2024.07.18-10.25.42:978][530]LogAudio: Display: Waited 3233.038330 ms for audio thread.
+[2024.07.18-10.25.43:013][530]LogAudio: Display: Waited 3268.041748 ms for audio thread.
+[2024.07.18-10.25.43:049][530]LogAudio: Display: Waited 3304.040527 ms for audio thread.
+[2024.07.18-10.25.43:084][530]LogAudio: Display: Waited 3339.043457 ms for audio thread.
+[2024.07.18-10.25.43:120][530]LogAudio: Display: Waited 3375.041016 ms for audio thread.
+[2024.07.18-10.25.43:156][530]LogAudio: Display: Waited 3411.042236 ms for audio thread.
+[2024.07.18-10.25.43:192][530]LogAudio: Display: Waited 3447.037354 ms for audio thread.
+[2024.07.18-10.25.43:227][530]LogAudio: Display: Waited 3482.045898 ms for audio thread.
+[2024.07.18-10.25.43:262][530]LogAudio: Display: Waited 3517.047119 ms for audio thread.
+[2024.07.18-10.25.43:298][530]LogAudio: Display: Waited 3553.042480 ms for audio thread.
+[2024.07.18-10.25.43:333][530]LogAudio: Display: Waited 3588.044434 ms for audio thread.
+[2024.07.18-10.25.43:368][530]LogAudio: Display: Waited 3623.048584 ms for audio thread.
+[2024.07.18-10.25.43:404][530]LogAudio: Display: Waited 3659.039795 ms for audio thread.
+[2024.07.18-10.25.43:440][530]LogAudio: Display: Waited 3695.041260 ms for audio thread.
+[2024.07.18-10.25.43:476][530]LogAudio: Display: Waited 3731.040771 ms for audio thread.
+[2024.07.18-10.25.43:512][530]LogAudio: Display: Waited 3767.042480 ms for audio thread.
+[2024.07.18-10.25.43:547][530]LogAudio: Display: Waited 3802.069092 ms for audio thread.
+[2024.07.18-10.25.43:583][530]LogAudio: Display: Waited 3838.291992 ms for audio thread.
+[2024.07.18-10.25.43:619][530]LogAudio: Display: Waited 3874.041260 ms for audio thread.
+[2024.07.18-10.25.43:654][530]LogAudio: Display: Waited 3909.047363 ms for audio thread.
+[2024.07.18-10.25.43:690][530]LogAudio: Display: Waited 3945.042969 ms for audio thread.
+[2024.07.18-10.25.43:725][530]LogAudio: Display: Waited 3980.040283 ms for audio thread.
+[2024.07.18-10.25.43:761][530]LogAudio: Display: Waited 4016.035645 ms for audio thread.
+[2024.07.18-10.25.43:796][530]LogAudio: Display: Waited 4051.038818 ms for audio thread.
+[2024.07.18-10.25.43:831][530]LogAudio: Display: Waited 4086.046631 ms for audio thread.
+[2024.07.18-10.25.43:867][530]LogAudio: Display: Waited 4122.058105 ms for audio thread.
+[2024.07.18-10.25.43:903][530]LogAudio: Display: Waited 4158.048828 ms for audio thread.
+[2024.07.18-10.25.43:938][530]LogAudio: Display: Waited 4193.043945 ms for audio thread.
+[2024.07.18-10.25.43:974][530]LogAudio: Display: Waited 4229.041504 ms for audio thread.
+[2024.07.18-10.25.44:010][530]LogAudio: Display: Waited 4265.050293 ms for audio thread.
+[2024.07.18-10.25.44:046][530]LogAudio: Display: Waited 4301.037109 ms for audio thread.
+[2024.07.18-10.25.44:081][530]LogAudio: Display: Waited 4336.055664 ms for audio thread.
+[2024.07.18-10.25.44:116][530]LogAudio: Display: Waited 4371.040527 ms for audio thread.
+[2024.07.18-10.25.44:152][530]LogAudio: Display: Waited 4407.094238 ms for audio thread.
+[2024.07.18-10.25.44:187][530]LogAudio: Display: Waited 4442.084473 ms for audio thread.
+[2024.07.18-10.25.44:223][530]LogAudio: Display: Waited 4478.047363 ms for audio thread.
+[2024.07.18-10.25.44:258][530]LogAudio: Display: Waited 4513.166016 ms for audio thread.
+[2024.07.18-10.25.44:294][530]LogAudio: Display: Waited 4549.045898 ms for audio thread.
+[2024.07.18-10.25.44:330][530]LogAudio: Display: Waited 4585.042480 ms for audio thread.
+[2024.07.18-10.25.44:365][530]LogAudio: Display: Waited 4620.044922 ms for audio thread.
+[2024.07.18-10.25.44:400][530]LogAudio: Display: Waited 4655.043457 ms for audio thread.
+[2024.07.18-10.25.44:436][530]LogAudio: Display: Waited 4691.038086 ms for audio thread.
+[2024.07.18-10.25.44:471][530]LogAudio: Display: Waited 4726.049316 ms for audio thread.
+[2024.07.18-10.25.44:507][530]LogAudio: Display: Waited 4762.101074 ms for audio thread.
+[2024.07.18-10.25.44:543][530]LogAudio: Display: Waited 4798.045898 ms for audio thread.
+[2024.07.18-10.25.44:579][530]LogAudio: Display: Waited 4834.058105 ms for audio thread.
+[2024.07.18-10.25.44:615][530]LogAudio: Display: Waited 4870.038086 ms for audio thread.
+[2024.07.18-10.25.44:650][530]LogAudio: Display: Waited 4905.044922 ms for audio thread.
+[2024.07.18-10.25.44:686][530]LogAudio: Display: Waited 4941.053223 ms for audio thread.
+[2024.07.18-10.25.44:721][530]LogAudio: Display: Waited 4976.041504 ms for audio thread.
+[2024.07.18-10.25.44:755][530]LogAudio: Display: Waited 5010.412598 ms for audio thread.
+[2024.07.18-10.25.44:758][531]LogAudioMixer: Resetting audio stream to device id 
+[2024.07.18-10.25.45:004][532]LogAudioMixer: Display: 0: FrontLeft
+[2024.07.18-10.25.45:004][532]LogAudioMixer: Display: 1: FrontRight
+[2024.07.18-10.43.57:142][815]LogAudioMixer: Warning: Audio device removed, falling back to other windows default device.
+[2024.07.18-10.43.57:165][816]LogAudioMixer: Resetting audio stream to device id 
+[2024.07.18-10.43.57:165][816]LogAudioMixer: Display: StartRunningNullDevice() called
+[2024.07.18-10.44.08:636][908]LogAudioMixer: Warning: Changing default audio render device to new device: {3.0.0.00000002}.{6C26BA7D-F0B2-4225-B422-8168C5261E45}.
+[2024.07.18-10.44.08:791][909]LogAudioMixer: Resetting audio stream to device id 
+[2024.07.18-10.44.08:791][909]LogAudioMixer: Display: StopRunningNullDevice() called
+[2024.07.18-10.44.08:791][909]LogAudioMixer: Display: 0: FrontLeft
+[2024.07.18-10.44.08:791][909]LogAudioMixer: Display: 1: FrontRight
+[2024.07.18-10.44.08:866][909]LogAudio: Display: Waited 35.059200 ms for audio thread.
+[2024.07.18-10.44.08:902][909]LogAudio: Display: Waited 71.025398 ms for audio thread.
+[2024.07.18-10.44.08:937][909]LogAudio: Display: Waited 106.028397 ms for audio thread.
+[2024.07.18-10.44.08:973][909]LogAudio: Display: Waited 142.025909 ms for audio thread.
+[2024.07.18-10.44.09:009][909]LogAudio: Display: Waited 178.016800 ms for audio thread.
+[2024.07.18-10.44.09:044][909]LogAudio: Display: Waited 213.017410 ms for audio thread.
+[2024.07.18-10.44.09:079][909]LogAudio: Display: Waited 248.026001 ms for audio thread.
+[2024.07.18-10.44.09:097][909]LogAudio: Display: Waited 266.270782 ms for audio thread.
+[2024.07.18-13.13.27:699][492]LogAudio: Display: Waited 69.307999 ms for audio thread.
+[2024.07.18-13.13.27:734][492]LogAudio: Display: Waited 104.823204 ms for audio thread.
+[2024.07.18-13.13.27:736][492]LogAudio: Display: Waited 107.747597 ms for audio thread.
+[2024.07.18-13.15.18:049][270]LogAudio: Display: Waited 35.811501 ms for audio thread.
+[2024.07.18-13.15.18:085][270]LogAudio: Display: Waited 71.779900 ms for audio thread.
+[2024.07.18-13.15.18:120][270]LogAudio: Display: Waited 106.788498 ms for audio thread.
+[2024.07.18-13.15.18:124][270]LogAudio: Display: Waited 111.158104 ms for audio thread.
+[2024.07.18-13.16.21:928][326]LogAudio: Display: Waited 35.789501 ms for audio thread.
+[2024.07.18-13.16.21:947][326]LogAudio: Display: Waited 54.823399 ms for audio thread.
+[2024.07.18-13.16.21:997][329]LogAudio: Display: Waited 35.872299 ms for audio thread.
+[2024.07.18-13.16.22:033][329]LogAudio: Display: Waited 71.796600 ms for audio thread.
+[2024.07.18-13.16.22:058][329]LogAudio: Display: Waited 97.334702 ms for audio thread.
+[2024.07.18-13.16.22:101][331]LogAudio: Display: Waited 35.734898 ms for audio thread.
+[2024.07.18-13.16.22:153][331]LogAudio: Display: Waited 87.825996 ms for audio thread.
+[2024.07.18-13.16.22:189][331]LogAudio: Display: Waited 123.837997 ms for audio thread.
+[2024.07.18-13.16.22:221][331]LogAudio: Display: Waited 156.425110 ms for audio thread.
+[2024.07.18-13.16.23:526][792]LogAudio: Display: Waited 44.445103 ms for audio thread.
+[2024.07.18-13.16.23:558][792]LogAudio: Display: Waited 77.339798 ms for audio thread.
+[2024.07.18-13.18.59:297][125]LogAudio: Display: Waited 36.174400 ms for audio thread.
+[2024.07.18-13.18.59:307][125]LogAudio: Display: Waited 46.462902 ms for audio thread.
+[2024.07.18-16.56.17:550][572]LogAudio: Display: Waited 35.424900 ms for audio thread.
+[2024.07.18-16.56.17:585][572]LogAudio: Display: Waited 70.453102 ms for audio thread.
+[2024.07.18-16.56.17:586][572]LogAudio: Display: Waited 71.708595 ms for audio thread.
+[2024.07.18-17.57.27:208][194]LogAudioMixer: Warning: Audio device removed, falling back to other windows default device.
+[2024.07.18-17.57.27:255][195]LogAudioMixer: Resetting audio stream to device id 
+[2024.07.18-17.57.27:288][196]LogAudioMixer: Display: StartRunningNullDevice() called
+[2024.07.19-07.12.50:130][696]LogAudioMixer: Warning: Changing default audio render device to new device: {3.0.0.00000002}.{6C26BA7D-F0B2-4225-B422-8168C5261E45}.
+[2024.07.19-07.12.50:261][697]LogAudioMixer: Resetting audio stream to device id 
+[2024.07.19-07.12.50:261][697]LogAudioMixer: Display: StopRunningNullDevice() called
+[2024.07.19-07.12.50:261][697]LogAudioMixer: Display: 0: FrontLeft
+[2024.07.19-07.12.50:261][697]LogAudioMixer: Display: 1: FrontRight
+[2024.07.19-07.12.50:368][697]LogAudio: Display: Waited 70.077202 ms for audio thread.
+[2024.07.19-07.12.50:403][697]LogAudio: Display: Waited 105.062798 ms for audio thread.
+[2024.07.19-07.12.50:438][697]LogAudio: Display: Waited 140.068695 ms for audio thread.
+[2024.07.19-07.12.50:474][697]LogAudio: Display: Waited 176.074203 ms for audio thread.
+[2024.07.19-07.12.50:510][697]LogAudio: Display: Waited 212.070190 ms for audio thread.
+[2024.07.19-07.12.50:545][697]LogAudio: Display: Waited 247.062912 ms for audio thread.
+[2024.07.19-07.12.50:581][697]LogAudio: Display: Waited 283.063416 ms for audio thread.
+[2024.07.19-07.12.50:616][697]LogAudio: Display: Waited 318.059601 ms for audio thread.
+[2024.07.19-07.12.50:652][697]LogAudio: Display: Waited 354.060699 ms for audio thread.
+[2024.07.19-07.12.50:687][697]LogAudio: Display: Waited 389.061310 ms for audio thread.
+[2024.07.19-07.12.50:722][697]LogAudio: Display: Waited 424.064789 ms for audio thread.
+[2024.07.19-07.12.50:758][697]LogAudio: Display: Waited 460.073120 ms for audio thread.
+[2024.07.19-07.12.50:793][697]LogAudio: Display: Waited 495.069427 ms for audio thread.
+[2024.07.19-07.12.50:829][697]LogAudio: Display: Waited 531.065308 ms for audio thread.
+[2024.07.19-07.12.50:865][697]LogAudio: Display: Waited 567.066345 ms for audio thread.
+[2024.07.19-07.12.50:900][697]LogAudio: Display: Waited 602.086609 ms for audio thread.
+[2024.07.19-07.12.50:936][697]LogAudio: Display: Waited 638.064026 ms for audio thread.
+[2024.07.19-07.12.50:972][697]LogAudio: Display: Waited 674.065735 ms for audio thread.
+[2024.07.19-07.12.51:007][697]LogAudio: Display: Waited 709.069092 ms for audio thread.
+[2024.07.19-07.12.51:042][697]LogAudio: Display: Waited 744.068970 ms for audio thread.
+[2024.07.19-07.12.51:078][697]LogAudio: Display: Waited 780.067078 ms for audio thread.
+[2024.07.19-07.12.51:113][697]LogAudio: Display: Waited 815.072388 ms for audio thread.
+[2024.07.19-07.12.51:148][697]LogAudio: Display: Waited 850.068481 ms for audio thread.
+[2024.07.19-07.12.51:184][697]LogAudio: Display: Waited 886.066040 ms for audio thread.
+[2024.07.19-07.12.51:220][697]LogAudio: Display: Waited 922.074219 ms for audio thread.
+[2024.07.19-07.12.51:256][697]LogAudio: Display: Waited 958.066895 ms for audio thread.
+[2024.07.19-07.12.51:292][697]LogAudio: Display: Waited 994.063477 ms for audio thread.
+[2024.07.19-07.12.51:327][697]LogAudio: Display: Waited 1029.061523 ms for audio thread.
+[2024.07.19-07.12.51:363][697]LogAudio: Display: Waited 1065.061401 ms for audio thread.
+[2024.07.19-07.12.51:399][697]LogAudio: Display: Waited 1101.062256 ms for audio thread.
+[2024.07.19-07.12.51:434][697]LogAudio: Display: Waited 1136.059204 ms for audio thread.
+[2024.07.19-07.12.51:470][697]LogAudio: Display: Waited 1172.060913 ms for audio thread.
+[2024.07.19-07.12.51:505][697]LogAudio: Display: Waited 1207.063599 ms for audio thread.
+[2024.07.19-07.12.51:541][697]LogAudio: Display: Waited 1243.066528 ms for audio thread.
+[2024.07.19-07.12.51:576][697]LogAudio: Display: Waited 1278.077026 ms for audio thread.
+[2024.07.19-07.12.51:612][697]LogAudio: Display: Waited 1314.059937 ms for audio thread.
+[2024.07.19-07.12.51:647][697]LogAudio: Display: Waited 1349.067505 ms for audio thread.
+[2024.07.19-07.12.51:683][697]LogAudio: Display: Waited 1385.061401 ms for audio thread.
+[2024.07.19-07.12.51:718][697]LogAudio: Display: Waited 1420.061890 ms for audio thread.
+[2024.07.19-07.12.51:754][697]LogAudio: Display: Waited 1456.064331 ms for audio thread.
+[2024.07.19-07.12.51:789][697]LogAudio: Display: Waited 1491.077637 ms for audio thread.
+[2024.07.19-07.12.51:825][697]LogAudio: Display: Waited 1527.064331 ms for audio thread.
+[2024.07.19-07.12.51:861][697]LogAudio: Display: Waited 1562.582031 ms for audio thread.
+[2024.07.19-07.12.51:897][697]LogAudio: Display: Waited 1598.581665 ms for audio thread.
+[2024.07.19-07.12.51:932][697]LogAudio: Display: Waited 1633.579590 ms for audio thread.
+[2024.07.19-07.12.51:968][697]LogAudio: Display: Waited 1669.582153 ms for audio thread.
+[2024.07.19-07.12.52:004][697]LogAudio: Display: Waited 1705.581543 ms for audio thread.
+[2024.07.19-07.12.52:040][697]LogAudio: Display: Waited 1741.585083 ms for audio thread.
+[2024.07.19-07.12.52:075][697]LogAudio: Display: Waited 1776.627319 ms for audio thread.
+[2024.07.19-07.12.52:111][697]LogAudio: Display: Waited 1812.622070 ms for audio thread.
+[2024.07.19-07.12.52:146][697]LogAudio: Display: Waited 1847.626465 ms for audio thread.
+[2024.07.19-07.12.52:181][697]LogAudio: Display: Waited 1882.638062 ms for audio thread.
+[2024.07.19-07.12.52:216][697]LogAudio: Display: Waited 1917.645874 ms for audio thread.
+[2024.07.19-07.12.52:252][697]LogAudio: Display: Waited 1953.626221 ms for audio thread.
+[2024.07.19-07.12.52:287][697]LogAudio: Display: Waited 1988.623169 ms for audio thread.
+[2024.07.19-07.12.52:323][697]LogAudio: Display: Waited 2024.620117 ms for audio thread.
+[2024.07.19-07.12.52:358][697]LogAudio: Display: Waited 2059.624756 ms for audio thread.
+[2024.07.19-07.12.52:394][697]LogAudio: Display: Waited 2095.619385 ms for audio thread.
+[2024.07.19-07.12.52:429][697]LogAudio: Display: Waited 2130.621826 ms for audio thread.
+[2024.07.19-07.12.52:464][697]LogAudio: Display: Waited 2165.618896 ms for audio thread.
+[2024.07.19-07.12.52:499][697]LogAudio: Display: Waited 2200.617676 ms for audio thread.
+[2024.07.19-07.12.52:535][697]LogAudio: Display: Waited 2236.617188 ms for audio thread.
+[2024.07.19-07.12.52:570][697]LogAudio: Display: Waited 2271.616455 ms for audio thread.
+[2024.07.19-07.12.52:606][697]LogAudio: Display: Waited 2307.615479 ms for audio thread.
+[2024.07.19-07.12.52:642][697]LogAudio: Display: Waited 2343.614014 ms for audio thread.
+[2024.07.19-07.12.52:677][697]LogAudio: Display: Waited 2378.622314 ms for audio thread.
+[2024.07.19-07.12.52:713][697]LogAudio: Display: Waited 2414.614746 ms for audio thread.
+[2024.07.19-07.12.52:748][697]LogAudio: Display: Waited 2449.623535 ms for audio thread.
+[2024.07.19-07.12.52:784][697]LogAudio: Display: Waited 2485.620361 ms for audio thread.
+[2024.07.19-07.12.52:820][697]LogAudio: Display: Waited 2521.615234 ms for audio thread.
+[2024.07.19-07.12.52:856][697]LogAudio: Display: Waited 2557.619873 ms for audio thread.
+[2024.07.19-07.12.52:891][697]LogAudio: Display: Waited 2592.617188 ms for audio thread.
+[2024.07.19-07.12.52:926][697]LogAudio: Display: Waited 2627.651123 ms for audio thread.
+[2024.07.19-07.12.52:962][697]LogAudio: Display: Waited 2663.617188 ms for audio thread.
+[2024.07.19-07.12.52:997][697]LogAudio: Display: Waited 2698.656250 ms for audio thread.
+[2024.07.19-07.12.53:032][697]LogAudio: Display: Waited 2733.651855 ms for audio thread.
+[2024.07.19-07.12.53:068][697]LogAudio: Display: Waited 2769.625977 ms for audio thread.
+[2024.07.19-07.12.53:104][697]LogAudio: Display: Waited 2805.621338 ms for audio thread.
+[2024.07.19-07.12.53:140][697]LogAudio: Display: Waited 2841.622070 ms for audio thread.
+[2024.07.19-07.12.53:175][697]LogAudio: Display: Waited 2876.619629 ms for audio thread.
+[2024.07.19-07.12.53:211][697]LogAudio: Display: Waited 2912.617920 ms for audio thread.
+[2024.07.19-07.12.53:246][697]LogAudio: Display: Waited 2947.623291 ms for audio thread.
+[2024.07.19-07.12.53:282][697]LogAudio: Display: Waited 2983.619141 ms for audio thread.
+[2024.07.19-07.12.53:317][697]LogAudio: Display: Waited 3018.623779 ms for audio thread.
+[2024.07.19-07.12.53:353][697]LogAudio: Display: Waited 3054.615234 ms for audio thread.
+[2024.07.19-07.12.53:388][697]LogAudio: Display: Waited 3089.620605 ms for audio thread.
+[2024.07.19-07.12.53:423][697]LogAudio: Display: Waited 3124.628174 ms for audio thread.
+[2024.07.19-07.12.53:459][697]LogAudio: Display: Waited 3160.616211 ms for audio thread.
+[2024.07.19-07.12.53:494][697]LogAudio: Display: Waited 3195.621582 ms for audio thread.
+[2024.07.19-07.12.53:529][697]LogAudio: Display: Waited 3230.618164 ms for audio thread.
+[2024.07.19-07.12.53:564][697]LogAudio: Display: Waited 3265.645752 ms for audio thread.
+[2024.07.19-07.12.53:600][697]LogAudio: Display: Waited 3301.646973 ms for audio thread.
+[2024.07.19-07.12.53:610][697]LogAudio: Display: Waited 3311.640869 ms for audio thread.
+[2024.07.19-07.12.53:611][698]LogAudioMixer: Resetting audio stream to device id 
+[2024.07.19-07.12.53:891][699]LogAudioMixer: Display: 0: FrontLeft
+[2024.07.19-07.12.53:892][699]LogAudioMixer: Display: 1: FrontRight
+[2024.07.19-08.20.17:707][ 95]LogAudioMixer: Warning: Audio device removed, falling back to other windows default device.
+[2024.07.19-08.20.17:723][ 96]LogAudioMixer: Resetting audio stream to device id 
+[2024.07.19-08.20.17:758][ 97]LogAudioMixer: Display: StartRunningNullDevice() called
+[2024.07.19-08.20.19:046][334]LogAudioMixer: Warning: Changing default audio render device to new device: {3.0.0.00000002}.{6C26BA7D-F0B2-4225-B422-8168C5261E45}.
+[2024.07.19-08.20.19:046][334]LogAudioMixer: Resetting audio stream to device id 
+[2024.07.19-08.20.19:046][334]LogAudioMixer: Display: StopRunningNullDevice() called
+[2024.07.19-08.20.19:046][334]LogAudioMixer: Display: 0: FrontLeft
+[2024.07.19-08.20.19:046][334]LogAudioMixer: Display: 1: FrontRight
+[2024.07.19-08.20.19:124][334]LogAudio: Display: Waited 35.326500 ms for audio thread.
+[2024.07.19-08.20.19:160][334]LogAudio: Display: Waited 71.329498 ms for audio thread.
+[2024.07.19-08.20.19:195][334]LogAudio: Display: Waited 106.333099 ms for audio thread.
+[2024.07.19-08.20.19:231][334]LogAudio: Display: Waited 142.326996 ms for audio thread.
+[2024.07.19-08.20.19:252][334]LogAudio: Display: Waited 164.702805 ms for audio thread.
+[2024.07.19-08.20.35:984][776]LogAudioMixer: Warning: Audio device removed, falling back to other windows default device.
+[2024.07.19-08.20.36:056][776]LogAudioMixer: Resetting audio stream to device id 
+[2024.07.19-08.20.36:056][776]LogAudio: Display: Waited 69.900604 ms for audio thread.
+[2024.07.19-08.20.36:092][776]LogAudio: Display: Waited 105.842705 ms for audio thread.
+[2024.07.19-08.20.36:127][776]LogAudio: Display: Waited 140.846512 ms for audio thread.
+[2024.07.19-08.20.36:163][776]LogAudio: Display: Waited 176.848694 ms for audio thread.
+[2024.07.19-08.20.36:199][776]LogAudio: Display: Waited 212.859299 ms for audio thread.
+[2024.07.19-08.20.36:235][776]LogAudio: Display: Waited 248.840500 ms for audio thread.
+[2024.07.19-08.20.36:270][776]LogAudio: Display: Waited 283.875488 ms for audio thread.
+[2024.07.19-08.20.36:306][776]LogAudio: Display: Waited 319.847900 ms for audio thread.
+[2024.07.19-08.20.36:341][776]LogAudio: Display: Waited 354.936218 ms for audio thread.
+[2024.07.19-08.20.36:377][776]LogAudio: Display: Waited 390.843903 ms for audio thread.
+[2024.07.19-08.20.36:412][776]LogAudio: Display: Waited 425.842194 ms for audio thread.
+[2024.07.19-08.20.36:448][776]LogAudio: Display: Waited 461.843903 ms for audio thread.
+[2024.07.19-08.20.36:484][776]LogAudio: Display: Waited 497.838287 ms for audio thread.
+[2024.07.19-08.20.36:519][776]LogAudio: Display: Waited 532.843140 ms for audio thread.
+[2024.07.19-08.20.36:554][776]LogAudio: Display: Waited 567.837769 ms for audio thread.
+[2024.07.19-08.20.36:589][776]LogAudio: Display: Waited 602.841492 ms for audio thread.
+[2024.07.19-08.20.36:625][776]LogAudio: Display: Waited 638.838562 ms for audio thread.
+[2024.07.19-08.20.36:660][776]LogAudio: Display: Waited 673.837402 ms for audio thread.
+[2024.07.19-08.20.36:695][776]LogAudio: Display: Waited 708.843384 ms for audio thread.
+[2024.07.19-08.20.36:731][776]LogAudio: Display: Waited 744.842896 ms for audio thread.
+[2024.07.19-08.20.36:766][776]LogAudio: Display: Waited 779.844116 ms for audio thread.
+[2024.07.19-08.20.36:802][776]LogAudio: Display: Waited 815.847534 ms for audio thread.
+[2024.07.19-08.20.36:837][776]LogAudio: Display: Waited 850.858093 ms for audio thread.
+[2024.07.19-08.20.36:873][776]LogAudio: Display: Waited 886.840820 ms for audio thread.
+[2024.07.19-08.20.36:909][776]LogAudio: Display: Waited 922.874512 ms for audio thread.
+[2024.07.19-08.20.36:945][776]LogAudio: Display: Waited 958.845520 ms for audio thread.
+[2024.07.19-08.20.36:981][776]LogAudio: Display: Waited 994.839172 ms for audio thread.
+[2024.07.19-08.20.37:016][776]LogAudio: Display: Waited 1029.841553 ms for audio thread.
+[2024.07.19-08.20.37:051][776]LogAudio: Display: Waited 1064.848877 ms for audio thread.
+[2024.07.19-08.20.37:087][776]LogAudio: Display: Waited 1100.838379 ms for audio thread.
+[2024.07.19-08.20.37:122][776]LogAudio: Display: Waited 1135.843262 ms for audio thread.
+[2024.07.19-08.20.37:136][776]LogAudioMixer: Display: StartRunningNullDevice() called
+[2024.07.19-08.20.37:136][776]LogAudio: Display: Waited 1150.303833 ms for audio thread.
+[2024.07.19-08.20.37:138][777]LogAudioMixer: Resetting audio stream to device id 
+[2024.07.19-08.20.37:138][777]LogAudioMixer: Display: StopRunningNullDevice() called
+[2024.07.19-08.20.37:387][777]LogAudioMixer: Display: 0: FrontLeft
+[2024.07.19-08.20.37:387][777]LogAudioMixer: Display: 1: FrontRight
+[2024.07.19-12.29.10:721][410]LogAudioMixer: Warning: Audio device removed, falling back to other windows default device.
+[2024.07.19-12.29.10:770][410]LogAudioMixer: Resetting audio stream to device id 
+[2024.07.19-12.29.10:770][410]LogAudioMixer: Display: StartRunningNullDevice() called
+[2024.07.19-12.29.10:770][410]LogAudio: Display: Waited 46.582500 ms for audio thread.
+[2024.07.19-18.33.16:818][832]LogAudioMixer: Warning: Changing default audio render device to new device: {3.0.0.00000002}.{6C26BA7D-F0B2-4225-B422-8168C5261E45}.
+[2024.07.19-18.33.16:977][833]LogAudioMixer: Resetting audio stream to device id 
+[2024.07.19-18.33.16:977][833]LogAudioMixer: Display: StopRunningNullDevice() called
+[2024.07.19-18.33.16:977][833]LogAudioMixer: Display: 0: FrontLeft
+[2024.07.19-18.33.16:977][833]LogAudioMixer: Display: 1: FrontRight
+[2024.07.19-18.33.17:051][833]LogAudio: Display: Waited 35.785103 ms for audio thread.
+[2024.07.19-18.33.17:087][833]LogAudio: Display: Waited 71.829803 ms for audio thread.
+[2024.07.19-18.33.17:123][833]LogAudio: Display: Waited 107.760101 ms for audio thread.
+[2024.07.19-18.33.17:159][833]LogAudio: Display: Waited 143.716690 ms for audio thread.
+[2024.07.19-18.33.17:195][833]LogAudio: Display: Waited 179.692291 ms for audio thread.
+[2024.07.19-18.33.17:231][833]LogAudio: Display: Waited 215.687195 ms for audio thread.
+[2024.07.19-18.33.17:266][833]LogAudio: Display: Waited 250.696503 ms for audio thread.
+[2024.07.19-18.33.17:301][833]LogAudio: Display: Waited 285.690186 ms for audio thread.
+[2024.07.19-18.33.17:337][833]LogAudio: Display: Waited 321.686676 ms for audio thread.
+[2024.07.19-18.33.17:373][833]LogAudio: Display: Waited 357.693207 ms for audio thread.
+[2024.07.19-18.33.17:408][833]LogAudio: Display: Waited 392.689209 ms for audio thread.
+[2024.07.19-18.33.17:444][833]LogAudio: Display: Waited 428.689911 ms for audio thread.
+[2024.07.19-18.33.17:480][833]LogAudio: Display: Waited 464.682709 ms for audio thread.
+[2024.07.19-18.33.17:515][833]LogAudio: Display: Waited 499.683289 ms for audio thread.
+[2024.07.19-18.33.17:550][833]LogAudio: Display: Waited 534.700256 ms for audio thread.
+[2024.07.19-18.33.17:586][833]LogAudio: Display: Waited 570.685181 ms for audio thread.
+[2024.07.19-18.33.17:621][833]LogAudio: Display: Waited 605.684875 ms for audio thread.
+[2024.07.19-18.33.17:656][833]LogAudio: Display: Waited 640.688171 ms for audio thread.
+[2024.07.19-18.33.17:691][833]LogAudio: Display: Waited 675.691406 ms for audio thread.
+[2024.07.19-18.33.17:727][833]LogAudio: Display: Waited 711.687927 ms for audio thread.
+[2024.07.19-18.33.17:763][833]LogAudio: Display: Waited 747.692566 ms for audio thread.
+[2024.07.19-18.33.17:799][833]LogAudio: Display: Waited 783.691589 ms for audio thread.
+[2024.07.19-18.33.17:834][833]LogAudio: Display: Waited 818.694092 ms for audio thread.
+[2024.07.19-18.33.17:870][833]LogAudio: Display: Waited 854.691101 ms for audio thread.
+[2024.07.19-18.33.17:906][833]LogAudio: Display: Waited 890.680664 ms for audio thread.
+[2024.07.19-18.33.17:941][833]LogAudio: Display: Waited 925.682495 ms for audio thread.
+[2024.07.19-18.33.17:956][833]LogAudio: Display: Waited 940.980042 ms for audio thread.
+[2024.07.19-18.33.17:958][834]LogAudioMixer: Resetting audio stream to device id 
+[2024.07.19-18.33.17:997][834]LogAudioMixer: Display: 0: FrontLeft
+[2024.07.19-18.33.17:997][834]LogAudioMixer: Display: 1: FrontRight
+[2024.07.19-18.33.17:997][834]LogAudio: Display: Waited 35.083000 ms for audio thread.
+[2024.07.19-18.33.18:032][834]LogAudio: Display: Waited 70.119095 ms for audio thread.
+[2024.07.19-18.33.18:068][834]LogAudio: Display: Waited 106.082405 ms for audio thread.
+[2024.07.19-18.33.18:094][834]LogAudio: Display: Waited 132.087006 ms for audio thread.
+[2024.07.20-04.29.09:128][704]LogAudioMixer: Warning: Audio device removed, falling back to other windows default device.
+[2024.07.20-04.29.09:165][705]LogAudioMixer: Resetting audio stream to device id 
+[2024.07.20-04.29.09:165][705]LogAudioMixer: Display: StartRunningNullDevice() called
+[2024.07.20-04.29.09:203][705]LogAudio: Display: Waited 35.119198 ms for audio thread.
+[2024.07.20-04.29.09:239][705]LogAudio: Display: Waited 70.832100 ms for audio thread.
+[2024.07.20-04.29.09:275][705]LogAudio: Display: Waited 106.836403 ms for audio thread.
+[2024.07.20-04.29.09:310][705]LogAudio: Display: Waited 141.834000 ms for audio thread.
+[2024.07.20-04.29.09:346][705]LogAudio: Display: Waited 177.836197 ms for audio thread.
+[2024.07.20-04.29.09:382][705]LogAudio: Display: Waited 213.833191 ms for audio thread.
+[2024.07.20-04.29.09:417][705]LogAudio: Display: Waited 248.839706 ms for audio thread.
+[2024.07.20-04.29.09:452][705]LogAudio: Display: Waited 283.835785 ms for audio thread.
+[2024.07.20-04.29.09:488][705]LogAudio: Display: Waited 319.827576 ms for audio thread.
+[2024.07.20-04.29.09:524][705]LogAudio: Display: Waited 355.827606 ms for audio thread.
+[2024.07.20-04.29.09:559][705]LogAudio: Display: Waited 390.838409 ms for audio thread.
+[2024.07.20-04.29.09:595][705]LogAudio: Display: Waited 426.829681 ms for audio thread.
+[2024.07.20-04.29.09:630][705]LogAudio: Display: Waited 461.833221 ms for audio thread.
+[2024.07.20-04.29.09:649][705]LogAudio: Display: Waited 481.422821 ms for audio thread.
+[2024.07.20-17.39.29:758][614]LogAudioMixer: Warning: Changing default audio render device to new device: {3.0.0.00000002}.{6C26BA7D-F0B2-4225-B422-8168C5261E45}.
+[2024.07.20-17.39.29:908][615]LogAudioMixer: Resetting audio stream to device id 
+[2024.07.20-17.39.29:908][615]LogAudioMixer: Display: StopRunningNullDevice() called
+[2024.07.20-17.39.29:908][615]LogAudioMixer: Display: 0: FrontLeft
+[2024.07.20-17.39.29:908][615]LogAudioMixer: Display: 1: FrontRight
+[2024.07.20-17.39.29:946][615]LogAudio: Display: Waited 35.002399 ms for audio thread.
+[2024.07.20-17.39.29:982][615]LogAudio: Display: Waited 71.013100 ms for audio thread.
+[2024.07.20-17.39.30:017][615]LogAudio: Display: Waited 106.022995 ms for audio thread.
+[2024.07.20-17.39.30:053][615]LogAudio: Display: Waited 142.003693 ms for audio thread.
+[2024.07.20-17.39.30:088][615]LogAudio: Display: Waited 177.009598 ms for audio thread.
+[2024.07.20-17.39.30:123][615]LogAudio: Display: Waited 212.004700 ms for audio thread.
+[2024.07.20-17.39.30:159][615]LogAudio: Display: Waited 248.002609 ms for audio thread.
+[2024.07.20-17.39.30:195][615]LogAudio: Display: Waited 284.002319 ms for audio thread.
+[2024.07.20-17.39.30:231][615]LogAudio: Display: Waited 320.003998 ms for audio thread.
+[2024.07.20-17.39.30:267][615]LogAudio: Display: Waited 356.002686 ms for audio thread.
+[2024.07.20-17.39.30:303][615]LogAudio: Display: Waited 392.006104 ms for audio thread.
+[2024.07.20-17.39.30:339][615]LogAudio: Display: Waited 428.003021 ms for audio thread.
+[2024.07.20-17.39.30:375][615]LogAudio: Display: Waited 463.995178 ms for audio thread.
+[2024.07.20-17.39.30:411][615]LogAudio: Display: Waited 499.994019 ms for audio thread.
+[2024.07.20-17.39.30:446][615]LogAudio: Display: Waited 534.999023 ms for audio thread.
+[2024.07.20-17.39.30:481][615]LogAudio: Display: Waited 570.002197 ms for audio thread.
+[2024.07.20-17.39.30:516][615]LogAudio: Display: Waited 605.004089 ms for audio thread.
+[2024.07.20-17.39.30:551][615]LogAudio: Display: Waited 640.002502 ms for audio thread.
+[2024.07.20-17.39.30:587][615]LogAudio: Display: Waited 675.998291 ms for audio thread.
+[2024.07.20-17.39.30:622][615]LogAudio: Display: Waited 711.002319 ms for audio thread.
+[2024.07.20-17.39.30:658][615]LogAudio: Display: Waited 747.000671 ms for audio thread.
+[2024.07.20-17.39.30:694][615]LogAudio: Display: Waited 783.008301 ms for audio thread.
+[2024.07.20-17.39.30:730][615]LogAudio: Display: Waited 819.011292 ms for audio thread.
+[2024.07.20-17.39.30:765][615]LogAudio: Display: Waited 854.018982 ms for audio thread.
+[2024.07.20-17.39.30:779][615]LogAudio: Display: Waited 868.709106 ms for audio thread.
+[2024.07.20-17.48.12:762][144]LogAudioMixer: Warning: Audio device removed, falling back to other windows default device.
+[2024.07.20-17.48.12:791][146]LogAudioMixer: Resetting audio stream to device id 
+[2024.07.20-17.48.12:791][146]LogAudioMixer: Display: StartRunningNullDevice() called
+[2024.07.20-17.48.24:418][700]LogAudioMixer: Warning: Changing default audio render device to new device: {3.0.0.00000002}.{6C26BA7D-F0B2-4225-B422-8168C5261E45}.
+[2024.07.20-17.48.24:435][701]LogAudioMixer: Resetting audio stream to device id 
+[2024.07.20-17.48.24:435][701]LogAudioMixer: Display: StopRunningNullDevice() called
+[2024.07.20-17.48.24:474][701]LogAudioMixer: Display: 0: FrontLeft
+[2024.07.20-17.48.24:474][701]LogAudioMixer: Display: 1: FrontRight
+[2024.07.20-17.48.24:474][701]LogAudio: Display: Waited 35.796299 ms for audio thread.
+[2024.07.20-17.48.24:510][701]LogAudio: Display: Waited 71.768799 ms for audio thread.
+[2024.07.20-17.48.24:546][701]LogAudio: Display: Waited 107.761299 ms for audio thread.
+[2024.07.20-17.48.24:581][701]LogAudio: Display: Waited 142.771301 ms for audio thread.
+[2024.07.20-17.48.24:617][701]LogAudio: Display: Waited 178.764404 ms for audio thread.
+[2024.07.20-17.48.24:652][701]LogAudio: Display: Waited 213.765793 ms for audio thread.
+[2024.07.20-17.48.24:688][701]LogAudio: Display: Waited 249.761200 ms for audio thread.
+[2024.07.20-17.48.24:723][701]LogAudio: Display: Waited 284.763397 ms for audio thread.
+[2024.07.20-17.48.24:758][701]LogAudio: Display: Waited 319.770813 ms for audio thread.
+[2024.07.20-17.48.24:794][701]LogAudio: Display: Waited 355.769989 ms for audio thread.
+[2024.07.20-17.48.24:829][701]LogAudio: Display: Waited 390.777100 ms for audio thread.
+[2024.07.20-17.48.24:833][701]LogAudio: Display: Waited 395.646698 ms for audio thread.
+[2024.07.20-18.01.01:099][310]LogAudio: Display: Waited 36.494801 ms for audio thread.
+[2024.07.20-18.01.01:126][310]LogAudio: Display: Waited 63.461700 ms for audio thread.
+[2024.07.20-18.01.01:403][357]LogAudio: Display: Waited 35.311302 ms for audio thread.
+[2024.07.20-18.01.01:412][357]LogAudio: Display: Waited 44.737400 ms for audio thread.
+[2024.07.20-18.01.01:535][364]LogAudio: Display: Waited 37.932899 ms for audio thread.
+[2024.07.20-18.01.01:539][364]LogAudio: Display: Waited 41.996899 ms for audio thread.
+[2024.07.21-03.41.04:609][944]LogAudioMixer: Warning: Audio device removed, falling back to other windows default device.
+[2024.07.21-03.41.04:630][945]LogAudioMixer: Resetting audio stream to device id 
+[2024.07.21-03.41.04:669][946]LogAudioMixer: Display: StartRunningNullDevice() called
+[2024.07.21-16.42.23:819][543]LogAudioMixer: Warning: Changing default audio render device to new device: {3.0.0.00000002}.{6C26BA7D-F0B2-4225-B422-8168C5261E45}.
+[2024.07.21-16.42.23:944][544]LogAudioMixer: Resetting audio stream to device id 
+[2024.07.21-16.42.23:944][544]LogAudioMixer: Display: StopRunningNullDevice() called
+[2024.07.21-16.42.23:944][544]LogAudioMixer: Display: 0: FrontLeft
+[2024.07.21-16.42.23:944][544]LogAudioMixer: Display: 1: FrontRight
+[2024.07.21-16.42.24:020][544]LogAudio: Display: Waited 35.115101 ms for audio thread.
+[2024.07.21-16.42.24:056][544]LogAudio: Display: Waited 71.116997 ms for audio thread.
+[2024.07.21-16.42.24:091][544]LogAudio: Display: Waited 106.119797 ms for audio thread.
+[2024.07.21-16.42.24:126][544]LogAudio: Display: Waited 141.118301 ms for audio thread.
+[2024.07.21-16.42.24:161][544]LogAudio: Display: Waited 176.122101 ms for audio thread.
+[2024.07.21-16.42.24:197][544]LogAudio: Display: Waited 212.120300 ms for audio thread.
+[2024.07.21-16.42.24:232][544]LogAudio: Display: Waited 247.118607 ms for audio thread.
+[2024.07.21-16.42.24:268][544]LogAudio: Display: Waited 283.114105 ms for audio thread.
+[2024.07.21-16.42.24:303][544]LogAudio: Display: Waited 318.116089 ms for audio thread.
+[2024.07.21-16.42.24:339][544]LogAudio: Display: Waited 354.115601 ms for audio thread.
+[2024.07.21-16.42.24:374][544]LogAudio: Display: Waited 389.118896 ms for audio thread.
+[2024.07.21-16.42.24:409][544]LogAudio: Display: Waited 424.141571 ms for audio thread.
+[2024.07.21-16.42.24:445][544]LogAudio: Display: Waited 460.121979 ms for audio thread.
+[2024.07.21-16.42.24:481][544]LogAudio: Display: Waited 496.130920 ms for audio thread.
+[2024.07.21-16.42.24:517][544]LogAudio: Display: Waited 532.118408 ms for audio thread.
+[2024.07.21-16.42.24:553][544]LogAudio: Display: Waited 568.113525 ms for audio thread.
+[2024.07.21-16.42.24:588][544]LogAudio: Display: Waited 603.137024 ms for audio thread.
+[2024.07.21-16.42.24:604][544]LogAudio: Display: Waited 619.531189 ms for audio thread.
+[2024.07.21-16.58.10:823][590]LogAudioMixer: Warning: Audio device removed, falling back to other windows default device.
+[2024.07.21-16.58.10:872][591]LogAudioMixer: Resetting audio stream to device id 
+[2024.07.21-16.58.10:888][592]LogAudioMixer: Display: StartRunningNullDevice() called
+[2024.07.21-16.58.24:005][582]LogAudioMixer: Warning: Changing default audio render device to new device: {3.0.0.00000002}.{6C26BA7D-F0B2-4225-B422-8168C5261E45}.
+[2024.07.21-16.58.24:025][583]LogAudioMixer: Resetting audio stream to device id 
+[2024.07.21-16.58.24:025][583]LogAudioMixer: Display: StopRunningNullDevice() called
+[2024.07.21-16.58.24:025][583]LogAudioMixer: Display: 0: FrontLeft
+[2024.07.21-16.58.24:025][583]LogAudioMixer: Display: 1: FrontRight
+[2024.07.21-16.58.24:064][583]LogAudio: Display: Waited 35.729301 ms for audio thread.
+[2024.07.21-16.58.24:100][583]LogAudio: Display: Waited 71.724098 ms for audio thread.
+[2024.07.21-16.58.24:135][583]LogAudio: Display: Waited 106.726997 ms for audio thread.
+[2024.07.21-16.58.24:171][583]LogAudio: Display: Waited 142.734711 ms for audio thread.
+[2024.07.21-16.58.24:206][583]LogAudio: Display: Waited 177.735001 ms for audio thread.
+[2024.07.21-16.58.24:242][583]LogAudio: Display: Waited 213.727905 ms for audio thread.
+[2024.07.21-16.58.24:277][583]LogAudio: Display: Waited 248.726288 ms for audio thread.
+[2024.07.21-16.58.24:313][583]LogAudio: Display: Waited 284.723785 ms for audio thread.
+[2024.07.21-16.58.24:348][583]LogAudio: Display: Waited 319.733704 ms for audio thread.
+[2024.07.21-16.58.24:384][583]LogAudio: Display: Waited 355.726501 ms for audio thread.
+[2024.07.21-16.58.24:414][583]LogAudio: Display: Waited 386.294006 ms for audio thread.
+[2024.07.22-02.22.14:481][776]LogActor: Warning: PhysXCar is outside the world bounds!
+[2024.07.22-02.42.54:852][ 34]LogAudioMixer: Warning: Audio device removed, falling back to other windows default device.
+[2024.07.22-02.42.54:902][ 35]LogAudioMixer: Resetting audio stream to device id 
+[2024.07.22-02.42.54:902][ 35]LogAudioMixer: Display: StartRunningNullDevice() called
+[2024.07.22-07.34.01:703][179]LogAudioMixer: Warning: Changing default audio render device to new device: {3.0.0.00000002}.{6C26BA7D-F0B2-4225-B422-8168C5261E45}.
+[2024.07.22-07.34.01:857][180]LogAudioMixer: Resetting audio stream to device id 
+[2024.07.22-07.34.01:857][180]LogAudioMixer: Display: StopRunningNullDevice() called
+[2024.07.22-07.34.01:857][180]LogAudioMixer: Display: 0: FrontLeft
+[2024.07.22-07.34.01:857][180]LogAudioMixer: Display: 1: FrontRight
+[2024.07.22-07.34.01:964][180]LogAudio: Display: Waited 70.474495 ms for audio thread.
+[2024.07.22-07.34.01:999][180]LogAudio: Display: Waited 105.489594 ms for audio thread.
+[2024.07.22-07.34.02:035][180]LogAudio: Display: Waited 141.482605 ms for audio thread.
+[2024.07.22-07.34.02:071][180]LogAudio: Display: Waited 177.486191 ms for audio thread.
+[2024.07.22-07.34.02:107][180]LogAudio: Display: Waited 213.479599 ms for audio thread.
+[2024.07.22-07.34.02:142][180]LogAudio: Display: Waited 248.476395 ms for audio thread.
+[2024.07.22-07.34.02:178][180]LogAudio: Display: Waited 284.476318 ms for audio thread.
+[2024.07.22-07.34.02:213][180]LogAudio: Display: Waited 319.477600 ms for audio thread.
+[2024.07.22-07.34.02:248][180]LogAudio: Display: Waited 354.483093 ms for audio thread.
+[2024.07.22-07.34.02:284][180]LogAudio: Display: Waited 390.476410 ms for audio thread.
+[2024.07.22-07.34.02:320][180]LogAudio: Display: Waited 426.485382 ms for audio thread.
+[2024.07.22-07.34.02:356][180]LogAudio: Display: Waited 462.481201 ms for audio thread.
+[2024.07.22-07.34.02:392][180]LogAudio: Display: Waited 498.473480 ms for audio thread.
+[2024.07.22-07.34.02:427][180]LogAudio: Display: Waited 533.478638 ms for audio thread.
+[2024.07.22-07.34.02:462][180]LogAudio: Display: Waited 568.484741 ms for audio thread.
+[2024.07.22-07.34.02:497][180]LogAudio: Display: Waited 603.490417 ms for audio thread.
+[2024.07.22-07.34.02:533][180]LogAudio: Display: Waited 639.480469 ms for audio thread.
+[2024.07.22-07.34.02:568][180]LogAudio: Display: Waited 674.481506 ms for audio thread.
+[2024.07.22-07.34.02:604][180]LogAudio: Display: Waited 710.481018 ms for audio thread.
+[2024.07.22-07.34.02:640][180]LogAudio: Display: Waited 746.473999 ms for audio thread.
+[2024.07.22-07.34.02:675][180]LogAudio: Display: Waited 781.478516 ms for audio thread.
+[2024.07.22-07.34.02:710][180]LogAudio: Display: Waited 816.479614 ms for audio thread.
+[2024.07.22-07.34.02:746][180]LogAudio: Display: Waited 852.478210 ms for audio thread.
+[2024.07.22-07.34.02:782][180]LogAudio: Display: Waited 888.479431 ms for audio thread.
+[2024.07.22-07.34.02:818][180]LogAudio: Display: Waited 924.482239 ms for audio thread.
+[2024.07.22-07.34.02:854][180]LogAudio: Display: Waited 960.476501 ms for audio thread.
+[2024.07.22-07.34.02:858][180]LogAudio: Display: Waited 964.932983 ms for audio thread.
+[2024.07.22-07.34.02:860][181]LogAudioMixer: Resetting audio stream to device id 
+[2024.07.22-07.34.02:931][181]LogAudioMixer: Display: 0: FrontLeft
+[2024.07.22-07.34.02:931][181]LogAudioMixer: Display: 1: FrontRight
+[2024.07.22-07.34.02:931][181]LogAudio: Display: Waited 69.261703 ms for audio thread.
+[2024.07.22-07.34.02:967][181]LogAudio: Display: Waited 105.260796 ms for audio thread.
+[2024.07.22-07.34.02:969][181]LogAudio: Display: Waited 107.365799 ms for audio thread.
